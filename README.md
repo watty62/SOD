@@ -6,14 +6,18 @@ The **S**cottish **O**pen **D**ata list
 ### Local Authorities
 
 ### Portals
-- [Angus Council](http://opendata.angus.gov.uk) 
-- [Clackmannanshire Council](http://gis.clacksweb.org.uk)
-- [Dundee City Council](https://data.dundeecity.gov.uk/dataset)
-- [Edinburgh City Council](https://edinburghopendata.info) 234
-- [Glasgow City Council](https://data.glasgow.gov.uk) - offline
-- [Highland Council](https://data.highland.gov.uk/dataset)
-- [Perth and Kinross Council](https://data.pkc.gov.uk/dataset)
-- [Stirling Council](https://data.stirling.gov.uk/dataset)
+
+| Council       | URL         | Datasets |
+| :------------- |:-------------| :-----:|
+| Angus Council | [http://opendata.angus.gov.uk](http://opendata.angus.gov.uk)  |  |
+| Clackmannanshire Council | [http://gis.clacksweb.org.uk](http://gis.clacksweb.org.uk) |  |
+| Dundee City Council |[https://data.dundeecity.gov.uk/dataset](https://data.dundeecity.gov.uk/dataset)|  |
+| Edinburgh City Council| [https://edinburghopendata.info](https://edinburghopendata.info)| 234|
+| Glasgow City Council | [https://data.glasgow.gov.uk](https://data.glasgow.gov.uk)| offline |
+| Highland Council |[https://data.highland.gov.uk/dataset](https://data.highland.gov.uk/dataset)| |
+| Perth and Kinross Council|[https://data.pkc.gov.uk/dataset](https://data.pkc.gov.uk/dataset) | |
+| Stirling Council | [https://data.stirling.gov.uk/dataset](https://data.stirling.gov.uk/dataset)| |
+
 
 
 #### Landing Pages 
