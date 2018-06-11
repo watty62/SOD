@@ -2,38 +2,42 @@
 The **S**cottish **O**pen **D**ata list
 
 ## Local Authorities
+| Key       | Definition        |
+| :------------- |:-------------| 
+|L|Linked Data|
+|O|Open Data|
 
 ### Portals
 
-| Council       | URL         | Datasets |
-| :------------- |:-------------| :-----:|
-| Angus Council | [http://opendata.angus.gov.uk](http://opendata.angus.gov.uk)  | 32 |
-| Clackmannanshire Council | [http://gis.clacksweb.org.uk](http://gis.clacksweb.org.uk) | 18 |
-| Dundee City Council |[https://data.dundeecity.gov.uk/dataset](https://data.dundeecity.gov.uk/dataset)| 48 |
-| Edinburgh City Council| [https://edinburghopendata.info](https://edinburghopendata.info)| 234|
-| Glasgow City Council | [https://data.glasgow.gov.uk](https://data.glasgow.gov.uk)| offline |
-| Highland Council |[https://data.highland.gov.uk/dataset](https://data.highland.gov.uk/dataset)| 0|
-| Perth and Kinross Council|[https://data.pkc.gov.uk/dataset](https://data.pkc.gov.uk/dataset) | 40|
-| Stirling Council | [https://data.stirling.gov.uk/dataset](https://data.stirling.gov.uk/dataset)| 3|
+| Council       | URL         | Datasets | Type |
+| :------------- |:-------------| :-----:|:------:|
+| Angus Council | [http://opendata.angus.gov.uk](http://opendata.angus.gov.uk)  | 32 | O|
+| Clackmannanshire Council | [http://gis.clacksweb.org.uk](http://gis.clacksweb.org.uk) | 18 |O|
+| Dundee City Council |[https://data.dundeecity.gov.uk/dataset](https://data.dundeecity.gov.uk/dataset)| 48|O|
+| Edinburgh City Council| [https://edinburghopendata.info](https://edinburghopendata.info)| 234|O|
+| Glasgow City Council | [https://data.glasgow.gov.uk](https://data.glasgow.gov.uk)| offline |O|
+| Highland Council |[https://data.highland.gov.uk/dataset](https://data.highland.gov.uk/dataset)| 0|O|
+| Perth and Kinross Council|[https://data.pkc.gov.uk/dataset](https://data.pkc.gov.uk/dataset) | 40|O|
+| Stirling Council | [https://data.stirling.gov.uk/dataset](https://data.stirling.gov.uk/dataset)| 3|O|
 
 
 
 ### Landing Pages 
-| Council       | URL         | Datasets |
-| :------------- |:-------------| :-----:|
-|Aberdeenshire Council|[https://www.aberdeenshire.gov.uk/online/open-data/](https://www.aberdeenshire.gov.uk/online/open-data/)||
-|East Ayrshire Council|[https://www.east-ayrshire.gov.uk/CouncilAndGovernment/About-the-Council/Information-and-statistics/Open-Data.aspx](https://www.east-ayrshire.gov.uk/CouncilAndGovernment/About-the-Council/Information-and-statistics/Open-Data.aspx)||
-|East Renfrewshire Council|[https://data.gov.uk/publisher/east-renfrewshire-council](https://data.gov.uk/publisher/east-renfrewshire-council)|5|
-|Moray Council|[http://www.moray.gov.uk/moray_standard/page_110140.html](http://www.moray.gov.uk/moray_standard/page_110140.html)|8|
-|North Lanarkshire Council|[https://data.gov.uk/search?q=%22North+Lanarkshire%22](https://data.gov.uk/search?q=%22North+Lanarkshire%22) |17|
-|Shetland Islands Council|[https://www.shetland.gov.uk/information-rights/OpenData.asp](https://www.shetland.gov.uk/information-rights/OpenData.asp)|4|
-|South Ayrshire Council|[https://www.south-ayrshire.gov.uk/opendata/](https://www.south-ayrshire.gov.uk/opendata/)|17|
+| Council       | URL         | Datasets |Type|
+| :------------- |:-------------| :-----:|:---:|
+|Aberdeenshire Council|[https://www.aberdeenshire.gov.uk/online/open-data/](https://www.aberdeenshire.gov.uk/online/open-data/)|19|O|
+|East Ayrshire Council|[https://www.east-ayrshire.gov.uk/CouncilAndGovernment/About-the-Council/Information-and-statistics/Open-Data.aspx](https://www.east-ayrshire.gov.uk/CouncilAndGovernment/About-the-Council/Information-and-statistics/Open-Data.aspx)|4|O|
+|East Renfrewshire Council|[https://data.gov.uk/publisher/east-renfrewshire-council](https://data.gov.uk/publisher/east-renfrewshire-council)|5|O|
+|Moray Council|[http://www.moray.gov.uk/moray_standard/page_110140.html](http://www.moray.gov.uk/moray_standard/page_110140.html)|8|O|
+|North Lanarkshire Council|[https://data.gov.uk/search?q=%22North+Lanarkshire%22](https://data.gov.uk/search?q=%22North+Lanarkshire%22) |17|O|
+|Shetland Islands Council|[https://www.shetland.gov.uk/information-rights/OpenData.asp](https://www.shetland.gov.uk/information-rights/OpenData.asp)|4|O|
+|South Ayrshire Council|[https://www.south-ayrshire.gov.uk/opendata/](https://www.south-ayrshire.gov.uk/opendata/)|17|O|
 
 ### Using GIS only
-| Council       | URL         | Datasets |
-| :------------- |:-------------| :-----:|
-|Argyll and Bute Council|[https://data-argyll-bute.opendata.arcgis.com/](https://data-argyll-bute.opendata.arcgis.com/) |31|
-|North Ayrshire Council|[https://maps-north-ayrshire.opendata.arcgis.com](https://maps-north-ayrshire.opendata.arcgis.com)|75|
+| Council       | URL         | Datasets |Type|
+| :------------- |:-------------| :-----:|:----|
+|Argyll and Bute Council|[https://data-argyll-bute.opendata.arcgis.com/](https://data-argyll-bute.opendata.arcgis.com/) |31|O|
+|North Ayrshire Council|[https://maps-north-ayrshire.opendata.arcgis.com](https://maps-north-ayrshire.opendata.arcgis.com)|75|O|
 
 ### None of the above
 
@@ -55,8 +59,10 @@ The **S**cottish **O**pen **D**ata list
 
 
 ## Government Agencies Portals
-[Marine Scotland](https://data.marine.gov.scot)
-[Scottish Environmental Protection Agency](http://data.sepa.org.uk) - (L)
+| Agency      | URL         | Datasets |Type|
+| :------------- |:-------------| :-----:|:---:|
+|Marine Scotland|[https://data.marine.gov.scot](https://data.marine.gov.scot)||O|
+|Scottish Environmental Protection Agency|[http://data.sepa.org.uk](http://data.sepa.org.uk)||L|
 
 ## Scottish Government 
 - Scottish Indices of Multiple Deprivation 
