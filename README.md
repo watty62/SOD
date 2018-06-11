@@ -1,12 +1,20 @@
 # Scottish Open Data List
 
-## Local Authorities
+A list of open data resources in the Scottish public sector. 
+
+Data is broken into two types - open data, and linked open data.
+
 | Key     | Definition |
 | :------ |:-----------| 
 |L|Linked Data|
 |O|Open Data|
 
-### Portals
+## Local Authorities
+Data provided by the 32 Local Authorities. The data provision falls into three formats: portal, landing page and GIS-only data. 
+
+### Open Data Portals
+
+The following councils have open data portals - most, if not all, CKAN. 
 
 | Council       | URL         | Datasets | Type |
 | :------------- |:-------------| :-----:|:------:|
@@ -20,8 +28,9 @@
 | Stirling Council | [https://data.stirling.gov.uk/dataset](https://data.stirling.gov.uk/dataset)| 3|O|
 
 
-
 ### Landing Pages 
+The following councils have open lasnding pages as part of their websites. 
+
 | Council       | URL         | Datasets |Type|
 | :------------- |:-------------| :-----:|:---:|
 |Aberdeenshire Council|[https://www.aberdeenshire.gov.uk/online/open-data/](https://www.aberdeenshire.gov.uk/online/open-data/)|19|O|
@@ -33,12 +42,14 @@
 |South Ayrshire Council|[https://www.south-ayrshire.gov.uk/opendata/](https://www.south-ayrshire.gov.uk/opendata/)|17|O|
 
 ### Using GIS only
+These councils only expose geographical open data using their GIS systems. 
 | Council       | URL         | Datasets |Type|
 | :------------- |:-------------| :-----:|:----|
 |Argyll and Bute Council|[https://data-argyll-bute.opendata.arcgis.com/](https://data-argyll-bute.opendata.arcgis.com/) |31|O|
 |North Ayrshire Council|[https://maps-north-ayrshire.opendata.arcgis.com](https://maps-north-ayrshire.opendata.arcgis.com)|75|O|
 
 ### None of the above
+The following authorities have no open data provision that I can find. 
 
 - Aberdeen City Council
 - Dumfries and Galloway Council
@@ -56,15 +67,31 @@
 - Western Isles Council (Comhairle nan Eilean Siar)
 - West Lothian Council
 
-
-## Government Agencies Portals
-| Agency      | URL         | Datasets |Type|
-| :------------- |:-------------| :-----:|:---:|
-|Marine Scotland|[https://data.marine.gov.scot](https://data.marine.gov.scot)|276|O|
-|Scottish Environmental Protection Agency|[http://data.sepa.org.uk](http://data.sepa.org.uk)|Unknown|L|
+The sections below list open data provision by the Scottish Government and its agencies. 
 
 ## Scottish Government 
 - Scottish Indices of Multiple Deprivation 
  - [map](http://simd.scot/2016/#/simd2016/BTTTFTT/9/-4.0000/55.9000/)
 - [Scottish Government Statistics](http://statistics.gov.scot/home?_ga=2.257996684.769017547.1528731593-1239213985.1463907445)
  - [Spatial Hub](http://www.spatialhub.scot/get-data/) - 3
+
+### Government Agencies Portals
+
+| Agency      | URL         | Datasets |Type|
+| :------------- |:-------------| :-----:|:---:|
+|Marine Scotland|[https://data.marine.gov.scot](https://data.marine.gov.scot)|276|O|
+|Scottish Environmental Protection Agency|[http://data.sepa.org.uk](http://data.sepa.org.uk)|Unknown|L|
+
+---
+## Background
+I create this to support a series of [blog posts](https://codethecity.co.uk/category/open-data/) I am creating about open data in Scotland. 
+---
+## Errors and Ommissions
+If you spot an error - or missing data - please fork this repo and submit a pull request. 
+
+Alternatively email me [ian_at_codethecity_dot_co_uk](mailto:ian@codethecity.co.uk) with an update. 
+
+--- 
+
+Ian Watt
+11 June 2018
