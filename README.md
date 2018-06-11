@@ -1,46 +1,62 @@
 # SOD
 The **S**cottish **O**pen **D**ata list
 
-## Open Data Portals
+## Open Data
 
 ### Local Authorities
 
-- Aberdeen City Council
-- Aberdeenshire Council
-- Angus Council
-- Argyll and Bute Council
+### Portals
+- [Angus Council](http://opendata.angus.gov.uk) 
 - [Clackmannanshire Council](http://gis.clacksweb.org.uk)
-- Dumfries and Galloway Council
 - [Dundee City Council](https://data.dundeecity.gov.uk/dataset)
-- East Ayrshire Council
+- [Edinburgh City Council](https://edinburghopendata.info) 234
+- [Glasgow City Council](https://data.glasgow.gov.uk) - offline
+- [Highland Council](https://data.highland.gov.uk/dataset)
+- [Perth and Kinross Council](https://data.pkc.gov.uk/dataset)
+- [Stirling Council](https://data.stirling.gov.uk/dataset)
+
+
+#### Landing Pages 
+- [Aberdeenshire Council](https://www.aberdeenshire.gov.uk/online/open-data/)
+- [East Ayrshire Council](https://www.east-ayrshire.gov.uk/CouncilAndGovernment/About-the-Council/Information-and-statistics/Open-Data.aspx)
+- [East Renfrewshire Council](https://data.gov.uk/publisher/east-renfrewshire-council) - 5
+- [Moray Council](http://www.moray.gov.uk/moray_standard/page_110140.html) - 8
+- [North Lanarkshire Council](https://data.gov.uk/search?q=%22North+Lanarkshire%22) - 17
+- [Shetland Islands Council](https://www.shetland.gov.uk/information-rights/OpenData.asp) - 4
+- [South Ayrshire Council](https://www.south-ayrshire.gov.uk/opendata/) - 17
+
+#### Using GIS only
+- [Argyll and Bute Council](https://data-argyll-bute.opendata.arcgis.com/) 31
+- [North Ayrshire Council](https://maps-north-ayrshire.opendata.arcgis.com) - 75
+
+#### None of the above
+
+- Aberdeen City Council
+- Dumfries and Galloway Council
 - East Dunbartonshire Council
 - East Lothian Council
-- East Renfrewshire Council
-- Edinburgh City Council
 - Falkirk Council
 - Fife Council
-- Glasgow City Council
-- [Highland Council](https://data.highland.gov.uk/dataset)
 - Inverclyde Council
 - Midlothian Council
-- Moray Council
-- North Ayrshire Council
-- North Lanarkshire Council
 - Orkney Islands Council
-- [Perth and Kinross Council](https://data.pkc.gov.uk/dataset)
 - Renfrewshire Council
 - Scottish Borders Council
-- Shetland Islands Council
-- South Ayrshire Council
 - South Lanarkshire Council
-- [Stirling Council](https://data.stirling.gov.uk/dataset)
 - West Dunbartonshire Council
 - Western Isles Council (Comhairle nan Eilean Siar)
 - West Lothian Council
 
 
 ## Government Agencies Portals
-Marine Scotland 
+[Marine Scotland](https://data.marine.gov.scot)
+[Scottish Environmental Protection Agency](http://data.sepa.org.uk) - (L)
 
 ## Scottish Government 
+- Scottish Indices of Multiple Deprivation 
+ - [map](http://simd.scot/2016/#/simd2016/BTTTFTT/9/-4.0000/55.9000/)
+- [Scottish Government Statistics](http://statistics.gov.scot/home?_ga=2.257996684.769017547.1528731593-1239213985.1463907445)
+ - [Spatial Hub](http://www.spatialhub.scot/get-data/) - 3
 
+Key
+L = Linked Data
