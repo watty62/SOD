@@ -1,5 +1,5 @@
 # SOD
-The __S__cottish __O__pen __D__ata list
+The **S**cottish **O**pen **D**ata list
 
 ## Open Data Portals
 
@@ -9,7 +9,7 @@ The __S__cottish __O__pen __D__ata list
 - Aberdeenshire Council
 - Angus Council
 - Argyll and Bute Council
-- Clackmannanshire Council
+- [Clackmannanshire Council](http://gis.clacksweb.org.uk)
 - Dumfries and Galloway Council
 - [Dundee City Council](https://data.dundeecity.gov.uk/dataset)
 - East Ayrshire Council
