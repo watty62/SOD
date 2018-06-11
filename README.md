@@ -6,7 +6,7 @@ Data is broken into two types - open data, and linked open data.
 
 | Key     | Definition |
 | :------ |:-----------| 
-|L|Linked Data|
+|L|Linked Open Data|
 |O|Open Data|
 
 ## Local Authorities
@@ -29,6 +29,7 @@ The following councils have open data portals - most, if not all, CKAN.
 
 
 ### Landing Pages 
+
 The following councils have open lasnding pages as part of their websites. 
 
 | Council       | URL         | Datasets |Type|
@@ -42,7 +43,9 @@ The following councils have open lasnding pages as part of their websites.
 |South Ayrshire Council|[https://www.south-ayrshire.gov.uk/opendata/](https://www.south-ayrshire.gov.uk/opendata/)|17|O|
 
 ### Using GIS only
+
 These councils only expose geographical open data using their GIS systems. 
+
 | Council       | URL         | Datasets |Type|
 | :------------- |:-------------| :-----:|:----|
 |Argyll and Bute Council|[https://data-argyll-bute.opendata.arcgis.com/](https://data-argyll-bute.opendata.arcgis.com/) |31|O|
