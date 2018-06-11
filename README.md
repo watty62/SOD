@@ -1,5 +1,4 @@
-# SOD
-The **S**cottish **O**pen **D**ata list
+# Scottish Open Data List
 
 ## Local Authorities
 | Key     | Definition |
