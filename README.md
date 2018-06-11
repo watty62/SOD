@@ -2,8 +2,8 @@
 The **S**cottish **O**pen **D**ata list
 
 ## Local Authorities
-| Key       | Definition        |
-| :------------- |:-------------| 
+| Key     | Definition |
+| :------ |:-----------| 
 |L|Linked Data|
 |O|Open Data|
 
@@ -61,14 +61,11 @@ The **S**cottish **O**pen **D**ata list
 ## Government Agencies Portals
 | Agency      | URL         | Datasets |Type|
 | :------------- |:-------------| :-----:|:---:|
-|Marine Scotland|[https://data.marine.gov.scot](https://data.marine.gov.scot)||O|
-|Scottish Environmental Protection Agency|[http://data.sepa.org.uk](http://data.sepa.org.uk)||L|
+|Marine Scotland|[https://data.marine.gov.scot](https://data.marine.gov.scot)|276|O|
+|Scottish Environmental Protection Agency|[http://data.sepa.org.uk](http://data.sepa.org.uk)|Unknown|L|
 
 ## Scottish Government 
 - Scottish Indices of Multiple Deprivation 
  - [map](http://simd.scot/2016/#/simd2016/BTTTFTT/9/-4.0000/55.9000/)
 - [Scottish Government Statistics](http://statistics.gov.scot/home?_ga=2.257996684.769017547.1528731593-1239213985.1463907445)
  - [Spatial Hub](http://www.spatialhub.scot/get-data/) - 3
-
-Key
-L = Linked Data
