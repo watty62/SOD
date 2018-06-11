@@ -87,7 +87,9 @@ The sections below list open data provision by the Scottish Government and its a
 
 ---
 ## Background
-I create this to support a series of [blog posts](https://codethecity.co.uk/category/open-data/) I am creating about open data in Scotland. 
+
+I created this to support a series of [blog posts](https://codethecity.co.uk/category/open-data/) I am creating about open data in Scotland. 
+
 ---
 ## Errors and Ommissions
 If you spot an error - or missing data - please fork this repo and submit a pull request. 
