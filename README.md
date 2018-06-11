@@ -21,13 +21,15 @@ The **S**cottish **O**pen **D**ata list
 
 
 #### Landing Pages 
-- [Aberdeenshire Council](https://www.aberdeenshire.gov.uk/online/open-data/)
-- [East Ayrshire Council](https://www.east-ayrshire.gov.uk/CouncilAndGovernment/About-the-Council/Information-and-statistics/Open-Data.aspx)
-- [East Renfrewshire Council](https://data.gov.uk/publisher/east-renfrewshire-council) - 5
-- [Moray Council](http://www.moray.gov.uk/moray_standard/page_110140.html) - 8
-- [North Lanarkshire Council](https://data.gov.uk/search?q=%22North+Lanarkshire%22) - 17
-- [Shetland Islands Council](https://www.shetland.gov.uk/information-rights/OpenData.asp) - 4
-- [South Ayrshire Council](https://www.south-ayrshire.gov.uk/opendata/) - 17
+| Council       | URL         | Datasets |
+| :------------- |:-------------| :-----:|
+|Aberdeenshire Council|[https://www.aberdeenshire.gov.uk/online/open-data/](https://www.aberdeenshire.gov.uk/online/open-data/)||
+|East Ayrshire Council|[https://www.east-ayrshire.gov.uk/CouncilAndGovernment/About-the-Council/Information-and-statistics/Open-Data.aspx](https://www.east-ayrshire.gov.uk/CouncilAndGovernment/About-the-Council/Information-and-statistics/Open-Data.aspx)||
+|East Renfrewshire Council|[https://data.gov.uk/publisher/east-renfrewshire-council](https://data.gov.uk/publisher/east-renfrewshire-council)|5|
+|Moray Council|[http://www.moray.gov.uk/moray_standard/page_110140.html](http://www.moray.gov.uk/moray_standard/page_110140.html)|8|
+|North Lanarkshire Council|[https://data.gov.uk/search?q=%22North+Lanarkshire%22](https://data.gov.uk/search?q=%22North+Lanarkshire%22) |17|
+|Shetland Islands Council|[https://www.shetland.gov.uk/information-rights/OpenData.asp](https://www.shetland.gov.uk/information-rights/OpenData.asp)|4|
+|South Ayrshire Council|[https://www.south-ayrshire.gov.uk/opendata/](https://www.south-ayrshire.gov.uk/opendata/)|17|
 
 #### Using GIS only
 - [Argyll and Bute Council](https://data-argyll-bute.opendata.arcgis.com/) 31
