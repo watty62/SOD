@@ -70,9 +70,12 @@ The following authorities have no open data provision that I can find.
 - Western Isles Council (Comhairle nan Eilean Siar)
 - West Lothian Council
 
-The sections below list open data provision by the Scottish Government and its agencies. 
+--- 
 
-## Scottish Government 
+The sections below list open data provision by the Scottish Government and its agencies. Locating data is not helped by the antiquated Scottish Government website. Searching tends to throw up policy pages rather than data. Thankfully they are testing a beta version website. While that looks much better it breaks many of the links. 
+
+## Scottish Government / Directorates / Agencies
+ - [The Scottish Spatial Data Infrastructure](http://spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/home)
 - Scottish Indices of Multiple Deprivation 
  - [map](http://simd.scot/2016/#/simd2016/BTTTFTT/9/-4.0000/55.9000/)
 - [Scottish Government Statistics](http://statistics.gov.scot/home?_ga=2.257996684.769017547.1528731593-1239213985.1463907445)
@@ -80,7 +83,7 @@ The sections below list open data provision by the Scottish Government and its a
 
 ### Government Agencies Portals
 
-| Agency      | URL         | Datasets |Type|
+| Directorate / Agency      | URL         | Datasets |Type|
 | :------------- |:-------------| :-----:|:---:|
 |Marine Scotland|[https://data.marine.gov.scot](https://data.marine.gov.scot)|276|O|
 |Scottish Environmental Protection Agency|[http://data.sepa.org.uk](http://data.sepa.org.uk)|Unknown|L|
