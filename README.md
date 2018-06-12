@@ -6,6 +6,7 @@ Data is broken into two types - open data, and linked open data.
 
 | Key     | Definition |
 | :------ |:-----------| 
+|A|API|
 |L|Linked Open Data|
 |O|Open Data|
 
@@ -89,6 +90,15 @@ The sections below list open data provision by the Scottish Government and its a
 |Scottish Environmental Protection Agency|[http://data.sepa.org.uk](http://data.sepa.org.uk)|Unknown|L|
 
 ---
+
+## Others of note
+
+This is a great piece of work by ALISS supported by [Rory Giani](http://twitter.com/digitalwestie):
+
+| Organisation      | URL       | Type |
+| :------------- |:-------------|:------:|
+|ALISS| [http://docs.aliss.org](http://docs.aliss.org) |A|
+
 ## Background
 
 I created this to support a series of [blog posts](https://codethecity.co.uk/category/open-data/) I am creating about open data in Scotland. 
