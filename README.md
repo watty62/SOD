@@ -91,8 +91,8 @@ The sections below list open data provision by the Scottish Government and its a
 |Marine Scotland Information|[http://marine.gov.scot](http://marine.gov.scot)|300*|O|
 |Scottish Environmental Protection Agency|[http://data.sepa.org.uk](http://data.sepa.org.uk)|Unknown|L|
 
----
 *) 300 information pages available as web page, rss, or xml (with linkages to other Marine Scotland plantforms)
+---
 
 ## Others of note
 
