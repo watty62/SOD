@@ -88,11 +88,19 @@ The sections below list open data provision by the Scottish Government and its a
 | :------------- |:-------------| :-----:|:---:|
 |Marine Scotland Data|[https://data.marine.gov.scot](https://data.marine.gov.scot)|276|OA|
 |Marine Scotland Maps|[http://maps.marine.gov.scot](http://data.marine.gov.scot)|1,000|(O)|
-|Marine Scotland Information|[http://marine.gov.scot](http://marine.gov.scot)|300*|O|
+|Marine Scotland Information|[http://marine.gov.scot](http://marine.gov.scot)|300$|O|
 |Scottish Environmental Protection Agency|[http://data.sepa.org.uk](http://data.sepa.org.uk)|Unknown|L|
 
-*) 300 information pages available as web page, rss, or xml (with linkages to other Marine Scotland plantforms)
----
+$ - 300 information pages available as web page, rss, or xml (with linkages to other Marine Scotland platforms)
+
+--- 
+
+NHS Scotland
+| Organisation      | URL       | Datasets| Type |
+| :------------- |:-------------|:------:|:------:|
+|NHS Scotland| [https://www.opendata.nhs.scot/](https://www.opendata.nhs.scot/) |20|O|
+
+--- 
 
 ## Others of note
 
