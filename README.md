@@ -82,13 +82,16 @@ The sections below list open data provision by the Scottish Government and its a
 - [Scottish Government Statistics](http://statistics.gov.scot/home?_ga=2.257996684.769017547.1528731593-1239213985.1463907445)
  - [Spatial Hub](http://www.spatialhub.scot/get-data/) - 3
 
-### Government Agencies Portals
+### Government & Agencies Portals
 
 | Directorate / Agency      | URL         | Datasets |Type|
 | :------------- |:-------------| :-----:|:---:|
-|Marine Scotland|[https://data.marine.gov.scot](https://data.marine.gov.scot)|276|O|
+|Marine Scotland Data|[https://data.marine.gov.scot](https://data.marine.gov.scot)|276|OA|
+|Marine Scotland Maps|[http://maps.marine.gov.scot](http://data.marine.gov.scot)|1,000|(O)|
+|Marine Scotland Information|[http://marine.gov.scot](http://marine.gov.scot)|300*|O|
 |Scottish Environmental Protection Agency|[http://data.sepa.org.uk](http://data.sepa.org.uk)|Unknown|L|
 
+*) 300 information pages available as web page, rss, or xml (with linkages to other Marine Scotland plantforms)
 ---
 
 ## Others of note
