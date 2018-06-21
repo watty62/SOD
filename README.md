@@ -49,13 +49,14 @@ These councils only expose geographical open data using their GIS systems.
 
 | Council       | URL         | Datasets |Type|
 | :------------- |:-------------| :-----:|:----|
+|Aberdeen City Council|[https://spatialdata-accabdn.opendata.arcgis.com/datasets](https://spatialdata-accabdn.opendata.arcgis.com/datasets)|4|O|
 |Argyll and Bute Council|[https://data-argyll-bute.opendata.arcgis.com/](https://data-argyll-bute.opendata.arcgis.com/) |31|O|
 |North Ayrshire Council|[https://maps-north-ayrshire.opendata.arcgis.com](https://maps-north-ayrshire.opendata.arcgis.com)|75|O|
+
 
 ### None of the above
 The following authorities have no open data provision that I can find. 
 
-- Aberdeen City Council
 - Dumfries and Galloway Council
 - East Dunbartonshire Council
 - East Lothian Council
@@ -77,10 +78,9 @@ The sections below list open data provision by the Scottish Government and its a
 
 ## Scottish Government / Directorates / Agencies
  - [The Scottish Spatial Data Infrastructure](http://spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/home)
-- Scottish Indices of Multiple Deprivation 
- - [map](http://simd.scot/2016/#/simd2016/BTTTFTT/9/-4.0000/55.9000/)
+- Scottish Indices of Multiple Deprivation: [map](http://simd.scot/2016/#/simd2016/BTTTFTT/9/-4.0000/55.9000/)
 - [Scottish Government Statistics](http://statistics.gov.scot/home?_ga=2.257996684.769017547.1528731593-1239213985.1463907445)
- - [Spatial Hub](http://www.spatialhub.scot/get-data/) - 3
+ - [Spatial Hub](http://www.spatialhub.scot/get-data/) - 3 datasets open
 
 ### Government & Agencies Portals
 
@@ -95,7 +95,8 @@ $ - 300 information pages available as web page, rss, or xml (with linkages to o
 
 --- 
 
-NHS Scotland
+### NHS Scotland  
+
 | Organisation      | URL       | Datasets| Type |
 | :------------- |:-------------|:------:|:------:|
 |NHS Scotland| [https://www.opendata.nhs.scot/](https://www.opendata.nhs.scot/) |20|O|
