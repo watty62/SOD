@@ -10,6 +10,8 @@ Data is broken into two types - open data, and linked open data.
 |L|Linked Open Data|
 |O|Open Data|
 
+---
+
 ## Local Authorities
 Data provided by the 32 Local Authorities. The data provision falls into three formats: portal, landing page and GIS-only data. 
 
