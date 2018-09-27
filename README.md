@@ -21,14 +21,14 @@ The following councils have open data portals - most, if not all, CKAN.
 
 | Council       | URL         | Datasets | Type |
 | :------------- |:-------------| :-----:|:------:|
-| Angus Council | [http://opendata.angus.gov.uk](http://opendata.angus.gov.uk)  | 32 | O|
+| Angus Council | [http://opendata.angus.gov.uk](http://opendata.angus.gov.uk)  | 34 | O|
 | Clackmannanshire Council | [http://gis.clacksweb.org.uk](http://gis.clacksweb.org.uk) | 18 |O|
-| Dundee City Council |[https://data.dundeecity.gov.uk/dataset](https://data.dundeecity.gov.uk/dataset)| 48|O|
+| Dundee City Council |[https://data.dundeecity.gov.uk/dataset](https://data.dundeecity.gov.uk/dataset)| 51|O|
 | Edinburgh City Council| [https://edinburghopendata.info](https://edinburghopendata.info)| 234|O|
-| Glasgow City Council | [https://data.glasgow.gov.uk](https://data.glasgow.gov.uk)| offline |O|
+| Glasgow City Council | [https://data.glasgow.gov.uk](https://data.glasgow.gov.uk)| 77 |O|
 | Highland Council |[https://data.highland.gov.uk/dataset](https://data.highland.gov.uk/dataset)| 0|O|
-| Perth and Kinross Council|[https://data.pkc.gov.uk/dataset](https://data.pkc.gov.uk/dataset) | 40|O|
-| Stirling Council | [https://data.stirling.gov.uk/dataset](https://data.stirling.gov.uk/dataset)| 3|O|
+| Perth and Kinross Council|[https://data.pkc.gov.uk/dataset](https://data.pkc.gov.uk/dataset) | 41|O|
+| Stirling Council | [https://data.stirling.gov.uk/dataset](https://data.stirling.gov.uk/dataset)| 9|O|
 
 
 ### Landing Pages 
@@ -126,4 +126,4 @@ Alternatively email me [ian_at_codethecity_dot_co_uk](mailto:ian@codethecity.co.
 --- 
 
 Ian Watt  
-Latest update 21 June 2018
+Latest update 27 September 2018
