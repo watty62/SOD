@@ -95,8 +95,55 @@ The sections below list open data provision by the Scottish Government and its a
 - [Scottish Government Statistics](http://statistics.gov.scot/home?_ga=2.257996684.769017547.1528731593-1239213985.1463907445)
  - [Spatial Hub](http://www.spatialhub.scot/get-data/) - 4 datasets open
 
-### Government & Agencies Portals
+### Scottish Government Directorates
+According to [Wikipedia](https://en.wikipedia.org/wiki/Directorates_of_the_Scottish_Government) there are thirty-three directorates of the Scottish Government. These are listed below. So far it appears that few produce open data.
 
+#### Scottish Exchequer Directorates
+- Financial Strategy
+- Internal Audit
+
+#### Education, Communities and Justice Directorates
+- Advanced Learning and Science
+- Housing and Social Justice
+- Justice
+- Learning
+- Local Government and Communities
+- Safer Communities
+
+#### Health and Social Care Directorates
+- Chief Medical Officer
+- Chief Nursing Officer
+- Children and Families
+- Health and Social Care Integration
+- Healthcare Quality and Improvement
+- Health Finance
+- Health Performance and Delivery
+- Health Workforce & Strategic Change
+- Population Health
+
+#### Economy Directorates
+- Agriculture and Rural Economy
+- Culture, Tourism and Major Events
+- Economic Development
+- Energy & Climate Change
+- Environment & Forestry
+- Fair Work, Employability & Skills
+- Marine Scotland (including Aquaculture, Freshwater Fisheries & Licensing Policy, Performance, Science, Planning & Policy, Compliance and Sea Fisheries Policy)
+
+#### Organisational Development and Operations Directorates
+- Communications and Ministerial Support
+- Digital
+- Financial Management
+- People
+- Scottish Procurement and Commercial
+
+#### Constitution and External Affairs Directorates
+- External Affairs
+- Legal Services (Solicitor to the Scottish Government)
+- Parliamentary Counsel
+- Strategy and Constitution
+
+So far I have identified these as publishing Open Data
 | Directorate / Agency      | URL         | Datasets |Type|
 | :------------- |:-------------| :-----:|:---:|
 |Marine Scotland Data|[https://data.marine.gov.scot](https://data.marine.gov.scot)|276|OA|
@@ -106,9 +153,25 @@ The sections below list open data provision by the Scottish Government and its a
 
 $ - 300 information pages available as web page, rss, or xml (with linkages to other Marine Scotland platforms)
 
+--- 
+### Scottish Government Executive Agencies
+[Wikipedia]()lists nine executive agencies.
+
+- Accountant in Bankruptcy
+- Disclosure Scotland
+- Education Scotland
+- Historic Environment Scotland
+- Scottish Prison Service
+- Scottish Public Pensions Agency
+- Social Security Scotland
+- Student Awards Agency for Scotland
+- Transport Scotland
+
+---
+
 According to [Wikipedia](https://en.wikipedia.org/wiki/Public_bodies_of_the_Scottish_Government), the Scottish Government is reponsible for the following 92 Non Departmental Public Bodies, each of whom should be producing open data. 
 
-#### Non-ministerial government departments
+#### Scottish Government non-ministerial government departments
 - Food Standards Scotland
 - National Records of Scotland
 - Office of the Scottish Charity Regulator
