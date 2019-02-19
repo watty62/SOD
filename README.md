@@ -8,7 +8,7 @@ The main changes to highlight are:
 - The [Spatial Hub](http://www.spatialhub.scot/get-data/) now have four sets of open data including Council Boundaries which is welcome. But it does have the most annoying, repetitive, and redundant pop-up known to man! 
 - The [KnowFife](https://knowfife.fife.gov.uk/) statistical website is growing, but the licensing needs to be much clearer for individual data sets. 
 - Clackmananshire's CKAN instance which oddly [lives under a GIS subdomain of another domain](http://gis.clacksweb.org.uk), is no longer refrenced from their main website, making it almost impossible to find.
-
+- We have added the UDDC data from Glasgow University and Edina from Edinburgh
 
 ## The Data
 
@@ -339,7 +339,11 @@ Here is a list of the fifteen Universities in Scotland.
 - University of Highland and Islands
 - University of West of Scotland
 
-
+So far, we have identified the following data published by two universities. 
+| Organisation      | URL       | Datasets| Type |
+| :------------- |:-------------|:------:|:------:|
+|Edinburgh Uni| [URL](https://datashare.is.ed.ac.uk/handle/10283/2345) |255|O|
+|UBDC (Glasgow Uni)|[URL](http://ubdc.gla.ac.uk/dataset)|1027| 0|
 
 
 #### Further Education colleges in Scotland
