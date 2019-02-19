@@ -321,7 +321,50 @@ There are 32 Health and Social Care Partnerships in Scotland.
 - West Dunbartonshire HSCP
 
 ### Scottish Universities and Colleges
-to be added 
+Here is a list of the fifteen Universities in Scotland.
+
+- Aberdeen
+- Abertay
+- Dundee
+- Edinburgh
+- Glasgow
+- Glasgow Caledonian
+- Heriot-Watt
+- Napier
+- Queen Margaret
+- Robert Gordon Uni
+- St Andrews
+- Stirling
+- Strathclyde
+- University of Highland and Islands
+- University of West of Scotland
+
+
+
+
+#### Further Education colleges in Scotland
+There are twenty FE colleges in Scotland
+
+- Ayrshire College
+- Borders College	
+- City of Glasgow College	
+- Dumfries and Galloway College
+- Dundee and Angus College
+- Edinburgh College
+- Fife College
+- Forth Valley College
+- Glasgow Clyde College
+- Glasgow Kelvin College
+- Glasgow School of Art
+- Leith School of Art
+- New College Lanarkshire	
+- Newbattle Abbey College	
+- North East Scotland College
+- Royal Conservatoire of Scotland
+- Scotland's Rural College (SRUC)	
+- South Lanarkshire College
+- West College Scotland
+- West Lothian College
 
 ## Others of note
 
