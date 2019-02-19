@@ -170,7 +170,7 @@ $ - 300 information pages available as web page, rss, or xml (with linkages to o
 
 ---
 
-According to [Wikipedia](https://en.wikipedia.org/wiki/Public_bodies_of_the_Scottish_Government), the Scottish Government is reponsible for the following 92 Non Departmental Public Bodies, each of whom should be producing open data. 
+According to [Wikipedia](https://en.wikipedia.org/wiki/Public_bodies_of_the_Scottish_Government), the Scottish Government is reponsible for the following 92 Non Departmental Public Bodies, each of whom should be producing open data according to the Scottish Government's Open Data. 
 
 #### Scottish Government non-ministerial government departments
 - Food Standards Scotland
@@ -181,6 +181,8 @@ According to [Wikipedia](https://en.wikipedia.org/wiki/Public_bodies_of_the_Scot
 - Scottish Courts and Tribunals Service
 - Scottish Fiscal Commission
 - Scottish Housing Regulator
+
+The Office of the Scottish Charity Regulator does allow a download of data, but the condictions means that it is not strictly Open Data. See: [https://www.oscr.org.uk/about-charities/search-the-register/charity-register-download](https://www.oscr.org.uk/about-charities/search-the-register/charity-register-download)
 
 #### Executive NDPBs
 - Accounts Commission for Scotland
@@ -340,6 +342,7 @@ Here is a list of the fifteen Universities in Scotland.
 - University of West of Scotland
 
 So far, we have identified the following data published by two universities. 
+
 | Organisation      | URL       | Datasets| Type |
 | :------------- |:-------------|:------:|:------:|
 |Edinburgh Uni| [URL](https://datashare.is.ed.ac.uk/handle/10283/2345) |255|O|
