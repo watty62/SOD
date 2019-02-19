@@ -63,9 +63,8 @@ The following councils have open landing pages as part of their websites.
 
 These councils only expose geographical open data using their GIS systems. 
 
-| Council       | URL         | Datasets |Type|
-| :------------- |:-------------| :-----:|:----|
-
+| Council       | URL         | Datasets |Change|Type|
+| :------------- |:-------------| :-----:|:----|:----|
 |Argyll and Bute Council|[URL](https://data-argyll-bute.opendata.arcgis.com/) |31|0|O|
 |North Ayrshire Council|[URL](https://maps-north-ayrshire.opendata.arcgis.com)|105|+2|O|
 
