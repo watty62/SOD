@@ -156,7 +156,7 @@ $ - 300 information pages available as web page, rss, or xml (with linkages to o
 
 --- 
 ### Scottish Government Executive Agencies
-[Wikipedia]()lists nine executive agencies.
+[Wikipedia](https://en.wikipedia.org/wiki/Executive_agencies_of_the_Scottish_Government) lists nine executive agencies.
 
 - Accountant in Bankruptcy
 - Disclosure Scotland
@@ -285,10 +285,40 @@ According to [Wikipedia](https://en.wikipedia.org/wiki/Public_bodies_of_the_Scot
 --- 
 
 ### Scottish Health Boards
-to be added 
+There are currently fourteen Health Boards in Scotland
+
+- NHS Ayrshire and Arran
+- NHS Borders
+- NHS Dumfries and Galloway	
+- NHS Western Isles
+- NHS Fife
+- NHS Forth Valley
+- NHS Grampian
+- NHS Greater Glasgow and Clyde
+- NHS Highland
+- NHS Lanarkshire
+- NHS Lothian
+- NHS Orkney
+- NHS Shetland
+- NHS Tayside
 
 ### Scottish Joint Health and Social Care Partnerships
-to be added
+There are 32 Health and Social Care Partnerships in Scotland. 
+(list incomplete)
+
+- Aberdeen City HSCP
+- Aberdeenshire HSCP
+- Atgyll and Bute HSCP
+- Clackmannanshire and Stirling HSCP
+- East Dunbartonshire HSCP
+- East Renfrewshire HSCP
+- Falkirk HSCP
+- Glasgow City HSCP
+- Highland HSCP
+- Inverclyde HSCP
+- Moray HSCP
+- Renfrewshire HSCP
+- West Dunbartonshire HSCP
 
 ### Scottish Universities and Colleges
 to be added 
