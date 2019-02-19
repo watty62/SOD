@@ -1,6 +1,16 @@
-Last updated 11 Nov 2018
-
 # Scottish Open Data List
+
+Last updated 19 Feb 2019
+
+## News
+The main channges to highlight are: 
+- Dumfries and Galloway have launched [their portal](https://usmart.io/#/org/dumgal/) with 33 Data sets, and have overtaken most Scottish Cities on one leap.
+- The [Spatial Hub](http://www.spatialhub.scot/get-data/) now have four sets of open data including Council Boundaries which is welcome. But it does have the most annoying, repetitive, and redundant pop-up known to man! 
+- The [KnowFife](https://knowfife.fife.gov.uk/) statistical website is growing, but the licensing needs to be much clearer for individual data sets. 
+- Clackmananshire's CKAN instance which oddly [lives under a GIS subdomain of another domain](http://gis.clacksweb.org.uk), is no longer refrenced from their main website, making it almost impossible to find.
+
+
+## The Data
 
 A list of open data resources in the Scottish public sector. 
 
@@ -21,32 +31,33 @@ Data provided by the 32 Local Authorities. The data provision falls into three f
 
 The following councils have open data portals - most, if not all, CKAN. 
 
-| Council       | URL         | Datasets | Type |
-| :------------- |:-------------| :-----:|:------:|
-| Aberdeen City Council | [http://data.aberdeencity.gov.uk](http://data.aberdeencity.gov.uk)  | 5 | O|
-| Angus Council | [http://opendata.angus.gov.uk](http://opendata.angus.gov.uk)  | 35 | O|
-| Clackmannanshire Council | [http://gis.clacksweb.org.uk](http://gis.clacksweb.org.uk) | 18 |O|
-| Dundee City Council |[https://data.dundeecity.gov.uk/dataset](https://data.dundeecity.gov.uk/dataset)| 51|O|
-| Edinburgh City Council| [https://edinburghopendata.info](https://edinburghopendata.info)| 234|O|
-| Glasgow City Council | [https://data.glasgow.gov.uk](https://data.glasgow.gov.uk)| 81 |O|
-| Highland Council |[https://data.highland.gov.uk/dataset](https://data.highland.gov.uk/dataset)| 0|O|
-| Perth and Kinross Council|[https://data.pkc.gov.uk/dataset](https://data.pkc.gov.uk/dataset) | 46|O|
-| Stirling Council | [https://data.stirling.gov.uk/dataset](https://data.stirling.gov.uk/dataset)| 8|O|
+| Council       | URL         | Datasets | +/- since last time| Type |
+| :------------- |:-------------| :-----:|:------:|:------:
+| Aberdeen City Council | [URL](http://data.aberdeencity.gov.uk)  | 5 | 0|O|
+| Angus Council | [URL](http://opendata.angus.gov.uk)  | 35 | 0| O|
+| Clackmannanshire Council | [URL](http://gis.clacksweb.org.uk) | 18 |0|O|
+| Dumfries and Galloway| [URL](https://usmart.io/#/org/dumgal/discovery?limit=20&offset=0) | 33 | - | 0| 
+| Dundee City Council |[URL](https://data.dundeecity.gov.uk/dataset)| 51| 0| O|
+| Edinburgh City Council| [URL](https://edinburghopendata.info)| 234|0| O|
+| Glasgow City Council | [URL](https://data.glasgow.gov.uk)| 89 | +8 |O|
+| Highland Council |[URL](https://data.highland.gov.uk/dataset)| 0|0|O|
+| Perth and Kinross Council|[URL](https://data.pkc.gov.uk/dataset) | 46|0|O|
+| Stirling Council | [URL](https://data.stirling.gov.uk/dataset)| 8| -1| O|
 
 
 ### Landing Pages 
 
 The following councils have open landing pages as part of their websites. 
 
-| Council       | URL         | Datasets |Type|
-| :------------- |:-------------| :-----:|:---:|
-|Aberdeenshire Council|[https://www.aberdeenshire.gov.uk/online/open-data/](https://www.aberdeenshire.gov.uk/online/open-data/)|26|O|
-|East Ayrshire Council|[https://www.east-ayrshire.gov.uk/CouncilAndGovernment/About-the-Council/Information-and-statistics/Open-Data.aspx](https://www.east-ayrshire.gov.uk/CouncilAndGovernment/About-the-Council/Information-and-statistics/Open-Data.aspx)|4|O|
-|East Renfrewshire Council|[https://data.gov.uk/publisher/east-renfrewshire-council](https://data.gov.uk/publisher/east-renfrewshire-council)|5|O|
-|Moray Council|[http://www.moray.gov.uk/moray_standard/page_110140.html](http://www.moray.gov.uk/moray_standard/page_110140.html)|8|O|
-|North Lanarkshire Council|[https://data.gov.uk/search?q=%22North+Lanarkshire%22](https://data.gov.uk/search?q=%22North+Lanarkshire%22) |15|O|
-|Shetland Islands Council|[https://www.shetland.gov.uk/information-rights/OpenData.asp](https://www.shetland.gov.uk/information-rights/OpenData.asp)|4|O|
-|South Ayrshire Council|[https://www.south-ayrshire.gov.uk/opendata/](https://www.south-ayrshire.gov.uk/opendata/)|17|O|
+| Council       | URL         | Datasets |Change| Type|
+| :------------- |:-------------| :-----:|:---:|:---:|
+|Aberdeenshire Council|[URL](https://www.aberdeenshire.gov.uk/online/open-data/)|28|+2|O|
+|East Ayrshire Council|[URL](https://www.east-ayrshire.gov.uk/CouncilAndGovernment/About-the-Council/Information-and-statistics/Open-Data.aspx)|4|0|O|
+|East Renfrewshire Council|[URL](https://data.gov.uk/publisher/east-renfrewshire-council)|5|0|O|
+|Moray Council|[URL](http://www.moray.gov.uk/moray_standard/page_110140.html)|8|0|O|
+|North Lanarkshire Council|[URL](https://data.gov.uk/search?q=%22North+Lanarkshire%22) |17|+2|O|
+|Shetland Islands Council|[URL](https://www.shetland.gov.uk/information-rights/OpenData.asp)|4|0|O|
+|South Ayrshire Council|[URL](https://www.south-ayrshire.gov.uk/opendata/)|11|-6|O|
 
 ### Using GIS only
 
@@ -54,15 +65,13 @@ These councils only expose geographical open data using their GIS systems.
 
 | Council       | URL         | Datasets |Type|
 | :------------- |:-------------| :-----:|:----|
-|Aberdeen City Council|[https://spatialdata-accabdn.opendata.arcgis.com/datasets](https://spatialdata-accabdn.opendata.arcgis.com/datasets)|5*|O|
-|Argyll and Bute Council|[https://data-argyll-bute.opendata.arcgis.com/](https://data-argyll-bute.opendata.arcgis.com/) |31|O|
-|North Ayrshire Council|[https://maps-north-ayrshire.opendata.arcgis.com](https://maps-north-ayrshire.opendata.arcgis.com)|103|O|
-* These appear to be the same five in the Open Data portal, above.
+
+|Argyll and Bute Council|[URL](https://data-argyll-bute.opendata.arcgis.com/) |31|0|O|
+|North Ayrshire Council|[URL](https://maps-north-ayrshire.opendata.arcgis.com)|105|+2|O|
 
 ### None of the above
-The following authorities have no open data provision that I can find. 
+The following authorities still have no open data provision that I can find. 
 
-- Dumfries and Galloway Council
 - East Dunbartonshire Council
 - East Lothian Council
 - Falkirk Council
@@ -85,7 +94,7 @@ The sections below list open data provision by the Scottish Government and its a
  - [The Scottish Spatial Data Infrastructure](http://spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/home)
 - Scottish Indices of Multiple Deprivation: [map](http://simd.scot/2016/#/simd2016/BTTTFTT/9/-4.0000/55.9000/)
 - [Scottish Government Statistics](http://statistics.gov.scot/home?_ga=2.257996684.769017547.1528731593-1239213985.1463907445)
- - [Spatial Hub](http://www.spatialhub.scot/get-data/) - 3 datasets open
+ - [Spatial Hub](http://www.spatialhub.scot/get-data/) - 4 datasets open
 
 ### Government & Agencies Portals
 
