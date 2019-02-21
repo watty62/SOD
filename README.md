@@ -227,7 +227,7 @@ It appears that SEPA, and SNH in addition to using the Scottish Government's new
 | Directorate   | URL         | Datasets |Change| Type|
 | :------------- |:-------------| :-----:|:---:|:---:|
 |Scottish Environmental Protection Agency (SEPA)|[URL](http://data.sepa.org.uk)|Unknown|L|
-|Scotish Natual Heritahe (SNH)| [URL](https://gateway.snh.gov.uk/natural-spaces/)]| Unknown|o|
+|Scotish Natual Heritage (SNH)| [URL](https://gateway.snh.gov.uk/natural-spaces/)| Unknown|o|
 
 - Accounts Commission for Scotland
 - Architecture and Design Scotland
