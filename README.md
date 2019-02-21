@@ -34,8 +34,8 @@ Data provided by the 32 Local Authorities. The data provision falls into three f
 The following councils have open data portals - most, if not all, CKAN. 
 
 | Council       | URL         | Status| Datasets | +/- since last time| Type |
-| :------------- |:-------------| :-----:|:------:|:------:
-| Aberdeen City Council | [URL](http://data.aberdeencity.gov.uk)  | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|5 | 0|O|
+| :------------- |:-------------| :-----|:------|:------|:------:
+| Aberdeen City Council | [URL](http://data.aberdeencity.gov.uk)  | ![ffbf00](https://placehold.it/15/ffbf00/000000?text=+)|5 | 0|O|
 | Angus Council | [URL](http://opendata.angus.gov.uk)  | xx|34 | -1| O|
 | Clackmannanshire Council | [URL](http://gis.clacksweb.org.uk) | xx|18 |0|O|
 | Dumfries and Galloway| [URL](https://usmart.io/#/org/dumgal/discovery?limit=20&offset=0) | xx|33 | - | 0| 
