@@ -107,9 +107,8 @@ The Scottish Government's Statistics have a great portal with 248 Data Sets from
 |All|[URL](https://statistics.gov.scot/data_home) |248|-|O|
 
 
- - [The Scottish Spatial Data Infrastructure](http://spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/home)
-- Scottish Indices of Multiple Deprivation: [map](http://simd.scot/2016/#/simd2016/BTTTFTT/9/-4.0000/55.9000/)
-- [Scottish Government Statistics](http://statistics.gov.scot/home?_ga=2.257996684.769017547.1528731593-1239213985.1463907445)
+ - [The Scottish Spatial Data Infrastructure](http://spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/home). This is a metadata repository for Inspire data, but does not publish open data.
+- Scottish Indices of Multiple Deprivation: [map](http://simd.scot/2016/#/simd2016/BTTTFTT/9/-4.0000/55.9000/) and Data is on the Statistics Portal mentioned above, [specifically](https://statistics.gov.scot/data/scottish-index-of-multiple-deprivation-2016)
  - [Spatial Hub](http://www.spatialhub.scot/get-data/) - 4 datasets open
 
 ### Scottish Government Directorates
