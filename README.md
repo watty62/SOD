@@ -4,12 +4,13 @@ Last updated 21 Feb 2019
 
 ## News
 The main changes to highlight are: 
+- Angus' [portal](http://opendata.angus.gov.uk) which was offline earlier this week is now back up after I reported it on Twitter.
 - The Scottish Government's [Statistical Open Data portal](https://statistics.gov.scot/data_home) continues to get better. It now has 248 data sets covering several departments, agencies, NPDBs. 
 - Dumfries and Galloway have launched [their portal](https://usmart.io/#/org/dumgal/) with 33 Data sets, and have overtaken most Scottish Cities on one leap.
 - The [Spatial Hub](http://www.spatialhub.scot/get-data/) now have four sets of open data including Council Boundaries which is welcome. But it does have the most annoying, repetitive, and redundant pop-up known to man! 
 - The [KnowFife](https://knowfife.fife.gov.uk/) statistical website is growing, but the licensing needs to be much clearer for individual data sets. 
 - Clackmananshire's CKAN instance which oddly [lives under a GIS subdomain of another domain](http://gis.clacksweb.org.uk), is no longer refrenced from their main website, making it almost impossible to find.
-- I have added the UDDC data from Glasgow University and Edina from Edinburgh
+- I have added the UDDC data from Glasgow University and Edina from Edinburgh.
 
 ## The Data
 
@@ -35,7 +36,7 @@ The following councils have open data portals - most, if not all, CKAN.
 | Council       | URL         | Datasets | +/- since last time| Type |
 | :------------- |:-------------| :-----:|:------:|:------:
 | Aberdeen City Council | [URL](http://data.aberdeencity.gov.uk)  | 5 | 0|O|
-| Angus Council | [URL](http://opendata.angus.gov.uk)  | 35 | 0| O|
+| Angus Council | [URL](http://opendata.angus.gov.uk)  | 34 | -1| O|
 | Clackmannanshire Council | [URL](http://gis.clacksweb.org.uk) | 18 |0|O|
 | Dumfries and Galloway| [URL](https://usmart.io/#/org/dumgal/discovery?limit=20&offset=0) | 33 | - | 0| 
 | Dundee City Council |[URL](https://data.dundeecity.gov.uk/dataset)| 51| 0| O|
