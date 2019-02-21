@@ -225,9 +225,9 @@ Where the items in the list below are starred, it indicates that they have some 
 It appears that SEPA, and SNH in addition to using the Scottish Government's new Statistics Open Data Portal also publish separately:
 
 | Directorate   | URL         | Datasets |Change| Type|
-| :------------- |:-------------| :-----:|:---:|:---:|
-|Scottish Environmental Protection Agency (SEPA)|[URL](http://data.sepa.org.uk)|Unknown|L|
-|Scotish Natual Heritage (SNH)| [URL](https://gateway.snh.gov.uk/natural-spaces/)| Unknown|o|
+| :------------- |:-------------| :-----|:---|:---:|
+|Scottish Environmental Protection Agency (SEPA)|[URL](http://data.sepa.org.uk)|Unknown|-|L|
+|Scotish Natual Heritage (SNH)| [URL](https://gateway.snh.gov.uk/natural-spaces/)| Unknown|-|o|
 
 - Accounts Commission for Scotland
 - Architecture and Design Scotland
