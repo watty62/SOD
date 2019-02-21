@@ -33,18 +33,18 @@ Data provided by the 32 Local Authorities. The data provision falls into three f
 
 The following councils have open data portals - most, if not all, CKAN. 
 
-| Council       | URL         | Datasets | +/- since last time| Type |
+| Council       | URL         | Status| Datasets | +/- since last time| Type |
 | :------------- |:-------------| :-----:|:------:|:------:
-| Aberdeen City Council | [URL](http://data.aberdeencity.gov.uk)  | 5 | 0|O|
-| Angus Council | [URL](http://opendata.angus.gov.uk)  | 34 | -1| O|
-| Clackmannanshire Council | [URL](http://gis.clacksweb.org.uk) | 18 |0|O|
-| Dumfries and Galloway| [URL](https://usmart.io/#/org/dumgal/discovery?limit=20&offset=0) | 33 | - | 0| 
-| Dundee City Council |[URL](https://data.dundeecity.gov.uk/dataset)| 51| 0| O|
-| Edinburgh City Council| [URL](https://edinburghopendata.info)| 234|0| O|
-| Glasgow City Council | [URL](https://data.glasgow.gov.uk)| 89 | +8 |O|
-| Highland Council |[URL](https://data.highland.gov.uk/dataset)| 0|0|O|
-| Perth and Kinross Council|[URL](https://data.pkc.gov.uk/dataset) | 46|0|O|
-| Stirling Council | [URL](https://data.stirling.gov.uk/dataset)| 8| -1| O|
+| Aberdeen City Council | [URL](http://data.aberdeencity.gov.uk)  | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|5 | 0|O|
+| Angus Council | [URL](http://opendata.angus.gov.uk)  | xx|34 | -1| O|
+| Clackmannanshire Council | [URL](http://gis.clacksweb.org.uk) | xx|18 |0|O|
+| Dumfries and Galloway| [URL](https://usmart.io/#/org/dumgal/discovery?limit=20&offset=0) | xx|33 | - | 0| 
+| Dundee City Council |[URL](https://data.dundeecity.gov.uk/dataset)| xx|51| 0| O|
+| Edinburgh City Council| [URL](https://edinburghopendata.info)| xx|234|0| O|
+| Glasgow City Council | [URL](https://data.glasgow.gov.uk)| xx|89 | +8 |O|
+| Highland Council |[URL](https://data.highland.gov.uk/dataset)| xx|0|0|O|
+| Perth and Kinross Council|[URL](https://data.pkc.gov.uk/dataset) xx|| 46|0|O|
+| Stirling Council | [URL](https://data.stirling.gov.uk/dataset)| xx|8| -1| O|
 
 
 ### Landing Pages 
