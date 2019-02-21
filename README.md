@@ -87,9 +87,9 @@ The following authorities still have no open data provision that I can find.
 
 --- 
 
-The sections below list open data provision by the Scottish Government and its agencies. Locating data is not helped by the antiquated Scottish Government website. Searching tends to throw up policy pages rather than data. Thankfully they are testing a beta version website. While that looks much better it breaks many of the links. 
+## Scottish Government
+The sections below list open data provision by the Scottish Government and its directorates, agencies, NDPBS etc. Locating data is not helped by the antiquated Scottish Government website. Searching tends to throw up policy pages rather than data. Thankfully they are testing a beta version website. While that looks much better it breaks many of the links. 
 
-## Scottish Government / Directorates / Agencies
 The Scottish Government's Statistics have a great portal with 248 Data Sets from multiple organisational-providers. 
 
 | Organisation      | URL         | Datasets |Change|Type|
@@ -116,10 +116,14 @@ The Scottish Government's Statistics have a great portal with 248 Data Sets from
 According to [Wikipedia](https://en.wikipedia.org/wiki/Directorates_of_the_Scottish_Government) there are thirty-three directorates of the Scottish Government. These are listed below. So far it appears that few produce open data.
 
 #### Scottish Exchequer Directorates
+No open data found.
+
 - Financial Strategy
 - Internal Audit
 
 #### Education, Communities and Justice Directorates
+No open data found.
+
 - Advanced Learning and Science
 - Housing and Social Justice
 - Justice
@@ -128,6 +132,8 @@ According to [Wikipedia](https://en.wikipedia.org/wiki/Directorates_of_the_Scott
 - Safer Communities
 
 #### Health and Social Care Directorates
+No open data found. 
+
 - Chief Medical Officer
 - Chief Nursing Officer
 - Children and Families
@@ -158,9 +164,11 @@ $ - 300 information pages available as web page, rss, or xml (with linkages to o
 - Energy & Climate Change
 - Environment & Forestry
 - Fair Work, Employability & Skills
-- __ Marine Scotland __ (including Aquaculture, Freshwater Fisheries & Licensing Policy, Performance, Science, Planning & Policy, Compliance and Sea Fisheries Policy)
+- _Marine Scotland_ (including Aquaculture, Freshwater Fisheries & Licensing Policy, Performance, Science, Planning & Policy, Compliance and Sea Fisheries Policy)
 
 #### Organisational Development and Operations Directorates
+No open data found. 
+
 - Communications and Ministerial Support
 - Digital
 - Financial Management
@@ -168,6 +176,8 @@ $ - 300 information pages available as web page, rss, or xml (with linkages to o
 - Scottish Procurement and Commercial
 
 #### Constitution and External Affairs Directorates
+No open data found. 
+
 - External Affairs
 - Legal Services (Solicitor to the Scottish Government)
 - Parliamentary Counsel
@@ -178,24 +188,15 @@ $ - 300 information pages available as web page, rss, or xml (with linkages to o
 [Wikipedia](https://en.wikipedia.org/wiki/Executive_agencies_of_the_Scottish_Government) lists nine executive agencies.
 Where the items in the list below are starred, it indicates that they have some or all of their open data on the Statistics portal, above. Otherwise, I have found no open data for them.
 
-- __ Accountant in Bankruptcy * __
+- Accountant in Bankruptcy __*__
 - Disclosure Scotland
-- Education Scotland - [1]
+- Education Scotland
 - Historic Environment Scotland
 - Scottish Prison Service
-- Scottish Public Pensions Agency [2]
-- Social Security Scotland [3]
+- Scottish Public Pensions Agency
+- Social Security Scotland
 - Student Awards Agency for Scotland
-- Transport Scotland [4]
-
-| Key|Agency      | URL         | Datasets | Type|
-| :------|:------------- |:-------------| :-----:|:---:|
-|1|Education|[URL](https://statistics.gov.scot/data/search?search=Education)|26|O|
-|2|Pensions|[URL](https://statistics.gov.scot/data/search?search=Pensions)|17|O|
-|3|Social Security |[URL](https://statistics.gov.scot/data/search?search=social+security)|45|O|
-|4|Transport |[URL](https://statistics.gov.scot/data/search?search=Transport)|12|O|
-
-1,2,3,4. These datasets, tagged with thematic terms, are published on the Scottish Statistics open data portal with the publisher as "Scottish Government." It is not possible to identify them as coming from specific agencies, or not.
+- Transport Scotland
 
 ---
 
@@ -205,15 +206,15 @@ According to [Wikipedia](https://en.wikipedia.org/wiki/Public_bodies_of_the_Scot
 Where the items in the list below are starred, it indicates that they have some or all of their open data on the Statistics portal, above. Otherwise, I have found no open data for them.
 
 - Food Standards Scotland
-- __ National Records of Scotland * __
+- National Records of Scotland __*__
 - Office of the Scottish Charity Regulator
 - Registers of Scotland
-- __ Revenue Scotland * __
+- Revenue Scotland __*__
 - Scottish Courts and Tribunals Service
 - Scottish Fiscal Commission
 - Scottish Housing Regulator
 
-The Office of the Scottish Charity Regulator does allow a download of data, but the condictions means that it is not strictly Open Data. See: [https://www.oscr.org.uk/about-charities/search-the-register/charity-register-download](https://www.oscr.org.uk/about-charities/search-the-register/charity-register-download)
+The Office of the Scottish Charity Regulator does allow a download of data, but the conditions attached to it means that it is not strictly Open Data. See: [https://www.oscr.org.uk/about-charities/search-the-register/charity-register-download](https://www.oscr.org.uk/about-charities/search-the-register/charity-register-download)
 
 #### Executive NDPBs
 
@@ -223,7 +224,7 @@ It appears that SEPA in addition to using the Scottish Government's new Statisti
 
 | Directorate   | URL         | Datasets |Change| Type|
 | :------------- |:-------------| :-----:|:---:|:---:|
-|Scottish Environmental Protection Agency|[http://data.sepa.org.uk](http://data.sepa.org.uk)|Unknown|L|
+|Scottish Environmental Protection Agency|[URL](http://data.sepa.org.uk)|Unknown|L|
 
 - Accounts Commission for Scotland
 - Architecture and Design Scotland
@@ -248,21 +249,23 @@ It appears that SEPA in addition to using the Scottish Government's new Statisti
 - Scottish Children's Reporter Administration
 - Scottish Criminal Cases Review Commission
 - Scottish Enterprise
-- __ Scottish Environment Protection Agency (SEPA) * __
+- Scottish Environment Protection Agency (SEPA) __*__
 - Scottish Funding Council
 - Scottish Futures Trust
 - Scottish Land Commission
 - Scottish Legal Aid Board
 - Scottish Legal Complaints Commission
-- __ Scottish Natural Heritage * __
+- Scottish Natural Heritage __*__
 - Scottish Qualifications Authority
 - Scottish Social Services Council
 - Skills Development Scotland
 - sportscotland
-- __VisitScotland * __
+- VisitScotland __*__
 - Water Industry Commission for Scotland
 
 #### Advisory NDPBs
+No open data found. 
+
 - General Teaching Council for Scotland
 - Judicial Appointments Board for Scotland
 - Local Government Boundary Commission for Scotland
@@ -274,6 +277,8 @@ It appears that SEPA in addition to using the Scottish Government's new Statisti
 - Scottish Local Authorities Remuneration Committee
 
 #### Tribunals
+No open data found.
+
 - Additional Support Needs Tribunals for Scotland
 - First-tier Tax Tribunal for Scotland
 - Lands Tribunal for Scotland
@@ -284,6 +289,8 @@ It appears that SEPA in addition to using the Scottish Government's new Statisti
 - Upper Tax Tribunal for Scotland
 
 #### Public corporations
+No open data found. 
+
 - Caledonian MacBrayne
 - Crown Estate Scotland
 - Glasgow Prestwick Airport
@@ -292,14 +299,16 @@ It appears that SEPA in addition to using the Scottish Government's new Statisti
 - Scottish Water
 
 #### Executive agencies
-- Accountant in Bankruptcy
+Where the items in the list below are starred, it indicates that they have some or all of their open data on the Statistics portal, above. Otherwise, I have found no open data for them.
+
+- Accountant in Bankruptcy __*__
 - Disclosure Scotland
 - Education Scotland
 - Scottish Prison Service
 - Scottish Public Pensions Agency
 - Social Security Scotland
 - Student Awards Agency for Scotland
-- __ Transport Scotland * __
+- Transport Scotland __*__
 
 #### Other significant national bodies
 Where the items in the list below are starred, it indicates that they have some or all of their open data on the Statistics portal, above. Otherwise, I have found no open data for them.
@@ -315,13 +324,13 @@ Where the items in the list below are starred, it indicates that they have some 
 - Moredun Research Institute
 - Office of the Queen's Printer for Scotland
 - Scottish Agricultural College
-- __ Scottish Fire & Rescue Service * __
+- Scottish Fire & Rescue Service __*__
 - Scottish Police Authority
 - Visiting Committees for Scottish Penal Establishments
 --- 
 
 ### NHS Scotland  
-In addition to the data below, NHS Scotland Information Services Devision they have some or all of their open data on the Statistics portal, above. 
+In addition to the data below, NHS Scotland Information Services Division they have some or all of their open data on the Statistics portal, above. 
 
 | Organisation      | URL       | Datasets| Change| Type |
 | :------------- |:-------------|:------:|:------:|:------:|
@@ -330,7 +339,9 @@ In addition to the data below, NHS Scotland Information Services Devision they h
 --- 
 
 ### Scottish Health Boards
-There are currently fourteen Health Boards in Scotland
+There are currently fourteen Health Boards in Scotland. 
+
+No open data found.
 
 - NHS Ayrshire and Arran
 - NHS Borders
@@ -348,31 +359,56 @@ There are currently fourteen Health Boards in Scotland
 - NHS Tayside
 
 ### Scottish Joint Health and Social Care Partnerships
-There are 32 Health and Social Care Partnerships in Scotland. 
-(list incomplete)
+There are 30 Health and Social Care Partnerships (HSCPs) in Scotland. 
+
+No open data found.
 
 - Aberdeen City HSCP
 - Aberdeenshire HSCP
-- Atgyll and Bute HSCP
+- Angus HSCP
+- Argyll and Bute HSCP
+- City of Edinburgh HSCP
 - Clackmannanshire and Stirling HSCP
+- Dumfries and Galloway HSCP
+- Dundee City HSCP
+- East Ayrshire HSCP
 - East Dunbartonshire HSCP
+- East Lothian HSCP
 - East Renfrewshire HSCP
 - Falkirk HSCP
+- Fife HSCP
 - Glasgow City HSCP
 - Highland HSCP
 - Inverclyde HSCP
+- Midlothian HSCP
 - Moray HSCP
+- North Ayrshire HSCP
+- North Lanarkshire HSCP
+- Orkney HSCP
+- Perth and Kinross HSCP
 - Renfrewshire HSCP
+- Scottish Borders HSCP
+- Shetland Islands HSCP
+- South Ayrshire HSCP
+- South Lanarkshire HSCP
 - West Dunbartonshire HSCP
+- West Lothian HSCP
+- Western Isles (Comhairle nan Eilean Siar) HSCP
 
 ### Scottish Universities and Colleges
-Here is a list of the fifteen Universities in Scotland.
+Below is a list of the fifteen Universities in Scotland.
 
+So far, I have identified the following data published by two universities (__*__). These appear to be created _for_ a specific business, reasearch or educational purpose. There appears to be no opendata produced by universities _about_ their business, such as statistical data. 
+
+| Organisation      | URL       | Datasets| Type |
+| :------------- |:-------------|:------:|:------:|
+|Edinburgh Uni| [URL](https://datashare.is.ed.ac.uk/handle/10283/2345) |255|O|
+|UBDC (Glasgow Uni)|[URL](http://ubdc.gla.ac.uk/dataset)|1027| 0|
 - Aberdeen
 - Abertay
 - Dundee
-- Edinburgh
-- Glasgow
+- Edinburgh __*__
+- Glasgow __*__
 - Glasgow Caledonian
 - Heriot-Watt
 - Napier
@@ -384,16 +420,10 @@ Here is a list of the fifteen Universities in Scotland.
 - University of Highland and Islands
 - University of West of Scotland
 
-So far, I have identified the following data published by two universities. 
-
-| Organisation      | URL       | Datasets| Type |
-| :------------- |:-------------|:------:|:------:|
-|Edinburgh Uni| [URL](https://datashare.is.ed.ac.uk/handle/10283/2345) |255|O|
-|UBDC (Glasgow Uni)|[URL](http://ubdc.gla.ac.uk/dataset)|1027| 0|
-
 
 #### Further Education colleges in Scotland
-There are twenty FE colleges in Scotland
+There are twenty FE colleges in Scotland.
+I have found no open data.
 
 - Ayrshire College
 - Borders College	
