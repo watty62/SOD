@@ -36,15 +36,15 @@ The following councils have open data portals - most, if not all, CKAN.
 | Council       | URL         | Status| Datasets | +/- since last time| Type |
 | :------------- |:-------------| :-----|:------|:------|:------:
 | Aberdeen City Council | [URL](http://data.aberdeencity.gov.uk)  | ![ffbf00](https://placehold.it/15/ffbf00/000000?text=+)|5 | 0|O|
-| Angus Council | [URL](http://opendata.angus.gov.uk)  | xx|34 | -1| O|
-| Clackmannanshire Council | [URL](http://gis.clacksweb.org.uk) | xx|18 |0|O|
-| Dumfries and Galloway| [URL](https://usmart.io/#/org/dumgal/discovery?limit=20&offset=0) | xx|33 | - | 0| 
-| Dundee City Council |[URL](https://data.dundeecity.gov.uk/dataset)| xx|51| 0| O|
-| Edinburgh City Council| [URL](https://edinburghopendata.info)| xx|234|0| O|
-| Glasgow City Council | [URL](https://data.glasgow.gov.uk)| xx|89 | +8 |O|
-| Highland Council |[URL](https://data.highland.gov.uk/dataset)| xx|0|0|O|
-| Perth and Kinross Council|[URL](https://data.pkc.gov.uk/dataset) xx|| 46|0|O|
-| Stirling Council | [URL](https://data.stirling.gov.uk/dataset)| xx|8| -1| O|
+| Angus Council | [URL](http://opendata.angus.gov.uk)  | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)|34 | -1| O|
+| Clackmannanshire Council | [URL](http://gis.clacksweb.org.uk) | ![ffbf00](https://placehold.it/15/ffbf00/000000?text=+)|18 |0|O|
+| Dumfries and Galloway| [URL](https://usmart.io/#/org/dumgal/discovery?limit=20&offset=0) | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|33 | - | 0| 
+| Dundee City Council |[URL](https://data.dundeecity.gov.uk/dataset)| ![ffbf00](https://placehold.it/15/ffbf00/000000?text=+)|51| 0| O|
+| Edinburgh City Council| [URL](https://edinburghopendata.info)| ![ffbf00](https://placehold.it/15/ffbf00/000000?text=+)|234|0| O|
+| Glasgow City Council | [URL](https://data.glasgow.gov.uk)| ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|89 | +8 |O|
+| Highland Council |[URL](https://data.highland.gov.uk/dataset)| ![ffbf00](https://placehold.it/15/ffbf00/000000?text=+)|0|0|O|
+| Perth and Kinross Council|[URL](https://data.pkc.gov.uk/dataset) |![ffbf00](https://placehold.it/15/ffbf00/000000?text=+)| 46|0|O|
+| Stirling Council | [URL](https://data.stirling.gov.uk/dataset)| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)|8| -1| O|
 
 
 ### Landing Pages 
