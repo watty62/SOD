@@ -145,11 +145,11 @@ According to [Wikipedia](https://en.wikipedia.org/wiki/Directorates_of_the_Scott
 
 So far I have identified these as publishing Open Data
 
-| Directorate / Agency      | URL         | Datasets |Type|
-| :------------- |:-------------| :-----:|:---:|
-|Marine Scotland Data|[https://data.marine.gov.scot](https://data.marine.gov.scot)|276|OA|
-|Marine Scotland Maps|[http://maps.marine.gov.scot](http://data.marine.gov.scot)|1,000|(O)|
-|Marine Scotland Information|[http://marine.gov.scot](http://marine.gov.scot)|300$|O|
+| Directorate   | URL         | Datasets |Change| Type|
+| :------------- |:-------------| :-----:|:---:|:---:|
+|Marine Scotland Data|[https://data.marine.gov.scot](https://data.marine.gov.scot)|210| -66|OA|
+|Marine Scotland Maps|[http://maps.marine.gov.scot](http://data.marine.gov.scot)|1,000||(O)|
+|Marine Scotland Information|[http://marine.gov.scot](http://marine.gov.scot)|300$||O|
 |Scottish Environmental Protection Agency|[http://data.sepa.org.uk](http://data.sepa.org.uk)|Unknown|L|
 
 $ - 300 information pages available as web page, rss, or xml (with linkages to other Marine Scotland platforms)
@@ -160,13 +160,22 @@ $ - 300 information pages available as web page, rss, or xml (with linkages to o
 
 - Accountant in Bankruptcy
 - Disclosure Scotland
-- Education Scotland
+- Education Scotland - [1]
 - Historic Environment Scotland
 - Scottish Prison Service
-- Scottish Public Pensions Agency
-- Social Security Scotland
+- Scottish Public Pensions Agency [2]
+- Social Security Scotland [3]
 - Student Awards Agency for Scotland
-- Transport Scotland
+- Transport Scotland [4]
+
+| Key|Agency      | URL         | Datasets | Type|
+| :------|:------------- |:-------------| :-----:|:---:|
+|1|Education|[URL](https://statistics.gov.scot/data/search?search=Education)|26||O|
+|2|Pensions|[URL](https://statistics.gov.scot/data/search?search=Pensions)|17||O|
+|3|Social Security |[URL](https://statistics.gov.scot/data/search?search=social+security)|45||O|
+|4|Transport |[URL](https://statistics.gov.scot/data/search?search=Transport)|12||O|
+
+1,2,3,4. These datasets, tagged with thematic terms, are published on the Scottish Statistics open data portal with the publisher as "Scottish Government." It is not possible to identify them as coming from specific agencies, or not.
 
 ---
 
