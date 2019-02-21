@@ -51,24 +51,24 @@ The following councils have open data portals - most, if not all, CKAN.
 
 The following councils have open landing pages as part of their websites. 
 
-| Council       | URL         | Datasets |Change| Type|
-| :------------- |:-------------| :-----:|:---:|:---:|
-|Aberdeenshire Council|[URL](https://www.aberdeenshire.gov.uk/online/open-data/)|28|+2|O|
-|East Ayrshire Council|[URL](https://www.east-ayrshire.gov.uk/CouncilAndGovernment/About-the-Council/Information-and-statistics/Open-Data.aspx)|4|0|O|
-|East Renfrewshire Council|[URL](https://data.gov.uk/publisher/east-renfrewshire-council)|5|0|O|
-|Moray Council|[URL](http://www.moray.gov.uk/moray_standard/page_110140.html)|8|0|O|
-|North Lanarkshire Council|[URL](https://data.gov.uk/search?q=%22North+Lanarkshire%22) |17|+2|O|
-|Shetland Islands Council|[URL](https://www.shetland.gov.uk/information-rights/OpenData.asp)|4|0|O|
-|South Ayrshire Council|[URL](https://www.south-ayrshire.gov.uk/opendata/)|11|-6|O|
+| Council       | URL         | Status|Datasets |Change| Type|
+| :------------- |:-------------| :-----|:-----| :---|:---:|
+|Aberdeenshire Council|[URL](https://www.aberdeenshire.gov.uk/online/open-data/)|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|28|+2|O|
+|East Ayrshire Council|[URL](https://www.east-ayrshire.gov.uk/CouncilAndGovernment/About-the-Council/Information-and-statistics/Open-Data.aspx)|![#ffbf00](https://placehold.it/15/ffbf00/000000?text=+)|4|0|O|
+|East Renfrewshire Council|[URL](https://data.gov.uk/publisher/east-renfrewshire-council)|![#ffbf00](https://placehold.it/15/ffbf00/000000?text=+)|5|0|O|
+|Moray Council|[URL](http://www.moray.gov.uk/moray_standard/page_110140.html)|![#ffbf00](https://placehold.it/15/ffbf00/000000?text=+)|8|0|O|
+|North Lanarkshire Council|[URL](https://data.gov.uk/search?q=%22North+Lanarkshire%22) |![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|17|+2|O|
+|Shetland Islands Council|[URL](https://www.shetland.gov.uk/information-rights/OpenData.asp)|![#ffbf00](https://placehold.it/15/ffbf00/000000?text=+)|4|0|O|
+|South Ayrshire Council|[URL](https://www.south-ayrshire.gov.uk/opendata/)|![#f03c15](https://placehold.it/15/f03c15/000000?text=+)|11|-6|O|
 
 ### Using GIS only
 
 These councils only expose geographical open data using their GIS systems. 
 
-| Council       | URL         | Datasets |Change|Type|
-| :------------- |:-------------| :-----:|:----|:----|
-|Argyll and Bute Council|[URL](https://data-argyll-bute.opendata.arcgis.com/) |31|0|O|
-|North Ayrshire Council|[URL](https://maps-north-ayrshire.opendata.arcgis.com)|105|+2|O|
+| Council       | URL         | Status| Datasets | Change|Type|
+| :------------- |:-------------| :-----|:------|:----|:----:|
+|Argyll and Bute Council|[URL](https://data-argyll-bute.opendata.arcgis.com/) |![#ffbf00](https://placehold.it/15/ffbf00/000000?text=+)|31|0|O|
+|North Ayrshire Council|[URL](https://maps-north-ayrshire.opendata.arcgis.com)|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|105|+2|O|
 
 ### None of the above
 The following authorities still have no open data provision that I can find. 
