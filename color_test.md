@@ -5,7 +5,7 @@
 
 Found the code above, [here](https://stackoverflow.com/posts/41247934/revisions)
 
-:----:----:
+|:----|:----:|
 |Item| Status|
 |Red | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)|
 |Amber|![#ffbf00](https://placehold.it/15/ffbf00/000000?text=+)|
