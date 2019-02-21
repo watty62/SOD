@@ -170,10 +170,10 @@ $ - 300 information pages available as web page, rss, or xml (with linkages to o
 
 | Key|Agency      | URL         | Datasets | Type|
 | :------|:------------- |:-------------| :-----:|:---:|
-|1|Education|[URL](https://statistics.gov.scot/data/search?search=Education)|26||O|
-|2|Pensions|[URL](https://statistics.gov.scot/data/search?search=Pensions)|17||O|
-|3|Social Security |[URL](https://statistics.gov.scot/data/search?search=social+security)|45||O|
-|4|Transport |[URL](https://statistics.gov.scot/data/search?search=Transport)|12||O|
+|1|Education|[URL](https://statistics.gov.scot/data/search?search=Education)|26|O|
+|2|Pensions|[URL](https://statistics.gov.scot/data/search?search=Pensions)|17|O|
+|3|Social Security |[URL](https://statistics.gov.scot/data/search?search=social+security)|45|O|
+|4|Transport |[URL](https://statistics.gov.scot/data/search?search=Transport)|12|O|
 
 1,2,3,4. These datasets, tagged with thematic terms, are published on the Scottish Statistics open data portal with the publisher as "Scottish Government." It is not possible to identify them as coming from specific agencies, or not.
 
