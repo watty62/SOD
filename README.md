@@ -4,6 +4,7 @@ Last updated 21 Feb 2019
 
 ## News
 The main changes to highlight are: 
+- The Scottish Government's [Statistical Open Data portal](https://statistics.gov.scot/data_home) continues to get better. It now has 248 data sets covering several departments, agencies, NPDBs. 
 - Dumfries and Galloway have launched [their portal](https://usmart.io/#/org/dumgal/) with 33 Data sets, and have overtaken most Scottish Cities on one leap.
 - The [Spatial Hub](http://www.spatialhub.scot/get-data/) now have four sets of open data including Council Boundaries which is welcome. But it does have the most annoying, repetitive, and redundant pop-up known to man! 
 - The [KnowFife](https://knowfife.fife.gov.uk/) statistical website is growing, but the licensing needs to be much clearer for individual data sets. 
