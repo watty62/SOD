@@ -8,7 +8,7 @@ The main changes to highlight are:
 - The [Spatial Hub](http://www.spatialhub.scot/get-data/) now have four sets of open data including Council Boundaries which is welcome. But it does have the most annoying, repetitive, and redundant pop-up known to man! 
 - The [KnowFife](https://knowfife.fife.gov.uk/) statistical website is growing, but the licensing needs to be much clearer for individual data sets. 
 - Clackmananshire's CKAN instance which oddly [lives under a GIS subdomain of another domain](http://gis.clacksweb.org.uk), is no longer refrenced from their main website, making it almost impossible to find.
-- We have added the UDDC data from Glasgow University and Edina from Edinburgh
+- I have added the UDDC data from Glasgow University and Edina from Edinburgh
 
 ## The Data
 
@@ -90,6 +90,23 @@ The following authorities still have no open data provision that I can find.
 The sections below list open data provision by the Scottish Government and its agencies. Locating data is not helped by the antiquated Scottish Government website. Searching tends to throw up policy pages rather than data. Thankfully they are testing a beta version website. While that looks much better it breaks many of the links. 
 
 ## Scottish Government / Directorates / Agencies
+The Scottish Government's Statistics have a great portal with 248 Data Sets from multiple organisational-providers. 
+
+| Organisation      | URL         | Datasets |Change|Type|
+| :------------- |:-------------| :-----:|:----|:----|
+|Accountant in Bankruptcy|[URL](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdef%2Fconcept%2Ffolders%2Forganisations%2Faccountant-in-bankruptcy) |3|-|L|
+|National Records of Scotland|[URL](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdef%2Fconcept%2Ffolders%2Forganisations%2Fnational-records-of-scotland) |26|-|L|
+|NHS Information Services Division|[URL](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdef%2Fconcept%2Ffolders%2Forganisations%2Fnhs-information-services-division) |28|-|L|
+|Revenue Scotland|[URL](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdef%2Fconcept%2Ffolders%2Forganisations%2Frevenue-scotland) |2|-|L|
+|Scottish Fire and rescue Servcive|[URL](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdef%2Fconcept%2Ffolders%2Forganisations%2Fscottish-fire-and-rescue-service) |1|-|L|
+|Scottish Government|[URL](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdef%2Fconcept%2Ffolders%2Forganisations%2Fscottish-government) |166|-|L|
+|Scottish Natural Heritage|[URL](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdef%2Fconcept%2Ffolders%2Forganisations%2Fscottish-natural-heritage) |2|-|O|
+|SEPA|[URL](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdef%2Fconcept%2Ffolders%2Forganisations%2Fsepa) |1|-|O|
+|Transport Scotland|[URL](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdef%2Fconcept%2Ffolders%2Forganisations%2Ftransport-scotland) |8|-|O|
+|Visit Scotland|[URL](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdef%2Fconcept%2Ffolders%2Forganisations%2Fvisitscotland) |6|-|O|
+|All|[URL](https://statistics.gov.scot/data_home) |248|-|O|
+
+
  - [The Scottish Spatial Data Infrastructure](http://spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/home)
 - Scottish Indices of Multiple Deprivation: [map](http://simd.scot/2016/#/simd2016/BTTTFTT/9/-4.0000/55.9000/)
 - [Scottish Government Statistics](http://statistics.gov.scot/home?_ga=2.257996684.769017547.1528731593-1239213985.1463907445)
@@ -122,13 +139,26 @@ According to [Wikipedia](https://en.wikipedia.org/wiki/Directorates_of_the_Scott
 - Population Health
 
 #### Economy Directorates
+
+So far I have identified Marine Scotland as the only body in the list below publishing Open Data
+
+| Directorate   | URL         | Datasets |Change| Type|
+| :------------- |:-------------| :-----:|:---:|:---:|
+|Marine Scotland Data|[https://data.marine.gov.scot](https://data.marine.gov.scot)|210| -66|OA|
+|Marine Scotland Maps|[http://maps.marine.gov.scot](http://data.marine.gov.scot)|972 ^|- |(O)|
+|Marine Scotland Information|[http://marine.gov.scot](http://marine.gov.scot)|300$||O|
+
+^ The layers aren't all #opendata but there are 972 live layers on MS Maps (805 of those are available as WMS). 244 of the layers have a download link. 43 of those datasets are provided for download under OGL via SSDI. Those specific 43 layers are Marine Scotland data, plus there is an additional 2 on a view only service. Source: https://twitter.com/marinemaps/status/1098275087973797890
+
+$ - 300 information pages available as web page, rss, or xml (with linkages to other Marine Scotland platforms)
+
 - Agriculture and Rural Economy
 - Culture, Tourism and Major Events
 - Economic Development
 - Energy & Climate Change
 - Environment & Forestry
 - Fair Work, Employability & Skills
-- Marine Scotland (including Aquaculture, Freshwater Fisheries & Licensing Policy, Performance, Science, Planning & Policy, Compliance and Sea Fisheries Policy)
+- __ Marine Scotland __ (including Aquaculture, Freshwater Fisheries & Licensing Policy, Performance, Science, Planning & Policy, Compliance and Sea Fisheries Policy)
 
 #### Organisational Development and Operations Directorates
 - Communications and Ministerial Support
@@ -143,22 +173,12 @@ According to [Wikipedia](https://en.wikipedia.org/wiki/Directorates_of_the_Scott
 - Parliamentary Counsel
 - Strategy and Constitution
 
-So far I have identified these as publishing Open Data
-
-| Directorate   | URL         | Datasets |Change| Type|
-| :------------- |:-------------| :-----:|:---:|:---:|
-|Marine Scotland Data|[https://data.marine.gov.scot](https://data.marine.gov.scot)|210| -66|OA|
-|Marine Scotland Maps|[http://maps.marine.gov.scot](http://data.marine.gov.scot)|1,000||(O)|
-|Marine Scotland Information|[http://marine.gov.scot](http://marine.gov.scot)|300$||O|
-|Scottish Environmental Protection Agency|[http://data.sepa.org.uk](http://data.sepa.org.uk)|Unknown|L|
-
-$ - 300 information pages available as web page, rss, or xml (with linkages to other Marine Scotland platforms)
-
 --- 
 ### Scottish Government Executive Agencies
 [Wikipedia](https://en.wikipedia.org/wiki/Executive_agencies_of_the_Scottish_Government) lists nine executive agencies.
+Where the items in the list below are starred, it indicates that they have some or all of their open data on the Statistics portal, above. Otherwise, I have found no open data for them.
 
-- Accountant in Bankruptcy
+- __ Accountant in Bankruptcy * __
 - Disclosure Scotland
 - Education Scotland - [1]
 - Historic Environment Scotland
@@ -182,11 +202,13 @@ $ - 300 information pages available as web page, rss, or xml (with linkages to o
 According to [Wikipedia](https://en.wikipedia.org/wiki/Public_bodies_of_the_Scottish_Government), the Scottish Government is reponsible for the following 92 Non Departmental Public Bodies, each of whom should be producing open data according to the Scottish Government's Open Data. 
 
 #### Scottish Government non-ministerial government departments
+Where the items in the list below are starred, it indicates that they have some or all of their open data on the Statistics portal, above. Otherwise, I have found no open data for them.
+
 - Food Standards Scotland
-- National Records of Scotland
+- __ National Records of Scotland * __
 - Office of the Scottish Charity Regulator
 - Registers of Scotland
-- Revenue Scotland
+- __ Revenue Scotland * __
 - Scottish Courts and Tribunals Service
 - Scottish Fiscal Commission
 - Scottish Housing Regulator
@@ -194,6 +216,15 @@ According to [Wikipedia](https://en.wikipedia.org/wiki/Public_bodies_of_the_Scot
 The Office of the Scottish Charity Regulator does allow a download of data, but the condictions means that it is not strictly Open Data. See: [https://www.oscr.org.uk/about-charities/search-the-register/charity-register-download](https://www.oscr.org.uk/about-charities/search-the-register/charity-register-download)
 
 #### Executive NDPBs
+
+Where the items in the list below are starred, it indicates that they have some or all of their open data on the Statistics portal, above. Otherwise, I have found no open data for them.
+
+It appears that SEPA in addition to using the Scottish Government's new Statistics Open Data Portal also publishes separately:
+
+| Directorate   | URL         | Datasets |Change| Type|
+| :------------- |:-------------| :-----:|:---:|:---:|
+|Scottish Environmental Protection Agency|[http://data.sepa.org.uk](http://data.sepa.org.uk)|Unknown|L|
+
 - Accounts Commission for Scotland
 - Architecture and Design Scotland
 - Bòrd na Gàidhlig
@@ -217,18 +248,18 @@ The Office of the Scottish Charity Regulator does allow a download of data, but 
 - Scottish Children's Reporter Administration
 - Scottish Criminal Cases Review Commission
 - Scottish Enterprise
-- Scottish Environment Protection Agency
+- __ Scottish Environment Protection Agency (SEPA) * __
 - Scottish Funding Council
 - Scottish Futures Trust
 - Scottish Land Commission
 - Scottish Legal Aid Board
 - Scottish Legal Complaints Commission
-- Scottish Natural Heritage
+- __ Scottish Natural Heritage * __
 - Scottish Qualifications Authority
 - Scottish Social Services Council
 - Skills Development Scotland
 - sportscotland
-- VisitScotland
+- __VisitScotland * __
 - Water Industry Commission for Scotland
 
 #### Advisory NDPBs
@@ -268,9 +299,11 @@ The Office of the Scottish Charity Regulator does allow a download of data, but 
 - Scottish Public Pensions Agency
 - Social Security Scotland
 - Student Awards Agency for Scotland
-- Transport Scotland
+- __ Transport Scotland * __
 
 #### Other significant national bodies
+Where the items in the list below are starred, it indicates that they have some or all of their open data on the Statistics portal, above. Otherwise, I have found no open data for them.
+
 - Audit Scotland
 - Court of the Lord Lyon
 - Drinking Water Quality Regulator
@@ -282,12 +315,13 @@ The Office of the Scottish Charity Regulator does allow a download of data, but 
 - Moredun Research Institute
 - Office of the Queen's Printer for Scotland
 - Scottish Agricultural College
-- Scottish Fire & Rescue Service
+- __ Scottish Fire & Rescue Service * __
 - Scottish Police Authority
 - Visiting Committees for Scottish Penal Establishments
 --- 
 
 ### NHS Scotland  
+In addition to the data below, NHS Scotland Information Services Devision they have some or all of their open data on the Statistics portal, above. 
 
 | Organisation      | URL       | Datasets| Change| Type |
 | :------------- |:-------------|:------:|:------:|:------:|
@@ -350,7 +384,7 @@ Here is a list of the fifteen Universities in Scotland.
 - University of Highland and Islands
 - University of West of Scotland
 
-So far, we have identified the following data published by two universities. 
+So far, I have identified the following data published by two universities. 
 
 | Organisation      | URL       | Datasets| Type |
 | :------------- |:-------------|:------:|:------:|
