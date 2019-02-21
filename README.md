@@ -92,6 +92,7 @@ The following authorities still have no open data provision that I can find.
 ## Scottish Government
 The sections below list open data provision by the Scottish Government and its directorates, agencies, NDPBS etc. Locating data is not helped by the antiquated Scottish Government website. Searching tends to throw up policy pages rather than data. Thankfully they are testing a beta version website. While that looks much better it breaks many of the links. 
 
+### Main Scottish Government Statisttics Portal
 The Scottish Government's Statistics have a great portal with 248 Data Sets from multiple organisational-providers. 
 
 | Organisation      | URL         | Datasets |Change|Type|
@@ -221,11 +222,12 @@ The Office of the Scottish Charity Regulator does allow a download of data, but 
 
 Where the items in the list below are starred, it indicates that they have some or all of their open data on the Statistics portal, above. Otherwise, I have found no open data for them.
 
-It appears that SEPA in addition to using the Scottish Government's new Statistics Open Data Portal also publishes separately:
+It appears that SEPA, and SNH in addition to using the Scottish Government's new Statistics Open Data Portal also publish separately:
 
 | Directorate   | URL         | Datasets |Change| Type|
 | :------------- |:-------------| :-----:|:---:|:---:|
-|Scottish Environmental Protection Agency|[URL](http://data.sepa.org.uk)|Unknown|L|
+|Scottish Environmental Protection Agency (SEPA)|[URL](http://data.sepa.org.uk)|Unknown|L|
+|Scotish Natual Heritahe (SNH)| [URL(https://gateway.snh.gov.uk/natural-spaces/)]| Unknown|o|
 
 - Accounts Commission for Scotland
 - Architecture and Design Scotland
