@@ -147,7 +147,7 @@ No open data found.
 
 #### Economy Directorates
 
-So far I have identified Marine Scotland as the only body in the list below publishing Open Data
+So far I have identified Marine Scotland as the only body in the list below publishing Open Data.
 
 | Directorate   | URL         | Datasets |Change| Type|
 | :------------- |:-------------| :-----:|:---:|:---:|
