@@ -111,7 +111,7 @@ The Scottish Government's Statistics have a great portal with 248 Data Sets from
 
 
  - [The Scottish Spatial Data Infrastructure](http://spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/home). This is a metadata repository for Inspire data, but does not publish open data.
-- Scottish Indices of Multiple Deprivation: [map](http://simd.scot/2016/#/simd2016/BTTTFTT/9/-4.0000/55.9000/) and Data is on the Statistics Portal mentioned above, [specifically](https://statistics.gov.scot/data/scottish-index-of-multiple-deprivation-2016)
+- Scottish Indices of Multiple Deprivation: [map](http://simd.scot/2016/#/simd2016/BTTTFTT/9/-4.0000/55.9000/) and Data is on the Statistics Portal mentioned above, specifically[here](https://statistics.gov.scot/data/scottish-index-of-multiple-deprivation-2016)
  - [Spatial Hub](http://www.spatialhub.scot/get-data/) - 4 datasets open
 
 ### Scottish Government Directorates
@@ -226,8 +226,10 @@ It appears that SEPA, and SNH in addition to using the Scottish Government's new
 
 | Directorate   | URL         | Datasets |Change| Type|
 | :------------- |:-------------| :-----|:---|:---:|
-|Scottish Environmental Protection Agency (SEPA)|[URL](http://data.sepa.org.uk)|Unknown|-|L|
-|Scotish Natual Heritage (SNH)| [URL](https://gateway.snh.gov.uk/natural-spaces/)| Unknown|-|o|
+|Scottish Environmental Protection Agency (SEPA)|[URL](http://data.sepa.org.uk)|6|-|L|
+|Scotish Natual Heritage (SNH)| [URL](https://gateway.snh.gov.uk/natural-spaces/)| 54 *|-|O|
+
+* 53 datasets labeled OGL, one "free to use"
 
 - Accounts Commission for Scotland
 - Architecture and Design Scotland
