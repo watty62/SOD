@@ -13,7 +13,6 @@ The main changes to highlight are:
 - I have added the UDDC data from Glasgow University and Edina from Edinburgh.
 
 ## The Data
-
 A list of open data resources in the Scottish public sector. 
 
 Data is broken into two types - open data, and linked open data.
