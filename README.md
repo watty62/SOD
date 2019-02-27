@@ -1,16 +1,14 @@
 # Scottish Open Data List
 
-Last updated 21 Feb 2019
+Last updated 27 Feb 2019
 
 ## News
-The main changes to highlight are: 
-- Angus' [portal](http://opendata.angus.gov.uk) which was offline earlier this week is now back up after I reported it on Twitter.
-- The Scottish Government's [Statistical Open Data portal](https://statistics.gov.scot/data_home) continues to get better. It now has 248 data sets covering several departments, agencies, NPDBs. 
-- Dumfries and Galloway have launched [their portal](https://usmart.io/#/org/dumgal/) with 33 Data sets, and have overtaken most Scottish Cities on one leap.
-- The [Spatial Hub](http://www.spatialhub.scot/get-data/) now have four sets of open data including Council Boundaries which is welcome. But it does have the most annoying, repetitive, and redundant pop-up known to man! 
-- The [KnowFife](https://knowfife.fife.gov.uk/) statistical website is growing, but the licensing needs to be much clearer for individual data sets. 
-- Clackmananshire's CKAN instance which oddly [lives under a GIS subdomain of another domain](http://gis.clacksweb.org.uk), is no longer refrenced from their main website, making it almost impossible to find.
-- I have added the UDDC data from Glasgow University and Edina from Edinburgh.
+Two new sources identified. 
+
+* Scottish Parliament with 121 Datasets, and 
+* Health and Social Care (Home Care) Datasets
+
+The licensing for each of these is far from clear or easy to understand, but having waded through it I believe that the Scottish Government's intent is that they are licensed under OGL or similar. 
 
 ## The Data
 A list of open data resources in the Scottish public sector. 
@@ -88,6 +86,15 @@ The following authorities still have no open data provision that I can find.
 
 --- 
 
+## Scottish Parliament
+The Scottish Parliament, separate to the Scottish Government has released 121 data sets. This covers motions, petitions, Bills, petitions and other procedural data, and is very interesting.
+
+The licensing is far from clear. To find that you have to go to Notes > Policy on Use of SPCB Copyright Material. Following the first link there you see that you have to add "Contains information licenced under the Scottish Parliament Copyright Licence. " to anything you make with it, which is OK. But if you go to the second link the wording (slightly) contradicts that obligation. It then has a chunk about OGL but says, "This Scottish Parliament Licence is aligned with OGLv3.0" whatever that means. Why not just license all of the data under OGL? I can't see what they are trying to do. 
+
+[Scottish Parliament Open Data](https://data.parliament.scot/#/datasets)
+
+Bob Taylor has created some interesting visualisations with this data [here](https://github.com/jakeybob/opendata-gganimate-test)
+
 ## Scottish Government
 The sections below list open data provision by the Scottish Government and its directorates, agencies, NDPBS etc. Locating data is not helped by the antiquated Scottish Government website. Searching tends to throw up policy pages rather than data. Thankfully they are testing a beta version website. While that looks much better it breaks many of the links. 
 
@@ -133,7 +140,11 @@ No open data found.
 - Safer Communities
 
 #### Health and Social Care Directorates
-No open data found. 
+
+There are three datasets about homecare made available [here](https://www2.gov.scot/Topics/Statistics/Browse/Health/Data/HomeCare/HSC-Datasets-HCPRF). It took someone who knows about this to find them and let me know about their existence. This is on the old Scots Government Website. The new one is [here](https://www.gov.scot/).
+
+The main page is clearly marked at, the foot, "Crown Copyright." However, clicking on that take us to [this page](https://www2.gov.scot/CrownCopyright) which is something I have not seen before on the Scottish Government website. "Re-using Crown copyright material. You may use and re-use the information featured on this website (not including logos) free of charge in any format or medium, under the terms of the Open Government Licence." This is fantastic, and something that I have been calling for for some time across the Scottish public sector. The new website allows the same reuse of content under OGL. 
+
 
 - Chief Medical Officer
 - Chief Nursing Officer
