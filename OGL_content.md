@@ -31,11 +31,11 @@ This led me to check the website copyright / licensing of Scottish local authori
 |[North Ayshire](https://www.north-ayrshire.gov.uk/disclaimer.aspx)|Copyright|![f03c15](https://placehold.it/15/f03c15/000000?text=+)|
 |[North Lanarkshire](https://www.northlanarkshire.gov.uk/index.aspx?articleid=15005)|Personal reuse ok (no OGL)|![ffbf00](https://placehold.it/15/ffbf00/000000?text=+)|
 |[Orkney](http://www.orkney.gov.uk)|Copyright|![f03c15](https://placehold.it/15/f03c15/000000?text=+)|
-|[Perth and Kinross](https://www.pkc.gov.uk/article/15583/Terms-and-disclaimer)|re-use permitted without specific application - no OGL reference|![ffbf00](https://placehold.it/15/ffbf00/000000?text=+)|
+|[Perth and Kinross](https://www.pkc.gov.uk/article/15583/Terms-and-disclaimer)|Re-use permitted w/o application. No OGL reference|![ffbf00](https://placehold.it/15/ffbf00/000000?text=+)|
 |[Renfrewshire](http://www.renfrewshire.gov.uk/article/2202/Copyright)|Text reuse ok for personal use |![ffbf00](https://placehold.it/15/ffbf00/000000?text=+)|
 |[Scottish Borders](https://www.scotborders.gov.uk/terms)|Copyright Personal copy (no licence)|![ffbf00](https://placehold.it/15/ffbf00/000000?text=+)|
 |[Shetland](https://www.shetland.gov.uk/information-rights/Re-useofPublicSectorInformation.asp)|Clear ROPSI use (inc commercial but no OGL)|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|
-|[South Ayrshire](https://www.south-ayrshire.gov.uk/terms/)|personal use copying only|![ffbf00](https://placehold.it/15/ffbf00/000000?text=+)|
+|[South Ayrshire](https://www.south-ayrshire.gov.uk/terms/)|Personal use copying only|![ffbf00](https://placehold.it/15/ffbf00/000000?text=+)|
 |[South Lanarkshire](http://www.southlanarkshire.gov.uk/term)|Copyright |![f03c15](https://placehold.it/15/f03c15/000000?text=+)|
 |[Stirling](https://www.stirling.gov.uk/council-democracy/information-performance-statistics/service-standards/internet-services-standards/)|Copyright |![f03c15](https://placehold.it/15/f03c15/000000?text=+)|
 |[West Dunbartonshire](http://www.west-dunbarton.gov.uk/terms/)|Copyright|![f03c15](https://placehold.it/15/f03c15/000000?text=+)|
