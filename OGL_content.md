@@ -13,15 +13,14 @@ This led me to check the website copyright / licensing of Scottish local authori
 |[Aberdeenshire](https://www.aberdeenshire.gov.uk/online/re-use-information/)|OGL with permission|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|
 |[Angus](https://www.angus.gov.uk/terms_and_disclaimer)|Copyright|![f03c15](https://placehold.it/15/f03c15/000000?text=+)|
 |[Argyll & Bute](https://www.argyll-bute.gov.uk/privacy-policy)|Copyright|![f03c15](https://placehold.it/15/f03c15/000000?text=+)|
-|[Edinburgh, City of](http://www.edinburgh.gov.uk/terms)|Copyright|![f03c15](https://placehold.it/15/f03c15/000000?text=+)|
 |[Clackmananshire](https://www.clacks.gov.uk/)|Copyright|![f03c15](https://placehold.it/15/f03c15/000000?text=+)|
-|[Western Isles](https://www.cne-siar.gov.uk)|Copyright|![f03c15](https://placehold.it/15/f03c15/000000?text=+)|
 |[Dumfries & Galloway](https://www.dumgal.gov.uk/)| Copyright|![f03c15](https://placehold.it/15/f03c15/000000?text=+)|
 |[Dundee City](https://www.dundeecity.gov.uk/)| Copyright|![f03c15](https://placehold.it/15/f03c15/000000?text=+)|
 |[East Ayrshire](https://www.east-ayrshire.gov.uk/help/CopyrightandDisclaimer.aspx)|Copyright|![f03c15](https://placehold.it/15/f03c15/000000?text=+)|
 |[East Dunbartonshire](https://www.eastdunbarton.gov.uk/copyright-disclaimer)| Copyright|![f03c15](https://placehold.it/15/f03c15/000000?text=+)|
 |[East Lothian](https://www.eastlothian.gov.uk/info/210598/access_to_information/12300/access_to_information/5)|Copyright, but ref to PSI)|![ffbf00](https://placehold.it/15/ffbf00/000000?text=+)|
 |[East Renfrewshire](https://www.eastrenfrewshire.gov.uk/Home)|Copyright|![f03c15](https://placehold.it/15/f03c15/000000?text=+)|
+|[Edinburgh, City of](http://www.edinburgh.gov.uk/terms)|Copyright|![f03c15](https://placehold.it/15/f03c15/000000?text=+)|
 |[Falkirk](http://www.falkirk.gov.uk/services/council-democracy/access-to-information/reuse-information.aspx)|OGL? Ambiguous|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|
 |[Fife](https://www.fifedirect.org.uk/footer/index.cfm?fuseaction=tandc.display#section2)|Copyright (permission to reuse)|![ffbf00](https://placehold.it/15/ffbf00/000000?text=+)|
 |[Glasgow City](https://www.glasgow.gov.uk/index.aspx?articleid=17250)|Copyright|![f03c15](https://placehold.it/15/f03c15/000000?text=+)|
@@ -41,4 +40,5 @@ This led me to check the website copyright / licensing of Scottish local authori
 |[Stirling](https://www.stirling.gov.uk/council-democracy/information-performance-statistics/service-standards/internet-services-standards/)|Copyright |![f03c15](https://placehold.it/15/f03c15/000000?text=+)|
 |[West Dunbartonshire](http://www.west-dunbarton.gov.uk/terms/)|Copyright|![f03c15](https://placehold.it/15/f03c15/000000?text=+)|
 |[West Lothian](https://www.westlothian.gov.uk/terms)|Copyright - apply for reuse |![ffbf00](https://placehold.it/15/ffbf00/000000?text=+)|
+|[Western Isles](https://www.cne-siar.gov.uk)|Copyright|![f03c15](https://placehold.it/15/f03c15/000000?text=+)|
 
