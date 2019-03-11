@@ -1,8 +1,10 @@
 # Scottish Open Data List
 
-Last updated 27 Feb 2019
-
 ## News
+11 Mar 2019
+Added open procurement and open contracts links below. Hard to find, but these pages do offer good data coverage and are clearly licensed under OGL 3.0
+
+27 Feb 2019
 Two new sources identified. 
 
 * Scottish Parliament with 121 Datasets, and 
@@ -179,7 +181,11 @@ $ - 300 information pages available as web page, rss, or xml (with linkages to o
 - _Marine Scotland_ (including Aquaculture, Freshwater Fisheries & Licensing Policy, Performance, Science, Planning & Policy, Compliance and Sea Fisheries Policy)
 
 #### Organisational Development and Operations Directorates
-No open data found. 
+
+The Scottish Government supports Open Procurement. You can download bulk notices or use the API to select data. 
+You can find the data [here](https://www.publiccontractsscotland.gov.uk/NoticeDownload/Download.aspx)
+
+Similarly, you can search the contracts register [on this page](https://www.publiccontractsscotland.gov.uk/Contracts/Contracts_Search.aspx?AuthID=AA10482). Each is OGL licensed. 
 
 - Communications and Ministerial Support
 - Digital
