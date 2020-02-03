@@ -43,13 +43,13 @@ The following councils have open landing pages as part of their websites.
 
 | Council       | URL         | Status|Datasets |Change| Type|
 | :------------- |:-------------| :-----|:-----| :---|:---:|
-|Aberdeenshire Council|[URL](https://www.aberdeenshire.gov.uk/online/open-data/)|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|28|0|O|
+|Aberdeenshire Council|[URL](https://www.aberdeenshire.gov.uk/online/open-data/)|![#ffbf00](https://placehold.it/15/ffbf00/000000?text=+)|28|0|O|
 |East Ayrshire Council|[URL](https://www.east-ayrshire.gov.uk/CouncilAndGovernment/About-the-Council/Information-and-statistics/Open-Data.aspx)|![#ffbf00](https://placehold.it/15/ffbf00/000000?text=+)|4|0|O|
 |East Renfrewshire Council|[URL](https://data.gov.uk/publisher/east-renfrewshire-council)|![#ffbf00](https://placehold.it/15/ffbf00/000000?text=+)|5|0|O|
 |Moray Council|[URL](http://www.moray.gov.uk/moray_standard/page_110140.html)|![#ffbf00](https://placehold.it/15/ffbf00/000000?text=+)|8|0|O|
 |North Lanarkshire Council|[URL](https://data.gov.uk/search?q=%22North+Lanarkshire%22) |![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|20|+3|O|
 |Shetland Islands Council|[URL](https://www.shetland.gov.uk/information-rights/OpenData.asp)|![#ffbf00](https://placehold.it/15/ffbf00/000000?text=+)|4|0|O|
-|South Ayrshire Council|[URL](https://www.south-ayrshire.gov.uk/opendata/)|![#f03c15](https://placehold.it/15/f03c15/000000?text=+)|11|0|O|
+|South Ayrshire Council|[URL](https://www.south-ayrshire.gov.uk/opendata/)|![#ffbf00](https://placehold.it/15/ffbf00/000000?text=+)|11|0|O|
 
 ### Using GIS only
 
@@ -57,7 +57,7 @@ These councils only expose geographical open data using their GIS systems.
 
 | Council       | URL         | Status| Datasets | Change|Type|
 | :------------- |:-------------| :-----|:------|:----|:----:|
-|Argyll and Bute Council|[URL](https://data-argyll-bute.opendata.arcgis.com/) |![#ffbf00](https://placehold.it/15/ffbf00/000000?text=+)|33|+2|O|
+|Argyll and Bute Council|[URL](https://data-argyll-bute.opendata.arcgis.com/) |![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|33|+2|O|
 |North Ayrshire Council|[URL](https://maps-north-ayrshire.opendata.arcgis.com)|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|116|+11|O|
 |Renfrewshire Council|[URL](http://data-ren.opendata.arcgis.com/search)|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|54|+54|O|
 
