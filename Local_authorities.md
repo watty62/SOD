@@ -1,7 +1,7 @@
 # Scottish Local Authorities Open Data List
 
 ## News
-Reviewed February 2020. Change (+/-) in number of datasets published is measured since Feb 2019. 
+Reviewed February 2020.
 
 The Highland Council [portal] (https://data.highland.gov.uk/dataset) procured as part of the Scottish Cities Alliance's Data Cluster programme has vanished. I dont think it ever saw a dataset being added to it. Searching Highland Council's website for open data finds nothing. 
 
@@ -19,6 +19,8 @@ Data is broken into three types - using APIs, open data, and linked open data.
 ------
 
 Data provided by the 32 Local Authorities. The data provision falls into three formats: portal, landing page and GIS-only data. 
+
+Change (+/-) in number of datasets published is measured since Feb 2019. 
 
 ### Open Data Portals
 
