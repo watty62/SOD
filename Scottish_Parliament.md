@@ -19,10 +19,13 @@ Sadly the issues raised a year ago about the lack of clarity of the licensing of
 As noted in 2019, Bob Taylor has created some captivating visualisations with this data [here](https://github.com/jakeybob/opendata-gganimate-test) which should suggest some interesting uses for the data. 
 
 ---
+
 ## Errors and Ommissions
 If you spot an error - or missing data - please fork this repo and submit a pull request. 
 
-Alternatively email me [ian_at_codethecity_dot_org](mailto:ian@codethecity.org) with an update. 
+Alternatively email me at [mailto: ian_at_codethecity_dot_org](mailto:ian@codethecity.org) with an update. 
+
 ---
+
 
 [Back](README.md) to the main 2020 review. 

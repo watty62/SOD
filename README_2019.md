@@ -480,11 +480,13 @@ This is a great piece of work by ALISS supported by [Rory Giani](http://twitter.
 I created this to support a series of [blog posts](https://codethecity.co.uk/category/open-data/) I am creating about open data in Scotland. 
 
 ---
+
 ## Errors and Ommissions
 If you spot an error - or missing data - please fork this repo and submit a pull request. 
 
-Alternatively email me [ian_at_codethecity_dot_co_uk](mailto:ian@codethecity.co.uk) with an update. 
+Alternatively email me at [mailto: ian_at_codethecity_dot_org](mailto:ian@codethecity.org) with an update. 
 
---- 
+---
+
 
 Ian Watt  
