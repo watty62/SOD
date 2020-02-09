@@ -3,7 +3,7 @@
 ## News
 Reviewed February 2020.
 
-Sadly there is no significant change here in the year since I last reviewed the data provision by councils. The big gain is that Renrewshire Council have launched a new data portal with over fifty datasets. Most councils have had little or no change. Sadly the Highland Council [portal] (https://data.highland.gov.uk/dataset), procured as part of the Scottish Cities Alliance's Data Cluster programme, has vanished. I dont think it ever saw a dataset being added to it. Searching Highland Council's website for open data finds nothing. So, the number of councils (out of a total of 32) with no open data presence has remained static at 13. 
+Sadly there is no significant change here in the year since I last reviewed the data provision by councils. The big gain is that [Renrewshire Council](http://data-ren.opendata.arcgis.com/search) have launched a new data portal with over fifty datasets. Most councils have had little or no change. Sadly the Highland Council [portal] (https://data.highland.gov.uk/dataset), procured as part of the Scottish Cities Alliance's Data Cluster programme, has vanished. I dont think it ever saw a dataset being added to it. Searching Highland Council's website for open data finds nothing. So, the number of councils (out of a total of 32) with no open data presence has remained static at 13. 
 
 ## The Data
 A list of open data resources in the Scottish local government. 
@@ -87,8 +87,7 @@ The following authorities still have no open data provision that I can find.
 ## Errors and Ommissions
 If you spot an error - or missing data - please fork this repo and submit a pull request. 
 
-Alternatively email me [ian_at_codethecity_dot_co_uk](mailto:ian@codethecity.co.uk) with an update. 
+Alternatively email me [ian_at_codethecity_dot_org](mailto:ian@codethecity.org) with an update. 
+---
 
---- 
-
-Ian Watt  
+[Back](README.md) to the main 2020 review. 
