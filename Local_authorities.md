@@ -80,7 +80,7 @@ The following authorities still have no open data provision that I can find.
 - Western Isles Council (Comhairle nan Eilean Siar)
 - West Lothian Council
 
-(*) Despite Inverclyde publishing an [update](file:///Users/ian/Downloads/Policy%20&%20Resources%20PUBLIC.pdf) in March 2019 (Appendix 1) saying that its implementing an Open Data strategy is 'Complete' I could find no open data.
+(*) Despite Inverclyde publishing an [update](https://www.inverclyde.gov.uk/meetings/documents/12041/Policy%20&%20Resources%20PUBLIC.pdf) in March 2019 (Page 3 of Appendix 1) saying that its implementation of an Open Data strategy is 'Complete' I could find no open data anywhere.
 
 
 ---
