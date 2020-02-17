@@ -2,7 +2,7 @@
 This page will be updated as the content is reviewed.
 
 ## News
-Review underway February 2020.
+Review underway February 2020. First draft of Universities completed. Not done FE colleges yet. 
 
 The [Higher Education Statistics Agency](https://www.hesa.ac.uk/data-and-analysis) publishes a range of potentially useful-looking Open Data under a [CC-BY-4.0 licence](https://creativecommons.org/licenses/by/4.0/). This is data about insitutions, course, students etc - and not data published by the institutions themselves. 
 
