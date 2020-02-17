@@ -50,7 +50,9 @@ __Stirling University__, in a similar way to Abertay and QMU, a [page](https://w
 
 On searching for the __University Of West of Scotland__'s open data, I was reminded of the Crighton Institute's Regional Observatory which was announced to loud [fanfares](https://www.gla.ac.uk/news/archiveofnews/2013/march/headline_269859_en.html) in 2013 and appears to have quietly been shut down in 2017. Two of the team involved say in their Linked In profiles that they left at the end of the project. Even the domain name to which articles point is now up for grabs. *How much was spent on the project, where is the data that it amassed preserved and where is the knowledge and learning arising from the project published for posterity?*
 
-What jumps out from this is _where is the data about the day to day operation of each institution? _ One might expect data on
+What jumps out from this is _where is the data about the day to day operation of each institution?_ 
+
+One might expect data on:
 * courses
 * modules
 * events
