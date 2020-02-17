@@ -8,14 +8,14 @@ The [Higher Education Statistics Agency](https://www.hesa.ac.uk/data-and-analysi
 
 Below is a list of the fifteen Universities in Scotland.
 
-Last year I identified the data published by two universities (__*__). These appear to be created _for_ a specific business, research or educational purpose. The Edinburgh Data Share repository _appears_ to have increaed by over 800 datasets since last year, whereas the UBDC Open Data Catalogue seems to have grown by 5 datasets. 
+Last year I identified the data published by two universities (__*__). These appear to be created _for_ a specific business, research or educational purpose. The Edinburgh Data Share repository _appears_ to have increased by over 800 datasets since last year, whereas the UBDC Open Data Catalogue seems to have grown by 5 datasets. 
 
 
 
 | Organisation      | URL       | Datasets| Type |Notes|
 | :------------- |:-------------|:------:|:------:|:------:|
 |Abertay Uni| [URL](https://rke.abertay.ac.uk/en/datasets/)| 10|O|Copyright Elsevier?|
-|Edinburgh Uni| [URL](https://datashare.is.ed.ac.uk/discover?filtertype=dsType&filter_relational_operator=equals&filter=dataset) |1095|O| |
+|Edina (Edinburgh Uni)| [URL](https://datashare.is.ed.ac.uk/discover?filtertype=dsType&filter_relational_operator=equals&filter=dataset) |1095|O| |
 |UBDC (Glasgow Uni)|[URL](http://ubdc.gla.ac.uk/dataset)|1032| 0| |
 
 - Aberdeen
