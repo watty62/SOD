@@ -13,7 +13,7 @@ Last year I identified the data published by two universities (__*__). These app
 
 
 | Organisation      | URL       | Datasets| Type |Notes|
-| :------------- |:-------------|:------:|:------:|
+| :------------- |:-------------|:------:|:------:|:------:|
 |Abertay Uni| [URL](https://rke.abertay.ac.uk/en/datasets/)| 10|O|Copyright Elsevier?|
 |Edinburgh Uni| [URL](https://datashare.is.ed.ac.uk/discover?filtertype=dsType&filter_relational_operator=equals&filter=dataset) |1095|O| |
 |UBDC (Glasgow Uni)|[URL](http://ubdc.gla.ac.uk/dataset)|1032| 0| |
