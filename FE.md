@@ -1,11 +1,12 @@
 # Scottish Universities and Colleges
-This page will be updated as the content is reviewed.
-
 ## News
-Review underway February 2020. First draft of Universities completed. Not done FE colleges yet. 
+I reviewed open data provision of Universities and Colleges between 12 Feb 2020 and 17 February 2020. 
+
+There continues to be a very limited amount of real open data across the sector with loads of promises and statements of intent, some going back several years. 
 
 The [Higher Education Statistics Agency](https://www.hesa.ac.uk/data-and-analysis) publishes a range of potentially useful-looking Open Data under a [CC-BY-4.0 licence](https://creativecommons.org/licenses/by/4.0/). This is data about insitutions, course, students etc - and not data published by the institutions themselves. 
 
+### Universities
 Below is a list of the fifteen Universities in Scotland.
 
 Last year I identified the open data published by two universities (__*__). These were created _for_ a specific business, research or educational purpose. The Edinburgh Data Share repository _appears_ to have increased by over 800 datasets since last year, whereas the UBDC Open Data Catalogue seems to have grown by 5 datasets. 
@@ -52,20 +53,8 @@ On searching for the __University Of West of Scotland__'s open data, I was remin
 
 What jumps out from this is _where is the data about the day to day operation of each institution?_ 
 
-One might expect data on:
-* courses
-* modules
-* events
-* performance (perhaps some of this is on HESA?)
-* physical assets 
-* environmental performance
-* KPI targets and achievements etc.
-
-But I could identify none of that. 
-
-#### Further Education colleges in Scotland
-There are twenty FE colleges in Scotland.
-I have found no open data.
+### Further Education colleges in Scotland
+There are listed below twenty FE colleges in Scotland. I have found no open data for any of them.
 
 - Ayrshire College
 - Borders College   
@@ -88,6 +77,49 @@ I have found no open data.
 - West College Scotland
 - West Lothian College
 
+According to __Ayshire College__'s [Guide to Information Nov 2018](https://www1.ayrshire.ac.uk/media/6982/ayrshire-college-guide-to-information-november-2018.pdf) you can request both their open data publication plan _and_ the datasets theselves:  "This information can be requested by email to – foi@ayrshire.ac.uk"! Needless to say, I have requested both of those. 
+
+__City of Glasgow College__ has a [publication scheme}(https://www.cityofglasgowcollege.ac.uk/sites/default/files/CoGC%20MPS%20191219.pdf) with a file_name indicating it is from Dec 2019 - even if the doc is labelled 2017 - which at Class 9 ("Page 38 of 36") shows clear intent to create a single point of entry for a range of data to which links are provided. At present the data is in reports and the licensing, where available is not open. But the ambition to do it right is clear. 
+
+__Dumfries and Galloway College__'s [publication scheme](https://www.dumgal.ac.uk/dumgalcontent/uploads/2018/12/FOI_model_publication.pdf) uses a similar model. At the foot of page 2 states "The MPS set out eight broad classes of information" then lists nine classes. The section for class nine is missing from the end of the document. 
+
+__Edinburgh College__ is [quite clear](http://doc.edinburghcollege.ac.uk/welcome/publication%20scheme/publication_scheme.pdf): "The College does not currently have an open data publication plan."
+
+__Forth Valley College__ is also clear [in a different way](https://www.forthvalley.ac.uk/media/2093/fvc-model-publication-scheme-2016.pdf) in 2016 that "Pursuant to Section 27 (1) (a) of the Freedom of Information
+(Scotland) Act 2002 please note that this information is intended for
+future publication within the next three months." Four years later and I could find no open data. 
+
+__Glasgow Kelvin College__ goes into some detail about management reports without actually providing any open data. It does also link to the [SFC](http://www.sfc.ac.uk/publications-statistics/statistics/statistics-colleges/college-performance-indicators/college-performance-indicators.aspx) which, under 2018-19, produces some PDFs and 5.8MB XLSX file which appear to be covered by their site-wide copyright. This file contains a great deal of data but navigation, and side by side comparisons don't appear to be possible and even if data reuse were permitted, it looks like it would take some effort  with locked sheet(s), hidden data ranges etc. 
+
+__Glasgow School of Art__ publication scheme has a link to their 'Open data policy,' which isn't that and doesn't mention Open Data as such at all. There is also a link to [RADAR](http://radar.gsa.ac.uk/) their research portal. A quick search turned up no open data, but some references to papers about open access. 
+
+__New College Lanarkshire__ in their [Publication scheme (Feb 2019)](https://www.nclanarkshire.ac.uk/media/4030/260219-foi_doc.pdf) gamely state that:
+>The College does not currently publish any datasets in relation to open data,
+but is currently reviewing where it may be able to do so in line with the Scottish Government’s open data strategy and the xpectation that all public authorities will ublish and release open data by 2017.
+
+Similarly, [the SRUC](https://www.sruc.ac.uk/info/120668/class_9_open_data) states in its undated publication scheme that:
+
+> By 2017, all public authorities in Scotland should be publishing their data in a format of 3 star or above. 3 star data is data which is made available online, with an open license, in an open and machine-readable format. SRUC is currently working on reviewing its data sets to ensure compliance with the Scottish Open Data strategy
+
+__South Lanarkshire__ simply have a blank line against open dat in their [publication scheme](https://dkdtt1k0xa32o.cloudfront.net/uploads/Publication-Scheme-V5.pdf). 
+
+__West Lothian College__ [in 2018](https://www.west-lothian.ac.uk/media/2772/model-publication-scheme-2018.pdf) takes a very similar position to New College and SRUC. 
+
+Of all the colleges, while none produces anything that might be classed as open data, and few have anything beyond intentions, perhaps __City of Glasgow College__ not only comes closest, but does link to some sources of info and data. 
+
+## In conclusion
+Lumping Universities and Colleges together, one might expect properly structured, and licenced opn data on:
+* courses
+* modules
+* events
+* performance (perhaps some of this is on HESA and SFC sites?)
+* physical assets 
+* environmental performance
+* KPI targets and achievements etc.
+
+But I could identify none of that. 
+
+
 ---
 
 ## Errors and Ommissions
@@ -96,6 +128,8 @@ If you spot an error - or missing data - please fork this repo and submit a pull
 Alternatively email me at [mailto: ian_at_codethecity_dot_org](mailto:ian@codethecity.org) with an update. 
 
 ---
+
+[Back](README.md) to the main 2020 review. 
 
 
 [Back](README.md) to the main 2020 review. 

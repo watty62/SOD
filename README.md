@@ -37,7 +37,20 @@ This review (a work in progress) will be located on [this page](Health.md)
 --- 
 
 ## Scottish Universities and Colleges
-This review (a work in progress) will be located on [this page](FE.md)
+This review is to be found on [this page](FE.md)
+
+### Headlines 2020
+There is no significant change across the sector. The vast majority of institions have no provision of open data. Some have vague plans, many of them historical and not acted on. Lumping Universities and Colleges together, one might expect properly structured, and licenced opn data on:
+
+* courses
+* modules
+* events
+* performance (perhaps some of this is on HESA and SFC sites?)
+* physical assets 
+* environmental performance
+* KPI targets and achievements etc.
+
+But I could identify none of that. Overall, this was very disappointing. 
 
 --- 
 
