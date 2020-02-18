@@ -14,12 +14,13 @@ Last year I identified the open data published by two universities (__*__). Thes
 
 | Organisation      | URL       | Datasets| Type |Notes|
 | :------------- |:-------------|:------:|:------:|:------:|
+|University of Aberdeen| [URL](https://abdn.pure.elsevier.com/en/datasets/)| 309|O| |
 |Abertay Uni| [URL](https://rke.abertay.ac.uk/en/datasets/)| 10|O|Copyright Elsevier?|
+|University of Dundee| [URL](https://discovery.dundee.ac.uk/en/datasets/) | 47|O| |
 |Edina (Edinburgh Uni)| [URL](https://datashare.is.ed.ac.uk/discover?filtertype=dsType&filter_relational_operator=equals&filter=dataset) |1095|O| |
+|University of Strathclyde| [URL](https://pureportal.strath.ac.uk/en/datasets/)| 964|O| |
 |UBDC (Glasgow Uni)|[URL](http://ubdc.gla.ac.uk/dataset)|1032| 0| |
 
-- Aberdeen
-- Dundee
 - Edinburgh __*__
 - Glasgow __*__
 - Glasgow Caledonian
@@ -29,7 +30,6 @@ Last year I identified the open data published by two universities (__*__). Thes
 - Robert Gordon Uni
 - St Andrews
 - Stirling
-- Strathclyde
 - University of Highland and Islands
 - University of West of Scotland
 
