@@ -17,7 +17,7 @@ Data is broken into three types - APIs, open data, and linked open data.
 |L|Linked Open Data|
 |O|Open Data|
 
-### Main Scottish Government Statisttics Portal
+## Main Scottish Government Statisttics Portal
 The Scottish Government's Statistics have a very good portal with 286 Data Sets from multiple organisational-providers. This is up by 38 datasets on last year and includes a new organisation: The Care Inspectorate. 
 
 
@@ -40,10 +40,54 @@ The Scottish Government's Statistics have a very good portal with 286 Data Sets 
 - Scottish Indices of Multiple Deprivation: [map](http://simd.scot/2016/#/simd2016/BTTTFTT/9/-4.0000/55.9000/) and Data is on the Statistics Portal mentioned above, specifically[here](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Fscottish-index-of-multiple-deprivation)
  - [Spatial Hub](http://www.spatialhub.scot/get-data/) - still has 4 open datasets; __no change on 2019__. And it still has the most annoying pop-up in the whole of the public sector!
 
-### Scottish Government Directorates
-According to [Wikipedia](https://en.wikipedia.org/wiki/Directorates_of_the_Scottish_Government) there are forty-two directorates of the Scottish Government, up from thirty-three at the start of 2019. These are listed below. So far it appears that few produce open data.
+## Scottish Government Directorates
+According to [this page](https://www.gov.scot/about/how-government-is-run/directorates/) there are forty-three directorates of the Scottish Government, up from thirty-three at the start of 2019. These are listed below. So far it appears that few produce open data. [Wikipedia](https://en.wikipedia.org/wiki/Directorates_of_the_Scottish_Government), which counts 42 directorates, groups these into Directorates-General but this grouping is not obvious from the SG site. 
 
-Why isn't there Linked Open Data published about the structure of the Scottish Government with unique identifiers and permanent URIs for each? Why do we have to use Wikipedia as a reference source? 
+Incidentally, why isn't there Linked Open Data published about the structure of the Scottish Government with unique identifiers and permanent URIs for each? 
+
+- Advanced Learning and Science Directorate
+- Agriculture and Rural Delivery Directorate
+- Budget and Public Spending Directorate
+- Chief Economist Directorate
+- Chief Medical Officer Directorate
+- Chief Nursing Officer Directorate
+- Children and Families Directorate
+- Communications, Ministerial Support and Facilities Directorate
+- Community Health and Social Care Directorate
+- Constitution and Cabinet Directorate
+- Culture, Tourism and Major Events Directorate
+- Digital Directorate
+- Early Learning and Childcare Programme Directorate
+- Economic Development Directorate
+- Energy and Climate Change Directorate
+- Environment and Forestry Directorate
+- External Affairs Directorate
+- Fair Work, Employability and Skills Directorate
+- Financial Management Directorate
+- Financial Strategy Directorate
+- Health Finance, Corporate Governance and Value Directorate
+- Health Performance and Delivery Directorate
+- Health Workforce, Leadership and Service Reform Directorate
+- Healthcare Quality and Improvement Directorate
+- Housing and Social Justice Directorate
+- Internal Audit and Assurance Directorate
+- International Trade and Investment Directorate
+- Justice Directorate
+- Learning Directorate
+- Legal Services (Solicitor to the Scottish Government)
+- Local Government and Communities Directorate
+- Marine Scotland Directorate
+- Mental Health Directorate
+- Office of the Chief Executive NHS Scotland
+- Parliamentary Counsel Office
+- People Directorate
+- Performance and Strategic Outcomes Directorate
+- Population Health Directorate
+- Safer Communities Directorate
+- Scottish National Investment Bank Directorate
+- Scottish Procurement and Property Directorate
+- Social Security Directorate
+- Taxation and Fiscal Sustainability Directorate
 
 
 
@@ -52,6 +96,7 @@ Why isn't there Linked Open Data published about the structure of the Scottish G
 If you spot an error - or missing data - please fork this repo and submit a pull request. 
 
 Alternatively email me [ian_at_codethecity_dot_co_uk](mailto:ian@codethecity.co.uk) with an update. 
+
 ---
 
 [Back](README.md) to the main 2020 review. 
