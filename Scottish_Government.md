@@ -45,6 +45,9 @@ According to [this page](https://www.gov.scot/about/how-government-is-run/direct
 
 Incidentally, why isn't there Linked Open Data published about the structure of the Scottish Government with unique identifiers and permanent URIs for each? 
 
+Addtitionally, when accessing the 166 Scottish Government data sets (see the URL in the table above), below the Explore bar there are links (depending on the dataset) to various 'concept folders' such as [housing](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdef%2Fconcept%2Ffolders%2Fthemes%2Fhousing) many of which must surely align with some of the list below (e.g. Housing and Social Justice Directorate) but unpicking which have published Open Data and which have not appears almost impossible at the moment.
+
+
 - Advanced Learning and Science Directorate
 - Agriculture and Rural Delivery Directorate
 - Budget and Public Spending Directorate
@@ -76,7 +79,7 @@ Incidentally, why isn't there Linked Open Data published about the structure of 
 - Learning Directorate
 - Legal Services (Solicitor to the Scottish Government)
 - Local Government and Communities Directorate
-- Marine Scotland Directorate
+- Marine Scotland Directorate __(MS)__
 - Mental Health Directorate
 - Office of the Chief Executive NHS Scotland
 - Parliamentary Counsel Office
@@ -89,7 +92,19 @@ Incidentally, why isn't there Linked Open Data published about the structure of 
 - Social Security Directorate
 - Taxation and Fiscal Sustainability Directorate
 
+__(MS) =  Marine Scotland__ 
 
+So far I have identified Marine Scotland as the only body in the list above publishing Open Data.
+
+The figures below are subjecvt to change. They are still being checked, as URLs and formats apperar to have changed. 
+
+| Directorate   | URL         | Datasets |Change| Type|
+| :------------- |:-------------| :-----:|:---:|:---:|
+|Marine Scotland Data|[https://data.marine.gov.scot](https://data.marine.gov.scot)|240| +30 |OA|
+|Marine Scotland Maps|[https://marinescotland.atkinsgeospatial.com/nmpi/](http://data.marine.gov.scot)|tbc|tbc |(O)|
+|Marine Scotland Information|[http://marine.gov.scot (infomation tab)](http://marine.gov.scot)|tbc $||O|
+
+$ It appears that content is being migrated between sites. It was not possible to ascertain how many infomation pages there are, comapred with 300 in Feb 2019. 
 
 ---
 ## Errors and Ommissions
