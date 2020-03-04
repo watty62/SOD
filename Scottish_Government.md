@@ -109,7 +109,9 @@ The figures below are subject to change. They are still being checked, as URLs a
 
 
 $ 240 datasets with 768 downloadable resources. API to query csv resources (315 resources), as well as DCAT standard inventory on data.marine.gov.scot/data.json
+
 ~ New this year is 131 marine license pages with access to 2443 license documents. Also around 2,000 links to other organisations, reports etc.
+
 £ There are currently 1,109 spatial layers listed. These originate from many different organisations and licenses though.
 
 Source [this twitter conversation](https://twitter.com/overchord/status/1235148356084740096)
