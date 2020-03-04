@@ -92,19 +92,52 @@ Addtitionally, when accessing the 166 Scottish Government data sets (see the URL
 - Social Security Directorate
 - Taxation and Fiscal Sustainability Directorate
 
-__(MS) =  Marine Scotland__ 
+### Homecare 
+There are three old datasets about homecare (2010-2012) made available [here](https://www2.gov.scot/Topics/Statistics/Browse/Health/Data/HomeCare/HSC-Datasets-HCPRF). It took someone who knows about this to find them and let me know about their existence. This is on the old Scottishs Government Website. The new one is [here](https://www.gov.scot/).
 
-So far I have identified Marine Scotland as the only body in the list above publishing Open Data.
+The main page is clearly marked at, the foot, "Crown Copyright." However, clicking on that take us to [this page](https://www2.gov.scot/CrownCopyright). "Re-using Crown copyright material. You may use and re-use the information featured on this website (not including logos) free of charge in any format or medium, under the terms of the Open Government Licence." 
 
-The figures below are subjecvt to change. They are still being checked, as URLs and formats apperar to have changed. 
+### (MS) =  Marine Scotland
+
+The figures below are subject to change. They are still being checked, as URLs and formats apperar to have changed. 
 
 | Directorate   | URL         | Datasets |Change| Type|
 | :------------- |:-------------| :-----:|:---:|:---:|
-|Marine Scotland Data|[https://data.marine.gov.scot](https://data.marine.gov.scot)|240| +30 |OA|
-|Marine Scotland Maps|[https://marinescotland.atkinsgeospatial.com/nmpi/](http://data.marine.gov.scot)|tbc|tbc |(O)|
-|Marine Scotland Information|[http://marine.gov.scot (infomation tab)](http://marine.gov.scot)|tbc $||O|
+|Marine Scotland Data|[https://data.marine.gov.scot](https://data.marine.gov.scot)|240 $| +30 |OA|
+|Marine Scotland Maps|[https://marinescotland.atkinsgeospatial.com/nmpi/](http://data.marine.gov.scot)| 1109|tbc |(O)|
+|Marine Scotland Information|[http://marine.gov.scot (infomation tab)](http://marine.gov.scot)|366 $||O|
 
-$ It appears that content is being migrated between sites. It was not possible to ascertain how many infomation pages there are, comapred with 300 in Feb 2019. 
+$ 240 datasets with 768 downloadable resources. API to query csv resources (315 resources), as well as DCAT standard inventory on data.marine.gov.scot/data.json
+* New this year is 131 marine license pages with access to 2443 license documents. Also around 2,000 links to other organisations, reports etc.
++ There are currently 1,109 spatial layers listed. These originate from many different organisations and licenses though.
+
+Source [this twitter conversation](https://twitter.com/overchord/status/1235148356084740096)
+
+
+### Procurement
+The Scottish Government supports Open Procurement. You can download bulk notices or use the API to select data. 
+
+You can find the data [here](https://www.publiccontractsscotland.gov.uk/NoticeDownload/Download.aspx)
+
+Similarly, you can search the contracts register [on this page](https://www.publiccontractsscotland.gov.uk/Contracts/Contracts_Search.aspx?AuthID=AA10482). Each is OGL licensed. 
+
+## Scottish Government Executive Agencies
+I tried various ways to find a list of Executive Agencies on the Scottish Goverment website without success. I'd find pages such as this [guide](https://www.gov.scot/publications/public-bodies-in-scotland-guide/) which had no list. 
+
+[Wikipedia](https://en.wikipedia.org/wiki/Executive_agencies_of_the_Scottish_Government) lists nine executive agencies.
+Where the items in the list below are starred, it indicates that they were previosuly found to have some or all of their open data on the Statistics portal, above. Otherwise, I have found no open data for them.
+
+- Accountant in Bankruptcy __*__
+- Disclosure Scotland
+- Education Scotland
+- Historic Environment Scotland __HES__
+- Scottish Prison Service
+- Scottish Public Pensions Agency
+- Social Security Scotland
+- Student Awards Agency for Scotland
+- Transport Scotland
+
+__HES__ the HES [spatial portal](https://portal.historicenvironment.scot/spatialdownloads) has loads of data but no open licence. 
 
 ---
 ## Errors and Ommissions
