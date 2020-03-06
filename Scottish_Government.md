@@ -161,15 +161,175 @@ The Student Awards Agency has a [site](https://saas.gov.uk) whose footer on the 
 
 Transport Scotland's [publication scheme](https://www.transport.gov.scot/freedom-of-information/publication-scheme/#section-61318) says of open data "Open data made available by the authority as described by the Scottish Government’s Open Data Strategy and Resource Pack, available under an open licence. We comply with the guidance above when publishing data and other information to our website. Details of publications and statistics can be found in the body of this document or on the Publications section of our website." I searched both without success for any OD. _Why not say "we don't publish any Open Data"_? Also, compare this with the [Open Bus Data](https://www.gov.uk/government/collections/bus-open-data-service) for England. Story [here](https://www.europeandataportal.eu/en/news/launch-bus-open-data-service-early-2020).
 
+--- 
 
+According to [Wikipedia](https://en.wikipedia.org/wiki/Public_bodies_of_the_Scottish_Government), the Scottish Government is reponsible for the following 88 Non Departmental Public Bodies, drawn from the more verbose [SG Factsheet](https://www.gov.scot/publications/national-public-bodies-directory/pages/introduction/) each of whom should be producing open data according to the Scottish Government's Open Data Strategy. 
 
-----
-To be moved to NDPBs
+#### Scottish Government non-ministerial Offices
+Where the items in the list below are starred, it indicates that they have some or all of their open data on the Statistics portal, above. Where their initials are in bold there is a para on what I found. Otherwise, I have found no open data for them.
 
-- Historic Environment Scotland __HES__
-__HES__ the HES [spatial portal](https://portal.historicenvironment.scot/spatialdownloads) has loads of data but no open licence. 
+- Food Standards Scotland __FSS__
+- National Records of Scotland __*__
+- Office of the Scottish Charity Regulator __OSCR__
+- Registers of Scotland __RoS__
+- Revenue Scotland __*__
+- Scottish Courts and Tribunals Service __SCTS__
+- Scottish Fiscal Commission
+- Scottish Housing Regulator
+
+__Note: The following should also be in tabular form.__
+
+_FSS_ has a [new portal](https://www.foodstandards.gov.scot/publications-and-research/open-data-portal) with 12 data sets using OGL3 licence.
+
+_OSCR_ allows a download of the [Charity Register data[(https://www.oscr.org.uk/about-charities/search-the-register/charity-register-download), now using a OGL3 licence. There are still restrictions on what you can do with the data which falls a little short of true OD.
+
+_RoS_ publishes [four sets of data](https://www.ros.gov.uk/data-and-statistics) such as House Price Statistics. It appears to be a mix of commercial and openly licenced data. The [copyright page](https://www.ros.gov.uk/crown-copyright-and-copyright-licences) doesn't help to work out which data sets are OGL licenced.
+
+_SCTS_ produces three sets of reports under [Official Statistics](https://www.scotcourts.gov.uk/about-the-scottish-court-service/reports-data) which begin as web pages, link to a series of PDFs many of which theh nae links to heavily-locked down XLSX files. Getting at the data, which at least is [OGL3 licenced](https://www.scotcourts.gov.uk/meta/crown-copyright), is a real challenge.
+
+#### Executive NDPBs
+
+Where the items in the list below are starred, it indicates that they have some or all of their open data on the Statistics portal, above. Otherwise, I have found no open data for them.
+
+It appears that SEPA, and SNH, in addition to using the Scottish Government's new Statistics Open Data Portal, also publish separately:
+
+| Directorate   | URL         | Datasets |Change| Type|
+| :------------- |:-------------| :-----|:---|:---:|
+|Scottish Environmental Protection Agency (SEPA)|[URL](http://data.sepa.org.uk)|6|-|L|
+|Scotish Natual Heritage (SNH)| [URL](https://gateway.snh.gov.uk/natural-spaces/)| 53|-1|O|
 
 Also, I was alerted to the [Environment Scotland portal](https://www.environment.gov.scot/data/useful-data-sources/) where they have links to other data sources many of which are open, as well as other useful content. 
+
+- Accounts Commission for Scotland
+- Architecture and Design Scotland __ADS__
+- Bòrd na Gàidhlig
+- Cairngorms National Park Authority
+- Care Inspectorate _*_
+- Children's Hearings Scotland __CHS__
+- Community Justice Scotland (new)
+- Creative Scotland
+- Crofting Commission __CC__
+- David MacBrayne Ltd (new) __DMBL__
+- Historic Environment Scotland __HES__
+- Highlands & Islands Airports Ltd (new)
+- Highlands & Islands Enterprise
+- Independent Living Fund Scotland __ILF__
+- The Loch Lomond and the Trossachs National Park Authority
+- National Galleries of Scotland __NGS__
+- National Library of Scotland __NLS__
+- National Museums Scotland __NMS__
+- Police Investigations and Review Commissioner
+- Quality Meat Scotland
+- Risk Management Authority
+- Royal Botanic Garden Edinburgh __RBGE__
+- Scottish Agricultural Wages Board
+- Scottish Children's Reporter Administration
+- Scottish Criminal Cases Review Commission __SCCRC__
+- Scottish Enterprise __SE__
+- Scottish Environment Protection Agency (SEPA) __*__
+- Scottish Funding Council 
+- Scottish Futures Trust
+- Scottish Land Commission
+- Scottish Legal Aid Board
+- Scottish Legal Complaints Commission
+- Scottish Natural Heritage __*__ (see above)
+- Scottish Qualifications Authority __SQA__
+- Scottish Social Services Council __SSSC__
+- Skills Development Scotland
+- sportscotland
+- VisitScotland __*__
+- Water Industry Commission for Scotland
+
+__ADS__ [website site](https://www.ads.org.uk) which appears to be an official one refused to open in my browser with standard settings ( WebKitErrorDomain:104) . This is the first time I have encoutered this in a goverment agency website. 
+
+__CC__ The commission publishes four CSV files under [Open Data](http://www.crofting.scotland.gov.uk/open-data)
+
+__CHS__ have an [Open Data Publication Plan](http://www.chscotland.gov.uk/media/132793/Open-Data-Publication-Plan-v10.pdf) from 2017 which states that they currently publish no OD, but it is due for review in "July 2019."
+
+__HES__ the HES [spatial portal](https://portal.historicenvironment.scot/spatialdownloads) has nine datasets to download. The [Terms and Conditions](https://portal.historicenvironment.scot/termsandconditions) for spatial datasets is now specific that OGL3 is the licence, withe the exception of Historic Landuse Assessment Data. 
+
+__DMBL__ David MacBrayne Limited is, I believe, is the parent, or operator of Calmac Ferries Limited who, on 1st March 2020 release a [new data platform](https://www.calmac.co.uk/corporate/your-carrying-statistics) to get data about their 29 ferry routes. This is very welcome. While their intent appears to be to make it Open Data, the website is copyright and there is no specific licenising of the data. After choosing the dates, routes and traffic types you can download a CSV of results.
+
+__ILF__ have a nice "[Open Data Communication Plan 2018-2021](https://ilf.scot/wp-content/uploads/2019/04/Open-Data-Communications-Plan.pdf)" which sets out a plan to move from 3- to 5-star data. It is due to be reviewed in Aug 2019 (sic). Sadly, despite the two-year-old assurances I could find no data on their site.  
+
+__NGS__ It appears that other than some thinking, in [this Jan 2018 paper](https://mw18.mwconf.org/paper/digital-collections-open-data-and-the-boundaries-of-openness-a-case-study-from-the-national-galleries-of-scotland/) no data has been released. 
+
+__NLS__ Has a [plan and register of open data](https://www.nls.uk/about-us/open-data). Given the impressive breadth of data published on their [Data Foundry](http://data.nls.uk/) I suspect that neither of these is up to date.
+
+__NMS__ It appears from their [2019 Publication Scheme](https://www.nms.ac.uk/media/1159328/foisa-pubscheme-2019.pdf) that they have no open data. 
+
+__RBGE__'s [Publication Scheme](https://www.rbge.org.uk/media/5544/rbge-guide-to-information-2018.pdf) lists three oneline databases as open data. Only one of these had clear open licensing.
+
+__SCCRC__'s [Publication Scheme](https://irp-cdn.multiscreensite.com/8f56052e/files/uploaded/GuideToInformation%202019.pdf) appears to be misleading. It lists annual reports and research reports under _Class 9 Open Data_ but neither page to which these link appears to have any open data. 
+
+__SE__ [extol the virtues of OD](https://www.scottish-enterprise-mediacentre.com/news/new-innovation-index-shows-edinburgh-best-uk-city-for-innovative-technologies-outside-of-london-glasgow-also-excels), apparently have an [events API](http://events.scottish-enterprise.com/eventsservice/EventsWebService.svc?wsdl.) which doesn't work, mention OD in various articles and plans but I could find no published data, which seems extraordinary given their size and range of operations!
+
+__SQA__ have [two datasets]( https://data.gov.uk/search?q=SQA)  on Data.gov.uk but neither are more recent than 2013 data it appears. Their [publication schome](https://www.sqa.org.uk/sqa/files_ccc/SQAPublicationScheme.pdf) unchanged from 2015(!) has no reference to OD. Given the amount of data they posses on school, college and university examinations this is quite incredible. 
+
+__SSSC__ say in their [Open Data Publication Plan and Schedule 2016](https://www.sssc.uk.com/knowledgebase/article/KA-01232/en-us) that they will identify and publish 3 star open data sets by Dec 2016. I could find none. 
+
+
+#### Advisory NDPBs
+No open data found. 
+
+- Judicial Appointments Board for Scotland
+- Local Government Boundary Commission for Scotland
+- Mobility and Access Committee for Scotland
+- Scottish Advisory Committee on Distiction Awards
+- Scottish Commission on Social Security
+- Scottish Law Commission
+
+#### Tribunals
+No open data found.
+
+- Additional Support Needs Tribunals for Scotland
+- First-tier Tax Tribunal for Scotland
+- Lands Tribunal for Scotland
+- Mental Health Tribunal for Scotland
+- Parole Board for Scotland
+- Private Rented Housing Panel for Scotland
+- Scottish Charity Appeals Panel
+- Upper Tax Tribunal for Scotland
+
+#### Public corporations
+No open data found. 
+- Caledonian Maritime Assets Lts
+- Crown Estate Scotland
+- Glasgow Prestwick Airport
+- Scottish Canals
+- Scottish Water
+
+#### Executive agencies
+Where the items in the list below are starred, it indicates that they have some or all of their open data on the Statistics portal, above. Otherwise, I have found no open data for them.
+
+- Accountant in Bankruptcy __*__
+- Disclosure Scotland
+- Education Scotland
+- Scottish Prison Service
+- Scottish Public Pensions Agency
+- Social Security Scotland
+- Student Awards Agency for Scotland
+- Transport Scotland __*__
+
+Wikipedia also lists Forestry and Land Scotland, _and_ Scottish Forestry but these are dealt with above.
+
+#### Other significant national bodies
+Where the items in the list below are starred, it indicates that they have some or all of their open data on the Statistics portal, above. Otherwise, I have found no open data for them.
+
+- Audit Scotland
+- Converor of School Closures Review Panels
+- Court of the Lord Lyon
+- Drinking Water Quality Regulator
+- HM Chief Inspector of Prisons for Scotland
+- HM Chief Inspector of Prosecution in Scotland
+- HM Fire Service Inspectorate in Scotland (new)
+- HM Inspector of Constabulary for Scotland
+- Justices of the Peace Advisory Committee (x6)
+- Office of the Queen's Printer for Scotland
+- Scottish Fire & Rescue Service __*__
+- Scottish Police Authority
+- Scottish Road Works Commissioner
+
 
 ---
 ## Errors and Ommissions
