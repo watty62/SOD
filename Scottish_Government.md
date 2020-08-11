@@ -1,10 +1,10 @@
 ## Scottish Government
-The sections below list open data provision by the Scottish Government and its directorates, agencies, NDPBS etc. The challenges identified around findability in the Feb 2019 review are little changed. 
+The sections below list open data provision by the Scottish Government and its directorates, agencies, NDPBS etc. 
 
 ## News
 __Review underway February / March 2020. A work in progress__
 
-There is still an issue with finability of data, with no central portal for open data in the Scottish public sector or even for Scottish Government. Searching the [main Scottish Government website](https://www.gov.scot/) for _open data_ yields 633 results, none of which are links to _data_ on the first four screenfuls, I didn't go deeper than that.  
+The issue with findability of data raised in Feb 2019 is unchanged: there being no central portal for open data in the Scottish public sector or even for Scottish Government. Searching the [main Scottish Government website](https://www.gov.scot/) for _open data_ yields 633 results, none of which are links to _data_ on the first four screenfuls, I didn't go deeper than that. It is important to note that the whole of the gov.scot website is covered by an OGL open licence. Sadly this is not true for most of the public sector. 
 
 ## The Data
 A list of open data resources in the Scottish Government. 
@@ -18,7 +18,8 @@ Data is broken into three types - APIs, open data, and linked open data.
 |O|Open Data|
 
 ## Main Scottish Government Statistics Portal
-The Scottish Government's Statistics have a very good portal with 286 Data Sets from multiple organisational-providers. This is up by 38 datasets on last year and includes a new organisation: The Care Inspectorate. 
+
+The Scottish Government's Statistics have a very good portal with 295 Data Sets from multiple organisational-providers. This is up by 46 datasets on last year and includes a new organisation: The Care Inspectorate. The figures below are from Mar 2020 and total 286 which was correct at that point. 
 
 I've heard numerous comments from people who find the interface challenging but there are some very helpful [guides provided](https://guides.statistics.gov.scot). 
 
@@ -39,15 +40,15 @@ I've heard numerous comments from people who find the interface challenging but 
 |All|[URL](https://statistics.gov.scot/data_home) |286|+38|O|
 
  - [The Scottish Spatial Data Infrastructure](http://spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/home). This is a metadata repository for Inspire data, but does not publish open data.
-- Scottish Indices of Multiple Deprivation: [map](http://simd.scot/2016/#/simd2016/BTTTFTT/9/-4.0000/55.9000/) and Data is on the Statistics Portal mentioned above, specifically[here](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Fscottish-index-of-multiple-deprivation)
- - [Spatial Hub](http://www.spatialhub.scot/get-data/) - still has 4 open datasets; __no change on 2019__. And it still has the most annoying pop-up in the whole of the public sector!
+- Scottish Indices of Multiple Deprivation: [map](http://simd.scot/2016/#/simd2016/BTTTFTT/9/-4.0000/55.9000/) and Data is on the Statistics Portal mentioned above, specifically [here](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Fscottish-index-of-multiple-deprivation)
+ - [Spatial Hub](http://www.spatialhub.scot/get-data/) - still has 4 open datasets; __no change on 2019__. And it still (18 months on) has the most annoying pop-up in the whole of the public sector! Why is it SO unique that it needs this of ALL the sites I've looked at? Why won't it disappear when seen once? 
 
 ## Scottish Government Directorates
 According to [this page](https://www.gov.scot/about/how-government-is-run/directorates/) there are forty-three directorates of the Scottish Government, up from thirty-three at the start of 2019. These are listed below. So far it appears that few produce open data. [Wikipedia](https://en.wikipedia.org/wiki/Directorates_of_the_Scottish_Government), which counts 42 directorates, groups these into Directorates-General but this grouping is not obvious from the SG site. 
 
-Incidentally, why isn't there Linked Open Data published about the structure of the Scottish Government with unique identifiers and permanent URIs for each? 
+Incidentally, why isn't there Linked Open Data published about the structure of the Scottish Government with unique identifiers and permanent URIs for each? Surely there is a small project for a civil servant to get stuck into this [on Wikidata](https://w.wiki/ZKW) for a day?
 
-Addtitionally, when accessing the 166 Scottish Government data sets (see the URL in the table above), below the Explore bar there are links (depending on the dataset) to various 'concept folders' such as [housing](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdef%2Fconcept%2Ffolders%2Fthemes%2Fhousing) many of which must surely align with some of the list below (e.g. Housing and Social Justice Directorate) but unpicking which have published Open Data and which have not appears almost impossible at the moment.
+Addtitionally, when accessing the 286 Scottish Government data sets (see the URL in the table above), below the Explore bar there are links (depending on the dataset) to various 'concept folders' such as [housing](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdef%2Fconcept%2Ffolders%2Fthemes%2Fhousing) many of which must surely align with some of the list below (e.g. Housing and Social Justice Directorate) but unpicking which have published Open Data and which have not appears almost impossible at the moment.
 
 
 - Advanced Learning and Science Directorate
@@ -95,26 +96,24 @@ Addtitionally, when accessing the 166 Scottish Government data sets (see the URL
 - Taxation and Fiscal Sustainability Directorate
 
 ### Homecare 
-There are three old datasets about homecare (2010-2012) made available [here](https://www2.gov.scot/Topics/Statistics/Browse/Health/Data/HomeCare/HSC-Datasets-HCPRF). It took someone who knows about this to find them and let me know about their existence. This is on the old Scottishs Government Website. The new one is [here](https://www.gov.scot/).
-
-The main page is clearly marked at, the foot, "Crown Copyright." However, clicking on that take us to [this page](https://www2.gov.scot/CrownCopyright). "Re-using Crown copyright material. You may use and re-use the information featured on this website (not including logos) free of charge in any format or medium, under the terms of the Open Government Licence." 
+There are three __old__ datasets about homecare (2010-2012) made available [here](https://www2.gov.scot/Topics/Statistics/Browse/Health/Data/HomeCare/HSC-Datasets-HCPRF). It took someone who knows about this to find them and let me know about their existence. This is on the old Scottishs Government Website. The new one is [here](https://www.gov.scot/). The main page is clearly marked at, the foot, "Crown Copyright." However, clicking on that take us to [this page](https://www2.gov.scot/CrownCopyright). "Re-using Crown copyright material. You may use and re-use the information featured on this website (not including logos) free of charge in any format or medium, under the terms of the Open Government Licence." 
 
 ### (MS) =  Marine Scotland
 
-The figures below are subject to change. They are still being checked, as URLs and formats apperar to have changed. 
+The figures below were checked in March 2020.
 
 | Directorate   | URL         | Datasets |Change| Type|
 | :------------- |:-------------| :-----:|:---:|:---:|
 |Marine Scotland Data|[https://data.marine.gov.scot](https://data.marine.gov.scot)|240 $| +30 |OA|
 |Marine Scotland Information|[http://marine.gov.scot (infomation tab)](http://marine.gov.scot)|366 ~|+66|O|
-|Marine Scotland Maps|[https://marinescotland.atkinsgeospatial.com/nmpi/](http://data.marine.gov.scot)| 1109 £|+137 |(O)|
+|Marine Scotland Maps|[https://marinescotland.atkinsgeospatial.com/nmpi/](http://data.marine.gov.scot)| 1109 %|+137 |(O)|
 
 
-$ 240 datasets with 768 downloadable resources. API to query csv resources (315 resources), as well as DCAT standard inventory on data.marine.gov.scot/data.json
+($) - 240 datasets with 768 downloadable resources. API to query csv resources (315 resources), as well as DCAT standard inventory on data.marine.gov.scot/data.json
 
-~ New this year is 131 marine license pages with access to 2443 license documents. Also around 2,000 links to other organisations, reports etc.
+(~) - New this year is 131 marine license pages with access to 2443 license documents. Also around 2,000 links to other organisations, reports etc.
 
-£ There are currently 1,109 spatial layers listed. These originate from many different organisations and licenses though.
+(%) -  There are currently 1,109 spatial layers listed. These originate from many different organisations and licenses though.
 
 Source [this twitter conversation](https://twitter.com/overchord/status/1235148356084740096)
 
@@ -127,7 +126,7 @@ You can find the data [here](https://www.publiccontractsscotland.gov.uk/NoticeDo
 Similarly, you can search the contracts register [on this page](https://www.publiccontractsscotland.gov.uk/Contracts/Contracts_Search.aspx?AuthID=AA10482). Each is OGL licensed. 
 
 ## Scottish Government Executive Agencies
-I tried various ways to find a list of Executive Agencies on the Scottish Goverment website without success. I did find pages such as this [guide](https://www.gov.scot/publications/public-bodies-in-scotland-guide/) which had no list. Therefore, turning to [Wikipedia](https://en.wikipedia.org/wiki/Executive_agencies_of_the_Scottish_Government) I find a list of ten executive agencies (one more than last year). Thanks to Wikipedia's view history feature (why don't public sector websites show their changes!?) [I can see](https://en.wikipedia.org/w/index.php?title=Executive_agencies_of_the_Scottish_Government&diff=910495231&oldid=890467635)] that two new agencies were added: Forestry and Land Scotland, Scottish Forestry, and that Historic Environment Scotland has been removed, and made a NDPB (see below). 
+I tried various ways to find a list of Executive Agencies on the Scottish Goverment website without success. I did find pages such as this [guide](https://www.gov.scot/publications/public-bodies-in-scotland-guide/) which had no list. Therefore, turning to [Wikipedia](https://en.wikipedia.org/wiki/Executive_agencies_of_the_Scottish_Government) I find a list of ten executive agencies (one more than last year). Thanks to Wikipedia's view history feature (__why don't public sector websites track and show their changes!?__) [I can see](https://en.wikipedia.org/w/index.php?title=Executive_agencies_of_the_Scottish_Government&diff=910495231&oldid=890467635) that two new agencies were added: Forestry and Land Scotland, Scottish Forestry, and that Historic Environment Scotland has been removed, and made a NDPB (see below). 
 
 Where the items in the list below are starred, it indicates that they were previosuly found to have some or all of their open data on the Statistics portal, above. Otherwise, unless flagged below using their initials, I have found no open data for them.
 
@@ -144,9 +143,7 @@ Where the items in the list below are starred, it indicates that they were previ
 
 ES - In their [June 2019 Digital Strategy](https://education.gov.scot/Documents/ESDigitalStrategyJune2019.pdf) at Principle 5 says "...Education Scotland’s digital services must: Publish open data where possible to foster innovation in Scottish education...." But further than that I couldn't find specific actions or timescale in relation to open data, nor could I locate any data published since the strategy.
 
-FLS - Querying the FLS site for 'Open Data' [was not at all helpful](https://forestryandland.gov.scot/search-results?q=open+data). The second result for Wildfire Prevention said that access to it was forbidden. So why list it in public search results?  
-
-The first result was for "Energy Offering 2019" (whatever that means) and the final line of that page linked to a specific resource on an [Arc GIS site](http://data-forestry.opendata.arcgis.com/datasets/c31ae81655fb4c279a5d97b39065d63b_0/data) offering 10 boundary shapefiles. I found that navigating back to the home of that GIS site (actually a UK-wide Forestry Commission site) then allowed me to locate [19 resources for Scotland](http://data-forestry.opendata.arcgis.com/search?tags=Scotland). I checked a few. Some had an OGL licence. Others had a 'Custom Licence' such as 'There are no public access constraints to this data. Use of this data is subject to the Open Government LicenceAny maps produced using this data should contain the following Forestry Commission acknowledgement: "Contains, or is based on, information supplied by the Forestry Commission. © Crown copyright and database right 2019 Ordnance Survey [100021242]'.
+FLS - Querying the FLS site for 'Open Data' [was not at all helpful](https://forestryandland.gov.scot/search-results?q=open+data). The second result for Wildfire Prevention said [Mar 2020] that access to it was forbidden. So why list it in public search results?  The first result was for "Energy Offering 2019" (_whatever that means_) and the final line of that page linked to a specific resource on an [Arc GIS site](http://data-forestry.opendata.arcgis.com/datasets/c31ae81655fb4c279a5d97b39065d63b_0/data) offering 10 boundary shapefiles. I found that navigating back to the home of that GIS site (actually a UK-wide Forestry Commission site) then allowed me to locate [19 resources for Scotland](http://data-forestry.opendata.arcgis.com/search?tags=Scotland). I checked a few. Some had an OGL licence. Others had a 'Custom Licence' such as 'There are no public access constraints to this data. Use of this data is subject to the Open Government LicenceAny maps produced using this data should contain the following Forestry Commission acknowledgement: "Contains, or is based on, information supplied by the Forestry Commission. © Crown copyright and database right 2019 Ordnance Survey [100021242]'.
 
 SF - this has an [ARC GIS respoitory](https://open-data-scottishforestry.hub.arcgis.com/search?collection=Dataset)
 with an impressive 71 sets of very intersting data. The several that I looked at were marked as having a "Custom Licence" but on clicking each they stated "In using the data from this website you acknowledge that you have read, understood and agree to abide by the terms and conditions of the Open Government Licence 3.0." No link was provided to the OGL3 to explain its terms, though. They also have a clear, but slightly dated Open Data plan. 
@@ -157,13 +154,13 @@ The Scottish Public Pensions Agency [states](https://pensions.gov.scot/freedom-i
 
 SSS - Their publication scheme states that 5 star open data is published on the main government statistics data portal (above). Searching there for "Social Security" [does turn up five data sets](https://statistics.gov.scot/data/search?search=%22Social+Security+Scotland%22) but these are labelled as emanating from SG as a whole rather than from this agency. 
 
-The Student Awards Agency has a [site](https://saas.gov.uk) whose footer on the front page uses fonts in a way that must be a crime against design. With some trawling it yielded a link to a 2012-2013 statistical publication, but no open data.
+Searching on the Student Awards Agency has a [site](https://saas.gov.uk) yielded a link to a 2012-2013 statistical publication, but no open data.
 
 Transport Scotland's [publication scheme](https://www.transport.gov.scot/freedom-of-information/publication-scheme/#section-61318) says of open data "Open data made available by the authority as described by the Scottish Government’s Open Data Strategy and Resource Pack, available under an open licence. We comply with the guidance above when publishing data and other information to our website. Details of publications and statistics can be found in the body of this document or on the Publications section of our website." I searched both without success for any OD. _Why not say "we don't publish any Open Data"_? Also, compare this with the [Open Bus Data](https://www.gov.uk/government/collections/bus-open-data-service) for England. Story [here](https://www.europeandataportal.eu/en/news/launch-bus-open-data-service-early-2020).
 
 --- 
 
-According to [Wikipedia](https://en.wikipedia.org/wiki/Public_bodies_of_the_Scottish_Government), the Scottish Government is reponsible for the following 88 Non Departmental Public Bodies, drawn from the more verbose [SG Factsheet](https://www.gov.scot/publications/national-public-bodies-directory/pages/introduction/) each of whom should be producing open data according to the Scottish Government's Open Data Strategy. 
+According to [Wikipedia](https://en.wikipedia.org/wiki/Public_bodies_of_the_Scottish_Government) in March 2020, the Scottish Government is reponsible for the following 88 Non Departmental Public Bodies, drawn from the more verbose [SG Factsheet](https://www.gov.scot/publications/national-public-bodies-directory/pages/introduction/) each of whom should be producing open data according to the Scottish Government's Open Data Strategy. 
 
 #### Scottish Government non-ministerial Offices
 Where the items in the list below are starred, it indicates that they have some or all of their open data on the Statistics portal, above. Where their initials are in bold there is a para on what I found. Otherwise, I have found no open data for them.
@@ -177,15 +174,21 @@ Where the items in the list below are starred, it indicates that they have some 
 - Scottish Fiscal Commission
 - Scottish Housing Regulator
 
-__Note: The following should also be in tabular form.__
+
+| Office| URL| Datasets |Change| Type|
+| :------------- |:-------------| :-----|:---|:---:|
+|Food Standards Scotland|[URL](https://www.foodstandards.gov.scot/publications-and-research/open-data-portal)|12|?|L|
+|Office of the Scottish Charity Regulator (OSCR)| [URL](https://www.oscr.org.uk/about-charities/search-the-register/charity-register-download)| 3|?|O|
+|Registers of Scotland (RoS)| [URL](https://www.ros.gov.uk/data-and-statistics)| 4|?|O|
+|Scottish Courts and Tribunals Service SCTS| [URL](https://www.scotcourts.gov.uk/about-the-scottish-court-service/reports-data)| 3|?|O|
 
 _FSS_ has a [new portal](https://www.foodstandards.gov.scot/publications-and-research/open-data-portal) with 12 data sets using OGL3 licence.
 
-_OSCR_ allows a download of the [Charity Register data[(https://www.oscr.org.uk/about-charities/search-the-register/charity-register-download), now using a OGL3 licence. There are still restrictions on what you can do with the data which falls a little short of true OD.
+_OSCR_ allows a download of the [Charity Register data[(https://www.oscr.org.uk/about-charities/search-the-register/charity-register-download), using a OGL3 licence. There are options to download lists of the 300 highest income charities, and of former charities. 
 
 _RoS_ publishes [four sets of data](https://www.ros.gov.uk/data-and-statistics) such as House Price Statistics. It appears to be a mix of commercial and openly licenced data. The [copyright page](https://www.ros.gov.uk/crown-copyright-and-copyright-licences) doesn't help to work out which data sets are OGL licenced.
 
-_SCTS_ produces three sets of reports under [Official Statistics](https://www.scotcourts.gov.uk/about-the-scottish-court-service/reports-data) which begin as web pages, link to a series of PDFs many of which theh nae links to heavily-locked down XLSX files. Getting at the data, which at least is [OGL3 licenced](https://www.scotcourts.gov.uk/meta/crown-copyright), is a real challenge.
+_SCTS_ produces three sets of reports under [Official Statistics](https://www.scotcourts.gov.uk/about-the-scottish-court-service/reports-data) which begin as web pages, link to a series of PDFs many of which then have links to heavily-locked down XLSX files. Getting at the data, which at least is [OGL3 licenced](https://www.scotcourts.gov.uk/meta/crown-copyright), is a real challenge.
 
 #### Executive NDPBs
 
@@ -201,7 +204,7 @@ It appears that SEPA, and SNH, in addition to using the Scottish Government's ne
 Also, I was alerted to the [Environment Scotland portal](https://www.environment.gov.scot/data/useful-data-sources/) where they have links to other data sources many of which are open, as well as other useful content. 
 
 - Accounts Commission for Scotland
-- Architecture and Design Scotland __ADS__
+- Architecture and Design Scotland 
 - Bòrd na Gàidhlig
 - Cairngorms National Park Authority
 - Care Inspectorate _*_
@@ -240,17 +243,15 @@ Also, I was alerted to the [Environment Scotland portal](https://www.environment
 - VisitScotland __*__
 - Water Industry Commission for Scotland
 
-__ADS__ [website site](https://www.ads.org.uk) which appears to be an official one refused to open in my browser with standard settings ( WebKitErrorDomain:104) . This is the first time I have encoutered this in a goverment agency website. 
+__CC__ The commission publishes four CSV files under [Open Data](http://www.crofting.scotland.gov.uk/open-data). There was no clear licence. 
 
-__CC__ The commission publishes four CSV files under [Open Data](http://www.crofting.scotland.gov.uk/open-data)
+__CHS__ in March 2020 had an [Open Data Publication Plan](http://www.chscotland.gov.uk/media/132793/Open-Data-Publication-Plan-v10.pdf) from 2017 which stated that they currently publish no OD, but it is due for review in "July 2019." That has vanished - and I can find no publication plan, which is a legal requirement! 
 
-__CHS__ have an [Open Data Publication Plan](http://www.chscotland.gov.uk/media/132793/Open-Data-Publication-Plan-v10.pdf) from 2017 which states that they currently publish no OD, but it is due for review in "July 2019."
+__HES__ the HES [spatial portal](https://portal.historicenvironment.scot/spatialdownloads) has nine datasets to download. The [Terms and Conditions](https://portal.historicenvironment.scot/termsandconditions) for spatial datasets is now specific that OGL3 is the licence, with the exception of Historic Landuse Assessment Data. 
 
-__HES__ the HES [spatial portal](https://portal.historicenvironment.scot/spatialdownloads) has nine datasets to download. The [Terms and Conditions](https://portal.historicenvironment.scot/termsandconditions) for spatial datasets is now specific that OGL3 is the licence, withe the exception of Historic Landuse Assessment Data. 
+__DMBL__ David MacBrayne Limited is, I believe, is the parent, or operator of Calmac Ferries Limited who, on 1st March 2020 released a [new data platform](https://www.calmac.co.uk/corporate/your-carrying-statistics) to get data about their 29 ferry routes. This is very welcome. While their intent appears to be to make it Open Data, the website is copyright and there is no specific licensing of the data. After choosing the dates, routes and traffic types you can download a CSV of results.
 
-__DMBL__ David MacBrayne Limited is, I believe, is the parent, or operator of Calmac Ferries Limited who, on 1st March 2020 release a [new data platform](https://www.calmac.co.uk/corporate/your-carrying-statistics) to get data about their 29 ferry routes. This is very welcome. While their intent appears to be to make it Open Data, the website is copyright and there is no specific licenising of the data. After choosing the dates, routes and traffic types you can download a CSV of results.
-
-__ILF__ have a nice "[Open Data Communication Plan 2018-2021](https://ilf.scot/wp-content/uploads/2019/04/Open-Data-Communications-Plan.pdf)" which sets out a plan to move from 3- to 5-star data. It is due to be reviewed in Aug 2019 (sic). Sadly, despite the two-year-old assurances I could find no data on their site.  
+__ILF__ have a nice "[Open Data Communication Plan 2018-2021](https://ilf.scot/wp-content/uploads/2019/04/Open-Data-Communications-Plan.pdf)" which sets out a plan to move from 3- to 5-star data. It is due to be reviewed in Aug 2019 (sic). Sadly, despite the two-year-old assurances I could find no open data on their site (either March or August 2020).  
 
 __NGS__ It appears that other than some thinking, in [this Jan 2018 paper](https://mw18.mwconf.org/paper/digital-collections-open-data-and-the-boundaries-of-openness-a-case-study-from-the-national-galleries-of-scotland/) no data has been released. 
 
