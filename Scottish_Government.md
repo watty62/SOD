@@ -142,9 +142,7 @@ Where the items in the list below are starred, it indicates that they were previ
 
 ES - In their [June 2019 Digital Strategy](https://education.gov.scot/Documents/ESDigitalStrategyJune2019.pdf) at Principle 5 says "...Education Scotland’s digital services must: Publish open data where possible to foster innovation in Scottish education...." But further than that I couldn't find specific actions or timescale in relation to open data, nor could I locate any data published since the strategy.
 
-FLS - Querying the FLS site for 'Open Data' [was not at all helpful](https://forestryandland.gov.scot/search-results?q=open+data). The second result for Wildfire Prevention said that access to it was forbidden. So why list it in public search results?  
-
-The first result was for "Energy Offering 2019" (whatever that means) and the final line of that page linked to a specific resource on an [Arc GIS site](http://data-forestry.opendata.arcgis.com/datasets/c31ae81655fb4c279a5d97b39065d63b_0/data) offering 10 boundary shapefiles. I found that navigating back to the home of that GIS site (actually a UK-wide Forestry Commission site) then allowed me to locate [19 resources for Scotland](http://data-forestry.opendata.arcgis.com/search?tags=Scotland). I checked a few. Some had an OGL licence. Others had a 'Custom Licence' such as 'There are no public access constraints to this data. Use of this data is subject to the Open Government LicenceAny maps produced using this data should contain the following Forestry Commission acknowledgement: "Contains, or is based on, information supplied by the Forestry Commission. © Crown copyright and database right 2019 Ordnance Survey [100021242]'.
+FLS - Querying the FLS site for 'Open Data' [was not at all helpful](https://forestryandland.gov.scot/search-results?q=open+data). The second result for Wildfire Prevention said [Mar 2020] that access to it was forbidden. So why list it in public search results?  The first result was for "Energy Offering 2019" (_whatever that means_) and the final line of that page linked to a specific resource on an [Arc GIS site](http://data-forestry.opendata.arcgis.com/datasets/c31ae81655fb4c279a5d97b39065d63b_0/data) offering 10 boundary shapefiles. I found that navigating back to the home of that GIS site (actually a UK-wide Forestry Commission site) then allowed me to locate [19 resources for Scotland](http://data-forestry.opendata.arcgis.com/search?tags=Scotland). I checked a few. Some had an OGL licence. Others had a 'Custom Licence' such as 'There are no public access constraints to this data. Use of this data is subject to the Open Government LicenceAny maps produced using this data should contain the following Forestry Commission acknowledgement: "Contains, or is based on, information supplied by the Forestry Commission. © Crown copyright and database right 2019 Ordnance Survey [100021242]'.
 
 SF - this has an [ARC GIS respoitory](https://open-data-scottishforestry.hub.arcgis.com/search?collection=Dataset)
 with an impressive 71 sets of very intersting data. The several that I looked at were marked as having a "Custom Licence" but on clicking each they stated "In using the data from this website you acknowledge that you have read, understood and agree to abide by the terms and conditions of the Open Government Licence 3.0." No link was provided to the OGL3 to explain its terms, though. They also have a clear, but slightly dated Open Data plan. 
@@ -155,13 +153,13 @@ The Scottish Public Pensions Agency [states](https://pensions.gov.scot/freedom-i
 
 SSS - Their publication scheme states that 5 star open data is published on the main government statistics data portal (above). Searching there for "Social Security" [does turn up five data sets](https://statistics.gov.scot/data/search?search=%22Social+Security+Scotland%22) but these are labelled as emanating from SG as a whole rather than from this agency. 
 
-The Student Awards Agency has a [site](https://saas.gov.uk) whose footer on the front page uses fonts in a way that must be a crime against design. With some trawling it yielded a link to a 2012-2013 statistical publication, but no open data.
+Searching on the Student Awards Agency has a [site](https://saas.gov.uk) yielded a link to a 2012-2013 statistical publication, but no open data.
 
 Transport Scotland's [publication scheme](https://www.transport.gov.scot/freedom-of-information/publication-scheme/#section-61318) says of open data "Open data made available by the authority as described by the Scottish Government’s Open Data Strategy and Resource Pack, available under an open licence. We comply with the guidance above when publishing data and other information to our website. Details of publications and statistics can be found in the body of this document or on the Publications section of our website." I searched both without success for any OD. _Why not say "we don't publish any Open Data"_? Also, compare this with the [Open Bus Data](https://www.gov.uk/government/collections/bus-open-data-service) for England. Story [here](https://www.europeandataportal.eu/en/news/launch-bus-open-data-service-early-2020).
 
 --- 
 
-According to [Wikipedia](https://en.wikipedia.org/wiki/Public_bodies_of_the_Scottish_Government), the Scottish Government is reponsible for the following 88 Non Departmental Public Bodies, drawn from the more verbose [SG Factsheet](https://www.gov.scot/publications/national-public-bodies-directory/pages/introduction/) each of whom should be producing open data according to the Scottish Government's Open Data Strategy. 
+According to [Wikipedia](https://en.wikipedia.org/wiki/Public_bodies_of_the_Scottish_Government) in March 2020, the Scottish Government is reponsible for the following 88 Non Departmental Public Bodies, drawn from the more verbose [SG Factsheet](https://www.gov.scot/publications/national-public-bodies-directory/pages/introduction/) each of whom should be producing open data according to the Scottish Government's Open Data Strategy. 
 
 #### Scottish Government non-ministerial Offices
 Where the items in the list below are starred, it indicates that they have some or all of their open data on the Statistics portal, above. Where their initials are in bold there is a para on what I found. Otherwise, I have found no open data for them.
@@ -175,11 +173,17 @@ Where the items in the list below are starred, it indicates that they have some 
 - Scottish Fiscal Commission
 - Scottish Housing Regulator
 
-__Note: The following should also be in tabular form.__
+
+| Office   | URL         | Datasets |Change| Type|
+| :------------- |:-------------| :-----|:---|:---:|
+|Food Standards Scotland|[URL](https://www.foodstandards.gov.scot/publications-and-research/open-data-portal)|12|?|L|
+|Office of the Scottish Charity Regulator (OSCR)| [URL](https://www.oscr.org.uk/about-charities/search-the-register/charity-register-download)| 3|?|O|
+|Registers of Scotland (RoS)| [URL](https://www.ros.gov.uk/data-and-statistics)| 4|?|O|
+|Scottish Courts and Tribunals Service SCTS| [URL](https://www.scotcourts.gov.uk/about-the-scottish-court-service/reports-data)| 3|?|O|
 
 _FSS_ has a [new portal](https://www.foodstandards.gov.scot/publications-and-research/open-data-portal) with 12 data sets using OGL3 licence.
 
-_OSCR_ allows a download of the [Charity Register data[(https://www.oscr.org.uk/about-charities/search-the-register/charity-register-download), now using a OGL3 licence. There are still restrictions on what you can do with the data which falls a little short of true OD.
+_OSCR_ allows a download of the [Charity Register data[(https://www.oscr.org.uk/about-charities/search-the-register/charity-register-download), using a OGL3 licence. There are options to download lists of the 300 highest income charities, and of former charities. 
 
 _RoS_ publishes [four sets of data](https://www.ros.gov.uk/data-and-statistics) such as House Price Statistics. It appears to be a mix of commercial and openly licenced data. The [copyright page](https://www.ros.gov.uk/crown-copyright-and-copyright-licences) doesn't help to work out which data sets are OGL licenced.
 
