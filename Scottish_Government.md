@@ -17,7 +17,7 @@ Data is broken into three types - APIs, open data, and linked open data.
 |L|Linked Open Data|
 |O|Open Data|
 
-## Main Scottish Government Statisttics Portal
+## Main Scottish Government Statistics Portal
 The Scottish Government's Statistics have a very good portal with 295 Data Sets from multiple organisational-providers. This is up by 46 datasets on last year and includes a new organisation: The Care Inspectorate. The figures below are from Mar 2020 and total 286 which was correct at that point. 
 
 I've heard numerous comments from people who find the interface challenging but there are some very helpful [guides provided](https://guides.statistics.gov.scot). 
@@ -174,7 +174,7 @@ Where the items in the list below are starred, it indicates that they have some 
 - Scottish Housing Regulator
 
 
-| Office   | URL         | Datasets |Change| Type|
+| Office| URL| Datasets |Change| Type|
 | :------------- |:-------------| :-----|:---|:---:|
 |Food Standards Scotland|[URL](https://www.foodstandards.gov.scot/publications-and-research/open-data-portal)|12|?|L|
 |Office of the Scottish Charity Regulator (OSCR)| [URL](https://www.oscr.org.uk/about-charities/search-the-register/charity-register-download)| 3|?|O|
@@ -187,7 +187,7 @@ _OSCR_ allows a download of the [Charity Register data[(https://www.oscr.org.uk/
 
 _RoS_ publishes [four sets of data](https://www.ros.gov.uk/data-and-statistics) such as House Price Statistics. It appears to be a mix of commercial and openly licenced data. The [copyright page](https://www.ros.gov.uk/crown-copyright-and-copyright-licences) doesn't help to work out which data sets are OGL licenced.
 
-_SCTS_ produces three sets of reports under [Official Statistics](https://www.scotcourts.gov.uk/about-the-scottish-court-service/reports-data) which begin as web pages, link to a series of PDFs many of which theh nae links to heavily-locked down XLSX files. Getting at the data, which at least is [OGL3 licenced](https://www.scotcourts.gov.uk/meta/crown-copyright), is a real challenge.
+_SCTS_ produces three sets of reports under [Official Statistics](https://www.scotcourts.gov.uk/about-the-scottish-court-service/reports-data) which begin as web pages, link to a series of PDFs many of which then have links to heavily-locked down XLSX files. Getting at the data, which at least is [OGL3 licenced](https://www.scotcourts.gov.uk/meta/crown-copyright), is a real challenge.
 
 #### Executive NDPBs
 
@@ -203,7 +203,7 @@ It appears that SEPA, and SNH, in addition to using the Scottish Government's ne
 Also, I was alerted to the [Environment Scotland portal](https://www.environment.gov.scot/data/useful-data-sources/) where they have links to other data sources many of which are open, as well as other useful content. 
 
 - Accounts Commission for Scotland
-- Architecture and Design Scotland __ADS__
+- Architecture and Design Scotland 
 - Bòrd na Gàidhlig
 - Cairngorms National Park Authority
 - Care Inspectorate _*_
@@ -242,17 +242,15 @@ Also, I was alerted to the [Environment Scotland portal](https://www.environment
 - VisitScotland __*__
 - Water Industry Commission for Scotland
 
-__ADS__ [website site](https://www.ads.org.uk) which appears to be an official one refused to open in my browser with standard settings ( WebKitErrorDomain:104) . This is the first time I have encoutered this in a goverment agency website. 
+__CC__ The commission publishes four CSV files under [Open Data](http://www.crofting.scotland.gov.uk/open-data). There was no clear licence. 
 
-__CC__ The commission publishes four CSV files under [Open Data](http://www.crofting.scotland.gov.uk/open-data)
+__CHS__ in March 2020 had an [Open Data Publication Plan](http://www.chscotland.gov.uk/media/132793/Open-Data-Publication-Plan-v10.pdf) from 2017 which stated that they currently publish no OD, but it is due for review in "July 2019." That has vanished - and I can find no publication plan, which is a legal requirement! 
 
-__CHS__ have an [Open Data Publication Plan](http://www.chscotland.gov.uk/media/132793/Open-Data-Publication-Plan-v10.pdf) from 2017 which states that they currently publish no OD, but it is due for review in "July 2019."
+__HES__ the HES [spatial portal](https://portal.historicenvironment.scot/spatialdownloads) has nine datasets to download. The [Terms and Conditions](https://portal.historicenvironment.scot/termsandconditions) for spatial datasets is now specific that OGL3 is the licence, with the exception of Historic Landuse Assessment Data. 
 
-__HES__ the HES [spatial portal](https://portal.historicenvironment.scot/spatialdownloads) has nine datasets to download. The [Terms and Conditions](https://portal.historicenvironment.scot/termsandconditions) for spatial datasets is now specific that OGL3 is the licence, withe the exception of Historic Landuse Assessment Data. 
+__DMBL__ David MacBrayne Limited is, I believe, is the parent, or operator of Calmac Ferries Limited who, on 1st March 2020 released a [new data platform](https://www.calmac.co.uk/corporate/your-carrying-statistics) to get data about their 29 ferry routes. This is very welcome. While their intent appears to be to make it Open Data, the website is copyright and there is no specific licensing of the data. After choosing the dates, routes and traffic types you can download a CSV of results.
 
-__DMBL__ David MacBrayne Limited is, I believe, is the parent, or operator of Calmac Ferries Limited who, on 1st March 2020 release a [new data platform](https://www.calmac.co.uk/corporate/your-carrying-statistics) to get data about their 29 ferry routes. This is very welcome. While their intent appears to be to make it Open Data, the website is copyright and there is no specific licenising of the data. After choosing the dates, routes and traffic types you can download a CSV of results.
-
-__ILF__ have a nice "[Open Data Communication Plan 2018-2021](https://ilf.scot/wp-content/uploads/2019/04/Open-Data-Communications-Plan.pdf)" which sets out a plan to move from 3- to 5-star data. It is due to be reviewed in Aug 2019 (sic). Sadly, despite the two-year-old assurances I could find no data on their site.  
+__ILF__ have a nice "[Open Data Communication Plan 2018-2021](https://ilf.scot/wp-content/uploads/2019/04/Open-Data-Communications-Plan.pdf)" which sets out a plan to move from 3- to 5-star data. It is due to be reviewed in Aug 2019 (sic). Sadly, despite the two-year-old assurances I could find no open data on their site (either March or August 2020).  
 
 __NGS__ It appears that other than some thinking, in [this Jan 2018 paper](https://mw18.mwconf.org/paper/digital-collections-open-data-and-the-boundaries-of-openness-a-case-study-from-the-national-galleries-of-scotland/) no data has been released. 
 
