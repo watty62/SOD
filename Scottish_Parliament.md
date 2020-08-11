@@ -1,11 +1,11 @@
 # Scottish Parliament
-One year ago (Feb 2019) I found that The Scottish Parliament, had released 121 data sets. This covers motions, petitions, Bills, petitions and other procedural data, and is very interesting.
+In February 2019 I found that The Scottish Parliament, had released 121 data sets. This covers motions, petitions, Bills, petitions and other procedural data, and is very interesting.
 
-##News 2020
+## News August 2020
 
-This year we find that they have still 121 data sets. So, no new data sources. In fact that number is misleading. 
+This year we find that they have still 121 data sets, so, no new data sources. In fact that number is misleading. 
 
-While 75 of these have been updated with new data, the remaining 46 (marked BETA) no longer work. Why not fix them, or at worst clear them out to simplfy the finadbility of working data? 
+In February 2020 I discovered that while 75 of these have been updated with new data, the remaining 46 (marked BETA) no longer work. As of August 2020 this is still the case.  Why not fix them, or at worst clear them out to simplfy the finadbility of working data? 
 
 Some of these BETA datasets should contain potentially more interesting / useful data e.g. *Register of Members Interests* but just don't work. Returning: 
 `["{message: 'Data is presently unavailable'}"]`
