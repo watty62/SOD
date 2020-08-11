@@ -1,28 +1,34 @@
 # Scottish Universities and Colleges
 ## News
-I reviewed open data provision of Universities and Colleges between 12 Feb 2020 and 17 February 2020. 
 
-There continues to be a very limited amount of real open data across the sector with loads of promises and statements of intent, some going back several years. 
+While doing all of this, I was reminded of the Crighton Institute's Regional Observatory which was announced to loud [fanfares](https://www.gla.ac.uk/news/archiveofnews/2013/march/headline_269859_en.html) in 2013 and appears to have quietly been shut down in 2017. Two of the team involved say in their Linked In profiles that they left at the end of the project. Even the domain name to which articles point is now up for grabs.
+
+August 2020 - It [now appears](https://www.whatdotheyknow.com/request/647515/response/1546561/attach/html/10/Crichton%20Institute%20Final%2026Sept2012.docx.html ) that the total inital budget for the project was >£1.1m.  I also attempted to find out where the data is that it amassed and where is the knowledge and learning arising from the project published for posterity? I can't locate it. [This FOI request](https://www.whatdotheyknow.com/request/data_from_the_crighton_observato) may help. 
+
+## Universities and colleges
+
+I reviewed open data provision of Universities and Colleges between 12 Feb 2020 and 17 February 2020. I revisited this on 11 August 2020, making minor changes to the numbers of data sets found. 
+
+While the five unveristies in the table below are publishing increasing amounts of data in relation to research projectsm most on a CC-0 or other open basis, there continues to be a very limited amount of real open data across the sector with loads of promises and statements of intent, some going back several years. 
 
 The [Higher Education Statistics Agency](https://www.hesa.ac.uk/data-and-analysis) publishes a range of potentially useful-looking Open Data under a [CC-BY-4.0 licence](https://creativecommons.org/licenses/by/4.0/). This is data about insitutions, course, students etc - and not data published by the institutions themselves. 
+
 
 ### Universities
 Below is a list of the fifteen Universities in Scotland.
 
-Last year I identified the open data published by two universities (__*__). These were created _for_ a specific business, research or educational purpose. The Edinburgh Data Share repository _appears_ to have increased by over 800 datasets since last year, whereas the UBDC Open Data Catalogue seems to have grown by 5 datasets. 
+Last year I identified the open data published by two universities: Edinburgh and Glasgow. These were created _for_ a specific business, research or educational purpose. The Edinburgh Data Share repository _appears_ to have increased by over 900 datasets since last year, whereas the UBDC Open Data Catalogue seems to have grown by 6 datasets. 
 
 
 | Organisation      | URL       | Datasets| Type |Notes|
 | :------------- |:-------------|:------:|:------:|:------:|
-|University of Aberdeen| [URL](https://abdn.pure.elsevier.com/en/datasets/)| 309|O| |
-|Abertay Uni| [URL](https://rke.abertay.ac.uk/en/datasets/)| 10|O|Copyright Elsevier?|
-|University of Dundee| [URL](https://discovery.dundee.ac.uk/en/datasets/) | 47|O| |
-|Edina (Edinburgh Uni)| [URL](https://datashare.is.ed.ac.uk/discover?filtertype=dsType&filter_relational_operator=equals&filter=dataset) |1095|O| |
-|University of Strathclyde| [URL](https://pureportal.strath.ac.uk/en/datasets/)| 964|O| |
-|UBDC (Glasgow Uni)|[URL](http://ubdc.gla.ac.uk/dataset)|1032| 0| |
+|University of Aberdeen| [URL](https://abdn.pure.elsevier.com/en/datasets/)| 331|O| |
+|Abertay Uni| [URL](https://rke.abertay.ac.uk/en/datasets/)| 20|O|Copyright Elsevier?|
+|University of Dundee| [URL](https://discovery.dundee.ac.uk/en/datasets/) | 50|O| |
+|Edina (Edinburgh Uni)| [URL](https://datashare.is.ed.ac.uk/discover?filtertype=dsType&filter_relational_operator=equals&filter=dataset) |1210|O| |
+|University of Strathclyde| [URL](https://pureportal.strath.ac.uk/en/datasets/)| 1070|O| |
+|UBDC (Glasgow Uni)|[URL](http://ubdc.gla.ac.uk/dataset)|1033| 0| |
 
-- Edinburgh __*__
-- Glasgow __*__
 - Glasgow Caledonian
 - Heriot-Watt
 - Napier
@@ -33,13 +39,14 @@ Last year I identified the open data published by two universities (__*__). Thes
 - University of Highland and Islands
 - University of West of Scotland
 
+The following comments date fron Feb 2020 unless specifically noted as later). 
 __Abertay__ in a [rather confusing page](https://www.abertay.ac.uk/about/the-university/governance-and-management/freedom-of-information/819-open-data/) notes that "Universities are therefore not generally required, under current information legislation, to participate in the Government's Open Data initiative." It does link via several hops to what it says is open data (above) but is on a webpage with a universal "Copyright 2020 Elsevier BV" footer. Similarly it links via intermediate pages to the [UniStats website](https://unistats.direct.gov.uk/) which refused to load for me on the first day I looked at it. A day later, and it was back online. There apperared no way to find out what data it had, for example on Abertay, nor to download it as data, and, of course, no open licence for re-use although it was possible to request to re-use certain bits of data. __Herriot-Watt Uni__ had almost exactly the same page pointing to the same web pages off site. 
 
-__Aberdeen University__ has a page [Open Data At The University of Aberdeen](https://www.abdn.ac.uk/library/support/open-data-at-the-university-of-aberdeen-636.php_). But this is a policy doc not a list of data published. Pages such as these are frustrating as they lack any dates of publication or updating, so one can't tell if this was introduced since the last review. 
+__Aberdeen University__ has a page [Open Data At The University of Aberdeen](https://www.abdn.ac.uk/library/support/open-data-at-the-university-of-aberdeen-636.php). But this is a policy doc not a list of data published. Pages such as these are frustrating as they lack any dates of publication or updating, so one can't tell if this was introduced since the last review. (This page has vanished Aug 2020)
 
 __Queen Margaret University__ have a [eData](https://eresearch.qmu.ac.uk/handle/20.500.12289/8901) repository but the site is silent on the licensing of the data and any attempts to download any of the data to assess it (eg [this](https://eresearch.qmu.ac.uk/bitstream/handle/20.500.12289/9196/1%20file%2c%20594%20MB?sequence=1&isAllowed=y ) failed with a single page listing the number of files and byte size but no way to access the data. 
 
-In searching for any open data published by the __Robert Gordon University__, I came across [this gem](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1016&context=ukais2014) from 2014. I had been interviewed in 2013 and was quoted as "E-Government Manager, Organisation A":
+In searching for any open data published by the __Robert Gordon University__, while I found no open data, I came across [this gem](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1016&context=ukais2014) from 2014. I had been interviewed for a research project in 2013 and was quoted as "E-Government Manager, Organisation A":
 
 > E-Government Manager, Organisation A mentioned that “...there isn’t a cohesive approach from the Scottish Government at the moment and other councils” and that statement is also supported by the Web Manager of Organisation B who said “Scotland is a bit behind whereas you can in England, you have a central government and character approach to publish finances and they have to do that, there is no choice”. 
 
@@ -47,11 +54,11 @@ Not much has changed in 7 years!
 
 __St Andrews University__ has [some guidance](https://www.st-andrews.ac.uk/research/digitalresearch/researchdata/publisharchiveandpreserve/howtopublishdata/) on how to publish research data openly, but no sign of any data published about the operation of the University iteself. 
 
-__Stirling University__, in a similar way to Abertay and QMU, a [page](https://www.stir.ac.uk/about/professional-services/student-academic-and-corporate-services/policy-and-planning/legal-compliance/publicationscheme/8-19-open-data/) on open data as part of its Publication Scheme. It lists some seven platforms on which researchers have published data. It also point to [HESA](https://www.hesa.ac.uk/), [UniStats](https://unistats.ac.uk/), and [SFC](http://www.sfc.ac.uk/publications-statistics/statistics/statistics.aspx) for statistical data on students. 
+__Stirling University__, in a similar way to Abertay and QMU, a [page](https://www.stir.ac.uk/about/professional-services/student-academic-and-corporate-services/policy-and-planning/legal-compliance/publicationscheme/8-19-open-data/) on open data as part of its Publication Scheme. It lists some seven assorted external platforms on which researchers have published data. It also point to [HESA](https://www.hesa.ac.uk/), [UniStats](https://unistats.ac.uk/), and [SFC](http://www.sfc.ac.uk/publications-statistics/statistics/statistics.aspx) for statistical data on students. 
 
-On searching for the __University Of West of Scotland__'s open data, I was reminded of the Crighton Institute's Regional Observatory which was announced to loud [fanfares](https://www.gla.ac.uk/news/archiveofnews/2013/march/headline_269859_en.html) in 2013 and appears to have quietly been shut down in 2017. Two of the team involved say in their Linked In profiles that they left at the end of the project. Even the domain name to which articles point is now up for grabs. *How much was spent on the project, where is the data that it amassed preserved and where is the knowledge and learning arising from the project published for posterity?*
+On searching for the __University Of West of Scotland__'s open data, I could find none. 
 
-What jumps out from this is _where is the data about the day to day operation of each institution?_ 
+What jumps out from this is _where is the data about the day to day operation of each institution? 
 
 ### Further Education colleges in Scotland
 There are listed below twenty FE colleges in Scotland. I have found no open data for any of them.
@@ -77,7 +84,7 @@ There are listed below twenty FE colleges in Scotland. I have found no open data
 - West College Scotland
 - West Lothian College
 
-According to __Ayshire College__'s [Guide to Information Nov 2018](https://www1.ayrshire.ac.uk/media/6982/ayrshire-college-guide-to-information-november-2018.pdf) you can request both their open data publication plan _and_ the datasets theselves:  "This information can be requested by email to – foi@ayrshire.ac.uk"! Needless to say, I have requested both of those. 
+According to __Ayshire College__'s [Guide to Information Nov 2018](https://www1.ayrshire.ac.uk/media/6982/ayrshire-college-guide-to-information-november-2018.pdf) you can request both their open data publication plan _and_ the datasets theselves:  "This information can be requested by email to – foi@ayrshire.ac.uk"! Needless to say, I did that. I receieved a reply on 27 March 2020 to say that the Open Data Publication Plan "has not been created or published and as a consequence is not currently available.", and "These data sets, metadata and links are not currently available" and inviting me to respond. I did - pointing out that the above doc from 2018 is therfore erroneous and suggesting that they update it. * Update August 2020 * The doc is still there suggesting you ask for their open data plan and data. Go ahead! :) 
 
 __City of Glasgow College__ has a [publication scheme}(https://www.cityofglasgowcollege.ac.uk/sites/default/files/CoGC%20MPS%20191219.pdf) with a file_name indicating it is from Dec 2019 - even if the doc is labelled 2017 - which at Class 9 ("Page 38 of 36") shows clear intent to create a single point of entry for a range of data to which links are provided. At present the data is in reports and the licensing, where available is not open. But the ambition to do it right is clear. 
 
@@ -101,7 +108,7 @@ Similarly, [the SRUC](https://www.sruc.ac.uk/info/120668/class_9_open_data) stat
 
 > By 2017, all public authorities in Scotland should be publishing their data in a format of 3 star or above. 3 star data is data which is made available online, with an open license, in an open and machine-readable format. SRUC is currently working on reviewing its data sets to ensure compliance with the Scottish Open Data strategy
 
-__South Lanarkshire__ simply have a blank line against open dat in their [publication scheme](https://dkdtt1k0xa32o.cloudfront.net/uploads/Publication-Scheme-V5.pdf). 
+__South Lanarkshire__ simply have a blank line against open data in their [publication scheme](https://dkdtt1k0xa32o.cloudfront.net/uploads/Publication-Scheme-V5.pdf). 
 
 __West Lothian College__ [in 2018](https://www.west-lothian.ac.uk/media/2772/model-publication-scheme-2018.pdf) takes a very similar position to New College and SRUC. 
 
@@ -128,8 +135,5 @@ If you spot an error - or missing data - please fork this repo and submit a pull
 Alternatively email me at [mailto: ian_at_codethecity_dot_org](mailto:ian@codethecity.org) with an update. 
 
 ---
-
-[Back](README.md) to the main 2020 review. 
-
 
 [Back](README.md) to the main 2020 review. 
