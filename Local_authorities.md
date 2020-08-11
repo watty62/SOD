@@ -26,18 +26,19 @@ Change (+/-) in number of datasets published is measured since Feb 2019.
 
 The following councils have open data portals - most, if not all, CKAN. 
 
-| Council       | URL         | Status| Datasets | +/- since last time| Type |
+| Council       | URL         | Status| Datasets | +/- since 2019| Type |
 | :------------- |:-------------| :-----|:------|:------|:------:
-| Aberdeen City Council | [URL](http://data.aberdeencity.gov.uk)  | ![ffbf00](https://placehold.it/15/ffbf00/000000?text=+)|5 | 0|O|
+| Aberdeen City Council | [URL](http://data.aberdeencity.gov.uk)  | ![ffbf00](https://placehold.it/15/ffbf00/000000?text=+)|16 | +11|O|
 | Angus Council | [URL](http://opendata.angus.gov.uk)  | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)|30 | -4| O|
 | Clackmannanshire Council | [URL](http://gis.clacksweb.org.uk) | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)|17 |-1|O|
 | Dumfries and Galloway| [URL](https://usmart.io/#/org/dumgal/discovery?limit=20&offset=0) | ![ffbf00](https://placehold.it/15/ffbf00/000000?text=+)|33 | 0 | 0| 
-| Dundee City Council |[URL](https://data.dundeecity.gov.uk/dataset)| ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|64| +13| O|
+| Dundee City Council |[URL](https://data.dundeecity.gov.uk/dataset)| ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|56| +5| O|
 | Edinburgh City Council| [URL](https://edinburghopendata.info)| ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|236|+2| O|
-| Glasgow City Council | [URL](https://data.glasgow.gov.uk)| ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|95 | +6 |O|
+| Glasgow City Council | [URL](http://data.glasgow.gov.uk/)| ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|95 | +6 |O|
 | Perth and Kinross Council|[URL](https://data.pkc.gov.uk/dataset) |![#c5f015](https://placehold.it/15/c5f015/000000?text=+)| 49|+3|O|
 | Stirling Council | [URL](https://data.stirling.gov.uk/dataset)| ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|13| +5| O|
 
+Between checking in Feb 2020 and rechecking in Aug 2020, Dundee's number of datasets had shrunk by 8. 
 
 ### Landing Pages 
 
@@ -49,8 +50,8 @@ The following councils have open landing pages as part of their websites.
 |East Ayrshire Council|[URL](https://www.east-ayrshire.gov.uk/CouncilAndGovernment/About-the-Council/Information-and-statistics/Open-Data.aspx)|![#ffbf00](https://placehold.it/15/ffbf00/000000?text=+)|4|0|O|
 |East Renfrewshire Council|[URL](https://data.gov.uk/publisher/east-renfrewshire-council)|![#ffbf00](https://placehold.it/15/ffbf00/000000?text=+)|5|0|O|
 |Moray Council|[URL](http://www.moray.gov.uk/moray_standard/page_110140.html)|![#ffbf00](https://placehold.it/15/ffbf00/000000?text=+)|8|0|O|
-|North Lanarkshire Council|[URL](https://data.gov.uk/search?q=%22North+Lanarkshire%22) |![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|20|+3|O|
-|Shetland Islands Council|[URL](https://www.shetland.gov.uk/information-rights/OpenData.asp)|![#ffbf00](https://placehold.it/15/ffbf00/000000?text=+)|4|0|O|
+|North Lanarkshire Council|[URL](https://data.gov.uk/search?q=%22North+Lanarkshire%22) |![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|22|+5|O|
+|Shetland Islands Council|[URL](https://www.shetland.gov.uk/information-rights/OpenData.asp)|![#ffbf00](https://placehold.it/15/ffbf00/000000?text=+)|1|-3|O|
 |South Ayrshire Council|[URL](https://www.south-ayrshire.gov.uk/opendata/)|![#ffbf00](https://placehold.it/15/ffbf00/000000?text=+)|11|0|O|
 
 ### Using GIS only
@@ -60,7 +61,7 @@ These councils only expose geographical open data using their GIS systems.
 | Council       | URL         | Status| Datasets | Change|Type|
 | :------------- |:-------------| :-----|:------|:----|:----:|
 |Argyll and Bute Council|[URL](https://data-argyll-bute.opendata.arcgis.com/) |![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|33|+2|O|
-|North Ayrshire Council|[URL](https://maps-north-ayrshire.opendata.arcgis.com)|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|116|+11|O|
+|North Ayrshire Council|[URL](https://maps-north-ayrshire.opendata.arcgis.com)|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|126|+21|O|
 |Renfrewshire Council|[URL](http://data-ren.opendata.arcgis.com/search)|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|54|+54|O|
 
 ### None of the above

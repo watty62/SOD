@@ -106,6 +106,7 @@ The Scottish Government's Statistics have a great portal with 248 Data Sets from
 | Organisation      | URL         | Datasets |Change|Type|
 | :------------- |:-------------| :-----:|:----|:----|
 |Accountant in Bankruptcy|[URL](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdef%2Fconcept%2Ffolders%2Forganisations%2Faccountant-in-bankruptcy) |3|-|L|
+|Care Inspectorate|[URL](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdef%2Fconcept%2Ffolders%2Forganisations%2Fcare-inspectorate) |3|+3|L|
 |National Records of Scotland|[URL](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdef%2Fconcept%2Ffolders%2Forganisations%2Fnational-records-of-scotland) |26|-|L|
 |NHS Information Services Division|[URL](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdef%2Fconcept%2Ffolders%2Forganisations%2Fnhs-information-services-division) |28|-|L|
 |Revenue Scotland|[URL](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdef%2Fconcept%2Ffolders%2Forganisations%2Frevenue-scotland) |2|-|L|
@@ -204,7 +205,7 @@ No open data found.
 --- 
 ### Scottish Government Executive Agencies
 [Wikipedia](https://en.wikipedia.org/wiki/Executive_agencies_of_the_Scottish_Government) lists nine executive agencies.
-Where the items in the list below are starred, it indicates that they have some or all of their open data on the Statistics portal, above. Otherwise, I have found no open data for them.
+Where the items in the list below are starred, it indicates that they have some or all of their open data on the Statistics portal, above. Otherwise, I have found no open data for them. Compare this with [Wikidata items](https://www.wikidata.org/wiki/Q17576433) which are CC0 licensed Linked Data and carry HES identifiers for the objects, as well as categories of teh listed buildings. 
 
 - Accountant in Bankruptcy __*__
 - Disclosure Scotland
@@ -251,7 +252,7 @@ It appears that SEPA, and SNH in addition to using the Scottish Government's new
 - Architecture and Design Scotland
 - Bòrd na Gàidhlig
 - Cairngorms National Park Authority
-- Care Inspectorate
+- Care Inspectorate _*_
 - Children's Hearings Scotland
 - Creative Scotland
 - Crofters Commission
@@ -348,6 +349,7 @@ Where the items in the list below are starred, it indicates that they have some 
 - Scottish Fire & Rescue Service __*__
 - Scottish Police Authority
 - Visiting Committees for Scottish Penal Establishments
+
 --- 
 
 ### NHS Scotland  
