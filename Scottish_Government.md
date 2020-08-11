@@ -254,15 +254,15 @@ __ILF__ have a nice "[Open Data Communication Plan 2018-2021](https://ilf.scot/w
 
 __NGS__ It appears that other than some thinking, in [this Jan 2018 paper](https://mw18.mwconf.org/paper/digital-collections-open-data-and-the-boundaries-of-openness-a-case-study-from-the-national-galleries-of-scotland/) no data has been released. 
 
-__NLS__ Has a [plan and register of open data](https://www.nls.uk/about-us/open-data). Given the impressive breadth of data published on their [Data Foundry](http://data.nls.uk/) I suspect that neither of these is up to date.
+__NLS__ Has a [plan(2015) and register of open data](https://www.nls.uk/about-us/open-data). Given the impressive breadth of data published on their [Data Foundry](http://data.nls.uk/) I suspect that neither of these is up to date.
 
-__NMS__ It appears from their [2019 Publication Scheme](https://www.nms.ac.uk/media/1159328/foisa-pubscheme-2019.pdf) that they have no open data. 
+__NMS__ It appears from their [2019 Model Publication Scheme](https://www.nms.ac.uk/media/1159328/foisa-pubscheme-2019.pdf) that they have no open data. _ Incidentally, why do so many insitutions publish the __model__ scheme as their own rather than strip the word __model__?_
 
-__RBGE__'s [Publication Scheme](https://www.rbge.org.uk/media/5544/rbge-guide-to-information-2018.pdf) lists three oneline databases as open data. Only one of these had clear open licensing.
+__RBGE__'s [Publication Scheme](https://www.rbge.org.uk/media/5544/rbge-guide-to-information-2018.pdf) lists three online databases as open data. Only one of these had clear open licensing.
 
 __SCCRC__'s [Publication Scheme](https://irp-cdn.multiscreensite.com/8f56052e/files/uploaded/GuideToInformation%202019.pdf) appears to be misleading. It lists annual reports and research reports under _Class 9 Open Data_ but neither page to which these link appears to have any open data. 
 
-__SE__ [extol the virtues of OD](https://www.scottish-enterprise-mediacentre.com/news/new-innovation-index-shows-edinburgh-best-uk-city-for-innovative-technologies-outside-of-london-glasgow-also-excels), apparently have an [events API](http://events.scottish-enterprise.com/eventsservice/EventsWebService.svc?wsdl.) which doesn't work, mention OD in various articles and plans but I could find no published data, which seems extraordinary given their size and range of operations!
+__SE__ [extol the virtues of OD](https://www.scottish-enterprise-mediacentre.com/news/new-innovation-index-shows-edinburgh-best-uk-city-for-innovative-technologies-outside-of-london-glasgow-also-excels). In March I noted that they apparently have an [events API](http://events.scottish-enterprise.com/eventsservice/EventsWebService.svc?wsdl.) which doesn't work. This still is no linger functional five months later. They also mention OD in various articles and plans but I could find no published data, which seems extraordinary given the size and range of their operations!
 
 __SQA__ have [two datasets]( https://data.gov.uk/search?q=SQA)  on Data.gov.uk but neither are more recent than 2013 data it appears. Their [publication schome](https://www.sqa.org.uk/sqa/files_ccc/SQAPublicationScheme.pdf) unchanged from 2015(!) has no reference to OD. Given the amount of data they posses on school, college and university examinations this is quite incredible. 
 
