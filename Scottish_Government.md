@@ -1,10 +1,10 @@
 ## Scottish Government
-The sections below list open data provision by the Scottish Government and its directorates, agencies, NDPBS etc. The challenges identified around findability in the Feb 2019 review are little changed. 
+The sections below list open data provision by the Scottish Government and its directorates, agencies, NDPBS etc. 
 
 ## News
 __Review underway February / March 2020. A work in progress__
 
-There is still an issue with finability of data, with no central portal for open data in the Scottish public sector or even for Scottish Government. Searching the [main Scottish Government website](https://www.gov.scot/) for _open data_ yields 633 results, none of which are links to _data_ on the first four screenfuls, I didn't go deeper than that.  
+The issue with findability of data raised in Feb 2019 is unchanged: there being no central portal for open data in the Scottish public sector or even for Scottish Government. Searching the [main Scottish Government website](https://www.gov.scot/) for _open data_ yields 633 results, none of which are links to _data_ on the first four screenfuls, I didn't go deeper than that. It is important to note that the whole of the gov.scot website is covered by an OGL open licence. Sadly this is not true for most of the public sector. 
 
 ## The Data
 A list of open data resources in the Scottish Government. 
@@ -18,7 +18,7 @@ Data is broken into three types - APIs, open data, and linked open data.
 |O|Open Data|
 
 ## Main Scottish Government Statisttics Portal
-The Scottish Government's Statistics have a very good portal with 286 Data Sets from multiple organisational-providers. This is up by 38 datasets on last year and includes a new organisation: The Care Inspectorate. 
+The Scottish Government's Statistics have a very good portal with 295 Data Sets from multiple organisational-providers. This is up by 46 datasets on last year and includes a new organisation: The Care Inspectorate. The figures below are from Mar 2020 and total 286 which was correct at that point. 
 
 I've heard numerous comments from people who find the interface challenging but there are some very helpful [guides provided](https://guides.statistics.gov.scot). 
 
@@ -39,15 +39,15 @@ I've heard numerous comments from people who find the interface challenging but 
 |All|[URL](https://statistics.gov.scot/data_home) |286|+38|O|
 
  - [The Scottish Spatial Data Infrastructure](http://spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/home). This is a metadata repository for Inspire data, but does not publish open data.
-- Scottish Indices of Multiple Deprivation: [map](http://simd.scot/2016/#/simd2016/BTTTFTT/9/-4.0000/55.9000/) and Data is on the Statistics Portal mentioned above, specifically[here](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Fscottish-index-of-multiple-deprivation)
- - [Spatial Hub](http://www.spatialhub.scot/get-data/) - still has 4 open datasets; __no change on 2019__. And it still has the most annoying pop-up in the whole of the public sector!
+- Scottish Indices of Multiple Deprivation: [map](http://simd.scot/2016/#/simd2016/BTTTFTT/9/-4.0000/55.9000/) and Data is on the Statistics Portal mentioned above, specifically [here](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Fscottish-index-of-multiple-deprivation)
+ - [Spatial Hub](http://www.spatialhub.scot/get-data/) - still has 4 open datasets; __no change on 2019__. And it still (18 months on) has the most annoying pop-up in the whole of the public sector! Why is it SO unique that it needs this of ALL the sites I've looked at? Why won't it disappear when seen once? 
 
 ## Scottish Government Directorates
 According to [this page](https://www.gov.scot/about/how-government-is-run/directorates/) there are forty-three directorates of the Scottish Government, up from thirty-three at the start of 2019. These are listed below. So far it appears that few produce open data. [Wikipedia](https://en.wikipedia.org/wiki/Directorates_of_the_Scottish_Government), which counts 42 directorates, groups these into Directorates-General but this grouping is not obvious from the SG site. 
 
-Incidentally, why isn't there Linked Open Data published about the structure of the Scottish Government with unique identifiers and permanent URIs for each? 
+Incidentally, why isn't there Linked Open Data published about the structure of the Scottish Government with unique identifiers and permanent URIs for each? Surely there is a small project for a civil servant to get stuck into this [on Wikidata](https://w.wiki/ZKW) for a day?
 
-Addtitionally, when accessing the 166 Scottish Government data sets (see the URL in the table above), below the Explore bar there are links (depending on the dataset) to various 'concept folders' such as [housing](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdef%2Fconcept%2Ffolders%2Fthemes%2Fhousing) many of which must surely align with some of the list below (e.g. Housing and Social Justice Directorate) but unpicking which have published Open Data and which have not appears almost impossible at the moment.
+Addtitionally, when accessing the 286 Scottish Government data sets (see the URL in the table above), below the Explore bar there are links (depending on the dataset) to various 'concept folders' such as [housing](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdef%2Fconcept%2Ffolders%2Fthemes%2Fhousing) many of which must surely align with some of the list below (e.g. Housing and Social Justice Directorate) but unpicking which have published Open Data and which have not appears almost impossible at the moment.
 
 
 - Advanced Learning and Science Directorate
@@ -95,26 +95,24 @@ Addtitionally, when accessing the 166 Scottish Government data sets (see the URL
 - Taxation and Fiscal Sustainability Directorate
 
 ### Homecare 
-There are three old datasets about homecare (2010-2012) made available [here](https://www2.gov.scot/Topics/Statistics/Browse/Health/Data/HomeCare/HSC-Datasets-HCPRF). It took someone who knows about this to find them and let me know about their existence. This is on the old Scottishs Government Website. The new one is [here](https://www.gov.scot/).
-
-The main page is clearly marked at, the foot, "Crown Copyright." However, clicking on that take us to [this page](https://www2.gov.scot/CrownCopyright). "Re-using Crown copyright material. You may use and re-use the information featured on this website (not including logos) free of charge in any format or medium, under the terms of the Open Government Licence." 
+There are three __old__ datasets about homecare (2010-2012) made available [here](https://www2.gov.scot/Topics/Statistics/Browse/Health/Data/HomeCare/HSC-Datasets-HCPRF). It took someone who knows about this to find them and let me know about their existence. This is on the old Scottishs Government Website. The new one is [here](https://www.gov.scot/). The main page is clearly marked at, the foot, "Crown Copyright." However, clicking on that take us to [this page](https://www2.gov.scot/CrownCopyright). "Re-using Crown copyright material. You may use and re-use the information featured on this website (not including logos) free of charge in any format or medium, under the terms of the Open Government Licence." 
 
 ### (MS) =  Marine Scotland
 
-The figures below are subject to change. They are still being checked, as URLs and formats apperar to have changed. 
+The figures below were checked in March 2020.
 
 | Directorate   | URL         | Datasets |Change| Type|
 | :------------- |:-------------| :-----:|:---:|:---:|
 |Marine Scotland Data|[https://data.marine.gov.scot](https://data.marine.gov.scot)|240 $| +30 |OA|
 |Marine Scotland Information|[http://marine.gov.scot (infomation tab)](http://marine.gov.scot)|366 ~|+66|O|
-|Marine Scotland Maps|[https://marinescotland.atkinsgeospatial.com/nmpi/](http://data.marine.gov.scot)| 1109 £|+137 |(O)|
+|Marine Scotland Maps|[https://marinescotland.atkinsgeospatial.com/nmpi/](http://data.marine.gov.scot)| 1109 %|+137 |(O)|
 
 
-$ 240 datasets with 768 downloadable resources. API to query csv resources (315 resources), as well as DCAT standard inventory on data.marine.gov.scot/data.json
+($) - 240 datasets with 768 downloadable resources. API to query csv resources (315 resources), as well as DCAT standard inventory on data.marine.gov.scot/data.json
 
-~ New this year is 131 marine license pages with access to 2443 license documents. Also around 2,000 links to other organisations, reports etc.
+(~) - New this year is 131 marine license pages with access to 2443 license documents. Also around 2,000 links to other organisations, reports etc.
 
-£ There are currently 1,109 spatial layers listed. These originate from many different organisations and licenses though.
+(%) -  There are currently 1,109 spatial layers listed. These originate from many different organisations and licenses though.
 
 Source [this twitter conversation](https://twitter.com/overchord/status/1235148356084740096)
 
@@ -127,7 +125,7 @@ You can find the data [here](https://www.publiccontractsscotland.gov.uk/NoticeDo
 Similarly, you can search the contracts register [on this page](https://www.publiccontractsscotland.gov.uk/Contracts/Contracts_Search.aspx?AuthID=AA10482). Each is OGL licensed. 
 
 ## Scottish Government Executive Agencies
-I tried various ways to find a list of Executive Agencies on the Scottish Goverment website without success. I did find pages such as this [guide](https://www.gov.scot/publications/public-bodies-in-scotland-guide/) which had no list. Therefore, turning to [Wikipedia](https://en.wikipedia.org/wiki/Executive_agencies_of_the_Scottish_Government) I find a list of ten executive agencies (one more than last year). Thanks to Wikipedia's view history feature (why don't public sector websites show their changes!?) [I can see](https://en.wikipedia.org/w/index.php?title=Executive_agencies_of_the_Scottish_Government&diff=910495231&oldid=890467635)] that two new agencies were added: Forestry and Land Scotland, Scottish Forestry, and that Historic Environment Scotland has been removed, and made a NDPB (see below). 
+I tried various ways to find a list of Executive Agencies on the Scottish Goverment website without success. I did find pages such as this [guide](https://www.gov.scot/publications/public-bodies-in-scotland-guide/) which had no list. Therefore, turning to [Wikipedia](https://en.wikipedia.org/wiki/Executive_agencies_of_the_Scottish_Government) I find a list of ten executive agencies (one more than last year). Thanks to Wikipedia's view history feature (__why don't public sector websites track and show their changes!?__) [I can see](https://en.wikipedia.org/w/index.php?title=Executive_agencies_of_the_Scottish_Government&diff=910495231&oldid=890467635) that two new agencies were added: Forestry and Land Scotland, Scottish Forestry, and that Historic Environment Scotland has been removed, and made a NDPB (see below). 
 
 Where the items in the list below are starred, it indicates that they were previosuly found to have some or all of their open data on the Statistics portal, above. Otherwise, unless flagged below using their initials, I have found no open data for them.
 
