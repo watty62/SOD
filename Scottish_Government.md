@@ -18,6 +18,7 @@ Data is broken into three types - APIs, open data, and linked open data.
 |O|Open Data|
 
 ## Main Scottish Government Statistics Portal
+
 The Scottish Government's Statistics have a very good portal with 295 Data Sets from multiple organisational-providers. This is up by 46 datasets on last year and includes a new organisation: The Care Inspectorate. The figures below are from Mar 2020 and total 286 which was correct at that point. 
 
 I've heard numerous comments from people who find the interface challenging but there are some very helpful [guides provided](https://guides.statistics.gov.scot). 
