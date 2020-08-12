@@ -3,7 +3,9 @@
 ## Introduction
 In February 2019 I carried out the first full analysis of public sector open data publishing in Scotland. It [didn't paint a pretty picture](https://codethecity.org/2019/11/15/scotlands-open-data-february-2019-an-update/). The data to support that piece is now in [this file](README_2019.md). 
 
-For readability, I've split the Feb 2020 data write-ups (currently a work in progress) into individual files as you will see below. 
+One year on, in February 2020, I started to repeat the exercise. This time my intention was to go deepeer into organisationals structures and to be even more thorough. That dragged on into March and was interrupted by Covid-19. In August 2020 I picked it up again, checking what I'd done in Spring, and completing the bits I'd not finished.  
+
+For readability, I've split the 2020 data write-ups (currently a work in progress) into individual files as you will see below. 
 
 A blog post summarising this will be published soon. 
 
@@ -26,7 +28,21 @@ No new datasets. About of a third of the datasets don't work at all. The confusi
 ---
 
 ## Scottish Government
-This review (a work in progress) will be located on [this page](Scottish_Government.md)
+The data for Scottish Government is located on [this page](Scottish_Government.md)
+
+### Headlines 2020
+
+In the absence of a definitive guide to the structures of Scottish Government is an enormous task to 
+- work out the business units, 
+- establish which of them have published open data,
+- what those data sets are, and 
+- how they are licensed.
+
+I found 147 discrete business units, only 27 of which have published open data and 120 have published __none__. 
+
+The issue with findability of data raised in Feb 2019 is unchanged. There is still no Open Data for Scottish Government, never mind for Scotland.
+
+One highlight was a reminder that the whole of the core [https://gov.scot](gov.scot) website is covered by an OGL open licence. Sadly this is not true for most of the public sector. 
 
 
 --- 
