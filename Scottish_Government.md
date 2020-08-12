@@ -2,9 +2,14 @@
 The sections below list open data provision by the Scottish Government and its directorates, agencies, NDPBS etc. 
 
 ## News
-__Review underway February / March 2020. A work in progress__
+12 August 2020
 
-The issue with findability of data raised in Feb 2019 is unchanged: there being no central portal for open data in the Scottish public sector or even for Scottish Government. Searching the [main Scottish Government website](https://www.gov.scot/) for _open data_ yields 633 results, none of which are links to _data_ on the first four screenfuls, I didn't go deeper than that. It is important to note that the whole of the gov.scot website is covered by an OGL open licence. Sadly this is not true for most of the public sector. 
+While trying to work out the businuess units within the structure of Scottish Government is a significant challenge in itself, attempting to then establish which have published open data, and what those data sets are, and how they are licensed, is almost an impossible task. If my checking, and arithmetic are right, then of 147 discrete business units, only 27 have published open data and 120 have published none. 
+
+So we can say with some confidence that the issue with findability of data raised in Feb 2019 is unchanged: there being no central portal for open data in the Scottish public sector or even for Scottish Government. Searching the [main Scottish Government website](https://www.gov.scot/) for _open data_ yields 633 results, __none__ of which are links to _data_ on the first four screenfuls.  I didn't go deeper than that. 
+
+It is important to note that the whole of the gov.scot website is covered by an OGL open licence. Sadly this is not true for most of the public sector. 
+
 
 ## The Data
 A list of open data resources in the Scottish Government. 
@@ -265,13 +270,13 @@ __SCCRC__'s [Publication Scheme](https://irp-cdn.multiscreensite.com/8f56052e/fi
 
 __SE__ [extol the virtues of OD](https://www.scottish-enterprise-mediacentre.com/news/new-innovation-index-shows-edinburgh-best-uk-city-for-innovative-technologies-outside-of-london-glasgow-also-excels). In March I noted that they apparently have an [events API](http://events.scottish-enterprise.com/eventsservice/EventsWebService.svc?wsdl.) which doesn't work. This still is no linger functional five months later. They also mention OD in various articles and plans but I could find no published data, which seems extraordinary given the size and range of their operations!
 
-__SQA__ have [two datasets]( https://data.gov.uk/search?q=SQA)  on Data.gov.uk but neither are more recent than 2013 data it appears. Their [publication schome](https://www.sqa.org.uk/sqa/files_ccc/SQAPublicationScheme.pdf) unchanged from 2015(!) has no reference to OD. Given the amount of data they posses on school, college and university examinations this is quite incredible. 
+__SQA__ have [two datasets]( https://data.gov.uk/search?q=SQA) on Data.gov.uk but neither are more recent than 2013 data it appears. Their [publication schome](https://www.sqa.org.uk/sqa/files_ccc/SQAPublicationScheme.pdf) is unchanged from 2015(!) has no reference to OD. Given the amount of data they posses on school, college and university examinations this is quite incredible. Given the furore over marking of the 2020 School Exams, the need for open data and transparency is all the more pressing, I'd suggest. 
 
 __SSSC__ say in their [Open Data Publication Plan and Schedule 2016](https://www.sssc.uk.com/knowledgebase/article/KA-01232/en-us) that they will identify and publish 3 star open data sets by Dec 2016. I could find none. 
 
 
 #### Advisory NDPBs
-No open data found. 
+No open data found (Mar 2020). 
 
 - Judicial Appointments Board for Scotland
 - Local Government Boundary Commission for Scotland
@@ -281,7 +286,7 @@ No open data found.
 - Scottish Law Commission
 
 #### Tribunals
-No open data found.
+No open data found (Mar 2020). 
 
 - Additional Support Needs Tribunals for Scotland
 - First-tier Tax Tribunal for Scotland
@@ -293,7 +298,8 @@ No open data found.
 - Upper Tax Tribunal for Scotland
 
 #### Public corporations
-No open data found. 
+No open data found (Mar 2020). 
+
 - Caledonian Maritime Assets Lts
 - Crown Estate Scotland
 - Glasgow Prestwick Airport
@@ -301,7 +307,7 @@ No open data found.
 - Scottish Water
 
 #### Executive agencies
-Where the items in the list below are starred, it indicates that they have some or all of their open data on the Statistics portal, above. Otherwise, I have found no open data for them.
+Where the items in the list below are starred, it indicates that they have some open data on the Statistics portal, above. Otherwise, I have found no open data for them (Mar 2020).
 
 - Accountant in Bankruptcy __*__
 - Disclosure Scotland
@@ -315,7 +321,7 @@ Where the items in the list below are starred, it indicates that they have some 
 Wikipedia also lists Forestry and Land Scotland, _and_ Scottish Forestry but these are dealt with above.
 
 #### Other significant national bodies
-Where the items in the list below are starred, it indicates that they have some or all of their open data on the Statistics portal, above. Otherwise, I have found no open data for them.
+Where the items in the list below are starred, it indicates that they have some open data on the Statistics portal, above. Otherwise, I have found no open data for them (Mar 2020).
 
 - Audit Scotland
 - Converor of School Closures Review Panels
