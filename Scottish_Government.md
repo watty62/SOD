@@ -182,10 +182,12 @@ Where the items in the list below are starred, it indicates that they have some 
 
 | Office| URL| Datasets |Change| Type|
 | :------------- |:-------------| :-----|:---|:---:|
-|Food Standards Scotland|[URL](https://www.foodstandards.gov.scot/publications-and-research/open-data-portal)|12|?|L|
+|Food Standards Scotland (FSS)|[URL](https://www.foodstandards.gov.scot/publications-and-research/open-data-portal)|12|?|L|
 |Office of the Scottish Charity Regulator (OSCR)| [URL](https://www.oscr.org.uk/about-charities/search-the-register/charity-register-download)| 3|?|O|
 |Registers of Scotland (RoS)| [URL](https://www.ros.gov.uk/data-and-statistics)| 4|?|O|
 |Scottish Courts and Tribunals Service SCTS| [URL](https://www.scotcourts.gov.uk/about-the-scottish-court-service/reports-data)| 3|?|O|
+
+#### Notes on the table above. 
 
 _FSS_ has a [new portal](https://www.foodstandards.gov.scot/publications-and-research/open-data-portal) with 12 data sets using OGL3 licence.
 
