@@ -5,9 +5,9 @@ In February 2019 I carried out the first (almost) full analysis of public sector
 
 One year on, in February 2020, I started to repeat the exercise. This time my intention was to go deepeer into organisational structures, look at individual business units of government, and to be even more thorough. That dragged on into March and was interrupted by Covid-19. In August 2020 I picked it up again, updating what I'd done in Spring, and completing the bits I'd not finished.  
 
-For readability, I've split the 2020 data write-ups (currently a work in progress) into individual files as you will see below. 
+For readability, I've split the 2020 data write-ups into individual files as you will see below. 
 
-This was a mamoth task for one individual to undertake. Ignoring the rechecking of spring's work in August, it is at least three week's activity, and it is done in an updaid capacity. 
+This was a mammoth task for one individual to undertake. Ignoring the rechecking of spring's work in August, it is at least three week's activity, and it is done in an updaid capacity. 
 
 Given the effort involved, I've updated the licence attached to this review to a CC-BY-SA one. So, you can quote and reuse any of the material in this, but you must attribute it to me, and you must share any derivative works on the same basis. That seems reasonable. 
 
