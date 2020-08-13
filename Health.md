@@ -36,18 +36,18 @@ There are currently fourteen Health Boards in Scotland. Looking beyond anything 
 - NHS Shetland
 - NHS Tayside
 
-Two health Boards, Borders and Tayside each have Publication Schemes which state "Class 9 - Open Data: We do not publish any information in this class." My understanding is that each have a legal duty to produce a publication scheme, but it is possible the others do so but are silent on Open Data, and therefore not picked up by my search. 
+Two health Boards, _Borders_ and _Tayside_, each have Publication Schemes which state "Class 9 - Open Data: We do not publish any information in this class." My understanding is that each have a legal duty to produce a publication scheme, but it is possible the others do so but are silent on Open Data, and therefore not picked up by my search. 
 
-The Urban Big Data Centre, already covered under [HE](FE.md), publish [one aggregate dataset](http://ubdc.gla.ac.uk/group/71ddf317-ea04-4236-8453-cdefda557d1a?organization=nhs-ggc-safe-haven) for Greater Glasgow and Clyde. 
+The _Urban Big Data Centre_, already covered under [HE](FE.md), publish [one aggregate dataset](http://ubdc.gla.ac.uk/group/71ddf317-ea04-4236-8453-cdefda557d1a?organization=nhs-ggc-safe-haven) for _Greater Glasgow and Clyde HSCP_. 
 
 ### Scottish Joint Health and Social Care Partnerships
 There are 30 Health and Social Care Partnerships (HSCPs) in Scotland. 
 
-Other than Angus HSCP no open data was found for any Partnership. 
+Other than _Angus HSCP_ no open data was found for any Partnership. 
 
 - Aberdeen City HSCP
 - Aberdeenshire HSCP
-- Angus HSCP (__Angus___
+- Angus HSCP (__Angus__)
 - Argyll and Bute HSCP
 - City of Edinburgh HSCP
 - Clackmannanshire and Stirling HSCP
@@ -73,13 +73,13 @@ Other than Angus HSCP no open data was found for any Partnership.
 - Shetland Islands HSCP
 - South Ayrshire HSCP
 - South Lanarkshire HSCP
-- West Dunbartonshire HSCP
+- West Dunbartonshire HSCP (__WD__)
 - West Lothian HSCP
 - Western Isles (Comhairle nan Eilean Siar) HSCP
 
 __Angus__ This partnership publishes a list of [nine maps](https://www.angushscp.scot/mapping/) on their HSCP's mapping platform, making them stand apart from the other 29! It states "Below is a list of maps which are available to view / download. The datasets for these maps will be available via the partnerships (sic) Open Data platform." There is no link to such an OD platform, and licensing of these maps is unclear. They do, however, make nice use of Open Streetmap to dislpay the map data. 
 
-Interestingly West Dunbartonshire have a [publication scheme](http://wdhscp.org.uk/media/1884/wdhscp-board-publication-scheme-oct-17.pdf) which states: 
+__WD__ Interestingly West Dunbartonshire have a [publication scheme](http://wdhscp.org.uk/media/1884/wdhscp-board-publication-scheme-oct-17.pdf) which states: 
 
 > "While West Dunbartonshire Health & Social Care Partnership Board does not itself hold open data sets and their metadata (as these are held by the Council and the Health Board) performance information is routinely published: [http://wdhscp.org.uk/about-us/public-reporting/](http://wdhscp.org.uk/about-us/public-reporting/) " 
 
