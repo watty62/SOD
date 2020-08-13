@@ -37,6 +37,7 @@ The following councils have open data portals - most, if not all, CKAN.
 | Dundee City Council |[URL](https://data.dundeecity.gov.uk/dataset)| ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|56| +5| O|
 | Edinburgh City Council| [URL](https://edinburghopendata.info)| ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|236|+2| O|
 | Glasgow City Council | [URL](http://data.glasgow.gov.uk/)| ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|95 | +6 |O|
+| North Ayrshire Council|[URL](https://maps-north-ayrshire.opendata.arcgis.com)|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|126|+21|O|
 | Perth and Kinross Council|[URL](https://data.pkc.gov.uk/dataset) |![#c5f015](https://placehold.it/15/c5f015/000000?text=+)| 49|+3|O|
 | Stirling Council | [URL](https://data.stirling.gov.uk/dataset)| ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|13| +5| O|
 
@@ -63,7 +64,6 @@ These councils only expose geographical open data using their GIS systems.
 | Council       | URL         | Status| Datasets | Change|Type|
 | :------------- |:-------------| :-----|:------|:----|:----:|
 |Argyll and Bute Council|[URL](https://data-argyll-bute.opendata.arcgis.com/) |![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|33|+2|O|
-|North Ayrshire Council|[URL](https://maps-north-ayrshire.opendata.arcgis.com)|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|126|+21|O|
 |Renfrewshire Council|[URL](http://data-ren.opendata.arcgis.com/search)|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|54|+54|O|
 
 ### None of the above
