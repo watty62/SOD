@@ -4,11 +4,11 @@ The sections below list open data provision by the Scottish Government and its d
 ## News
 12 August 2020
 
-While trying to work out the businuess units within the structure of Scottish Government is a significant challenge in itself, attempting to then establish which have published open data, and what those data sets are, and how they are licensed, is almost an impossible task. If my checking, and arithmetic are right, then of 147 discrete business units, only 27 have published open data and 120 have published none. 
+Trying to work out the business units within the structure of Scottish Government is a significant challenge in itself. Attempting to then establish which have published open data, and what those data sets are, and how they are licensed, is almost an impossible task. If my checking, and arithmetic are right, then of 147 discrete business units, only 27 have published open data and 120 have published none. 
 
 So we can say with some confidence that the issue with findability of data raised in Feb 2019 is unchanged: there being no central portal for open data in the Scottish public sector or even for Scottish Government. Searching the [main Scottish Government website](https://www.gov.scot/) for _open data_ yields 633 results, __none__ of which are links to _data_ on the first four screenfuls.  I didn't go deeper than that. 
 
-It is important to note that the whole of the gov.scot website is covered by an OGL open licence. Sadly this is not true for most of the public sector. 
+It is important to note that the whole of the gov.scot website is covered by an OGL open licence. Sadly this is not true for most of the public sector in Scotland. 
 
 
 ## The Data
