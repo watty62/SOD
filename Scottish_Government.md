@@ -24,7 +24,7 @@ Data is broken into three types - APIs, open data, and linked open data.
 
 ## Main Scottish Government Statistics Portal
 
-The Scottish Government's Statistics have a very good portal with 295 Data Sets from multiple organisational-providers. This is up by 46 datasets on last year and includes a new organisation: The Care Inspectorate. The figures below are from Mar 2020 and total 286 which was correct at that point. 
+The Scottish Government's Statistics have a very good portal with 295 Data Sets from multiple organisational-providers. This is up by 46 datasets on last year and includes a two new organisations: The Care Inspectorate and Registers of Scotland. The latter, so far, has no datasets on the portal. 
 
 I've heard numerous comments from people who find the interface challenging but there are some very helpful [guides provided](https://guides.statistics.gov.scot). 
 
@@ -33,16 +33,17 @@ I've heard numerous comments from people who find the interface challenging but 
 | :------------- |:-------------| :-----:|:----|:----|
 |Accountant in Bankruptcy|[URL](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdef%2Fconcept%2Ffolders%2Forganisations%2Faccountant-in-bankruptcy) |3|-|L|
 |Care Inspectorate|[URL](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdef%2Fconcept%2Ffolders%2Forganisations%2Fcare-inspectorate) |3|+3|L|
-|National Records of Scotland|[URL](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdef%2Fconcept%2Ffolders%2Forganisations%2Fnational-records-of-scotland) |26|-|L|
-|NHS Information Services Division|[URL](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdef%2Fconcept%2Ffolders%2Forganisations%2Fnhs-information-services-division) |33|+5|L|
+|National Records of Scotland|[URL](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdef%2Fconcept%2Ffolders%2Forganisations%2Fnational-records-of-scotland) |29|+3|L|
+|NHS Information Services Division|[URL](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdef%2Fconcept%2Ffolders%2Forganisations%2Fnhs-information-services-division) |36|+8|L|
+|Registers of Scotland|[URL](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdef%2Fconcept%2Ffolders%2Forganisations%2Fregisters-of-scotland) |0|-|L|
 |Revenue Scotland|[URL](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdef%2Fconcept%2Ffolders%2Forganisations%2Frevenue-scotland) |3|+1|L|
 |Scottish Fire and rescue Servcive|[URL](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdef%2Fconcept%2Ffolders%2Forganisations%2Fscottish-fire-and-rescue-service) |1|-|L|
-|Scottish Government|[URL](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdef%2Fconcept%2Ffolders%2Forganisations%2Fscottish-government) |171|+5|L|
+|Scottish Government|[URL](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdef%2Fconcept%2Ffolders%2Forganisations%2Fscottish-government) |191|+25|L|
 |Scottish Natural Heritage|[URL](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdef%2Fconcept%2Ffolders%2Forganisations%2Fscottish-natural-heritage) |2|-|O|
 |SEPA|[URL](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdef%2Fconcept%2Ffolders%2Forganisations%2Fsepa) |1|-|O|
 |Transport Scotland|[URL](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdef%2Fconcept%2Ffolders%2Forganisations%2Ftransport-scotland) |8|-|O|
 |Visit Scotland|[URL](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdef%2Fconcept%2Ffolders%2Forganisations%2Fvisitscotland) |6|-|O|
-|All|[URL](https://statistics.gov.scot/data_home) |286|+38|O|
+|All|[URL](https://statistics.gov.scot/data_home) |295|+46|O|
 
  - [The Scottish Spatial Data Infrastructure](http://spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/home). This is a metadata repository for Inspire data, but does not publish open data.
 - Scottish Indices of Multiple Deprivation: [map](http://simd.scot/2016/#/simd2016/BTTTFTT/9/-4.0000/55.9000/) and Data is on the Statistics Portal mentioned above, specifically [here](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Fscottish-index-of-multiple-deprivation)
