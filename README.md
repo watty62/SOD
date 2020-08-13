@@ -77,20 +77,6 @@ There is no significant change across the sector. The vast majority of instition
 
 But I could identify none of that. Overall, this was very disappointing. 
 
---- 
-
-## Others of note
-
-This is a great piece of work by ALISS supported by [Rory Giani](http://twitter.com/digitalwestie):
-
-| Organisation      | URL       | Type |
-| :------------- |:-------------|:------:|
-|ALISS| [http://docs.aliss.org](http://docs.aliss.org) |A|
-
-## Background
-
-I first created this review in 2019 to support a series of [blog posts](https://codethecity.org/category/open-data/) I am creating about open data in Scotland. 
-
 ---
 ## Errors and Ommissions
 If you spot an error - or missing data - please fork this repo and submit a pull request. 

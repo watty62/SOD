@@ -40,6 +40,8 @@ Two health Boards, _Borders_ and _Tayside_, each have Publication Schemes which 
 
 The _Urban Big Data Centre_, already covered under [HE](FE.md), publish [one aggregate dataset](http://ubdc.gla.ac.uk/group/71ddf317-ea04-4236-8453-cdefda557d1a?organization=nhs-ggc-safe-haven) for _Greater Glasgow and Clyde HSCP_. 
 
+--- 
+
 ### Scottish Joint Health and Social Care Partnerships
 There are 30 Health and Social Care Partnerships (HSCPs) in Scotland. 
 
@@ -86,10 +88,20 @@ __WD__ Interestingly West Dunbartonshire have a [publication scheme](http://wdhs
 This takes us, inter alia, to [this report](http://wdhscp.org.uk/media/2326/wdhscp-quarterly-performance-report-qtrs-3-and-4-2019-20.pdf) which is jammed with performance data that would be really useful as open data, were it not bound up in tables and charts in a PDF! 
 
 ---
+
+### Others of note
+
+This is a great piece of work by ALISS supported by [Rory Giani](http://twitter.com/digitalwestie):
+
+| Organisation      | URL       | Type |
+| :------------- |:-------------|:------:|
+|ALISS| [http://docs.aliss.org](http://docs.aliss.org) |A|
+
+--- 
 ## Errors and Ommissions
 If you spot an error - or missing data - please fork this repo and submit a pull request. 
 
-Alternatively email me [ian_at_codethecity_dot_org](mailto:ian@codethecity.org) with an update. 
+Alternatively email me [ian@codethecity.org](mailto:ian@codethecity.org) with an update. 
 ---
 
 [Back](README.md) to the main 2020 review. 

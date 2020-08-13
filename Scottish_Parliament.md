@@ -23,7 +23,7 @@ As noted in 2019, Bob Taylor has created some captivating visualisations with th
 ## Errors and Ommissions
 If you spot an error - or missing data - please fork this repo and submit a pull request. 
 
-Alternatively email me at [mailto: ian_at_codethecity_dot_org](mailto:ian@codethecity.org) with an update. 
+Alternatively email me at [ian@codethecity.org](mailto:ian@codethecity.org) with an update. 
 
 ---
 
