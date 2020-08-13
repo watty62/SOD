@@ -85,6 +85,9 @@ The following authorities still have no open data provision that I can find.
 
 (*) Despite Inverclyde publishing an [update](https://www.inverclyde.gov.uk/meetings/documents/12041/Policy%20&%20Resources%20PUBLIC.pdf) in March 2019 (Page 3 of Appendix 1) saying that its implementation of an Open Data strategy is 'Complete' I could find no open data anywhere.
 
+---
+## Reuse of website content
+The lack of open data is a major obstacle to innovation and gets in the way of social and economic benefits that OD should deliver. Without well formatted and licenced open data it is necessary to scrape content from websites. This can only be done when the website owners allow it through clear terms of use and licensing. While the Scottish Government permit content re-use, 30 of 32 local authorities do not. I've have updated a survey of the [use of OGL licensing](OGL_content.md) by Scottish Local Authorities. It also shows a lack of adherence to ROPSI legislation too. 
 
 ---
 
