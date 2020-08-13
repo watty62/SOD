@@ -193,7 +193,7 @@ _FSS_ has a [new portal](https://www.foodstandards.gov.scot/publications-and-res
 
 _OSCR_ allows a download of the [Charity Register data[(https://www.oscr.org.uk/about-charities/search-the-register/charity-register-download), using a OGL3 licence. There are options to download lists of the 300 highest income charities, and of former charities. 
 
-_RoS_ publishes [four sets of data](https://www.ros.gov.uk/data-and-statistics) such as House Price Statistics. It appears to be a mix of commercial and openly licenced data. The [copyright page](https://www.ros.gov.uk/crown-copyright-and-copyright-licences) doesn't help to work out which data sets are OGL licenced.
+_RoS_ publishes [four sets of data](https://www.ros.gov.uk/data-and-statistics) such as House Price Statistics. It appears to be a mix of commercial and openly licenced data. The [copyright page](https://www.ros.gov.uk/crown-copyright-and-copyright-licences) doesn't help to work out which data sets are OGL licenced. Additionally, it should be noted that RoS's INSPIRE Index Polygons were recently released under OGL in place of the previous INSPIRE End User licence.
 
 _SCTS_ produces three sets of reports under [Official Statistics](https://www.scotcourts.gov.uk/about-the-scottish-court-service/reports-data) which begin as web pages, link to a series of PDFs many of which then have links to heavily-locked down XLSX files. Getting at the data, which at least is [OGL3 licenced](https://www.scotcourts.gov.uk/meta/crown-copyright), is a real challenge.
 
