@@ -1,5 +1,4 @@
 # Health
-This page will be updated as the content is reviewed.
 
 ## News
 August 2020
