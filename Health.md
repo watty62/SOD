@@ -105,9 +105,10 @@ This is a great piece of work by ALISS supported by [Rory Giani](http://twitter.
 
 --- 
 ## Errors and Ommissions
-If you spot an error - or missing data - please fork this repo and submit a pull request. 
 
-Alternatively email me [ian@codethecity.org](mailto:ian@codethecity.org) with an update. 
+If you spot an error - or missing data - please fork this repo and submit a pull request, as [four others](https://github.com/watty62/SOD/graphs/contributors) have kindly done!
+
+Alternatively email me at [ian@codethecity.org](mailto:ian@codethecity.org) with an update. 
 ---
 
 [Back](README.md) to the main 2020 review. 

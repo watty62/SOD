@@ -129,7 +129,8 @@ But I could identify none of that.
 ---
 
 ## Errors and Ommissions
-If you spot an error - or missing data - please fork this repo and submit a pull request. 
+
+If you spot an error - or missing data - please fork this repo and submit a pull request, as [four others](https://github.com/watty62/SOD/graphs/contributors) have kindly done!
 
 Alternatively email me at [ian@codethecity.org](mailto:ian@codethecity.org) with an update. 
 

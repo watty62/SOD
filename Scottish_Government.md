@@ -342,7 +342,8 @@ Where the items in the list below are starred, it indicates that they have some 
 
 ---
 ## Errors and Ommissions
-If you spot an error - or missing data - please fork this repo and submit a pull request. 
+
+If you spot an error - or missing data - please fork this repo and submit a pull request, as [four others](https://github.com/watty62/SOD/graphs/contributors) have kindly done!
 
 Alternatively email me [ian@codethecity.org](mailto:ian@codethecity.co.uk) with an update. 
 
