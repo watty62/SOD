@@ -8,7 +8,7 @@ This led me to check the website copyright / licensing of Scottish local authori
 
 
 |Authority| Comments|Ref PSI|Rating|
-|:------|:--------|:-----|
+|:------|:--------|:---:|:-----|
 |[Aberdeen City](https://www.aberdeencity.gov.uk/terms-and-conditions)| Copyright|N|![f03c15](https://placehold.it/15/f03c15/000000?text=+)|
 |[Aberdeenshire](https://www.aberdeenshire.gov.uk/online/re-use-information/)|OGL with permission|N|![ffbf00](https://placehold.it/15/ffbf00/000000?text=+)|
 |[Angus](https://www.angus.gov.uk/terms_and_disclaimer)|Copyright|N|![f03c15](https://placehold.it/15/f03c15/000000?text=+)|
