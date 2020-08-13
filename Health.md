@@ -6,8 +6,14 @@ August 2020
 - None of the fourteen Health Boards publish their own open data, and 
 - only one of the thirty Health and Social Care Partnerships (HSCPs) publish anything resembing open data: _Angus HSCP_. 
 
+### COVID-19 and open data
+I've written [here](https://codethecity.org/2020/03/20/scotlands-covid-19-open-data/) and [there](https://codethecity.org/2020/04/20/you-can-lead-a-horse-to-water-but-covid19-data-must-be-scraped/) about the need for ~~any~~ better open data to help the better public understanding of the situation, and stimulate innovative responses to the crisis. I've not followed that up with a retrospective about what did happen. Perhaps I will in time. 
 
-### NHS Scotland  
+It was clear that the need for open data in CV19 situation caught government and health sector napping. The response was slower than it should have been and patchy, and there are still gaps. People find it difficult to locate data when it is on muliple platforms, spread across Scots Govt, Health and NRS. That is, in a microcosm, one of the real challenges of OD in Scotland. 
+
+With an open [Slack group](https://join.slack.com/t/opendatascotland/shared_invite/zt-gqfyk2m9-OWomyRZhp6H~J5PKEtXaeA) for Open Data Scotland there is a direct channel that data providers could use to engage the open data community on their plans and proposals; and also to sound out what data analysis and dataviz specialists would find useful. That opportunity was not taken and while I was OK in the short term with being used as a conduit to that group, it was neither efficient nor sustainable. My hope is that post [SODU 2020](https://codethecity.org/scottish-open-data-unconference-2020/), and as the next iteration of the Open Gov Scotland plan comes together, we will see better, more frequent _direct_ enagagement with the data community on the outside of Government, and a more porous border altogether. 
+
+## NHS Scotland  
 In addition to the data below, NHS Scotland Information Services Division they have some open data on the Statistics portal which is covered on the review of [Scottish Government](Scottish_Government.md). 
 
 
@@ -18,7 +24,7 @@ There is an open data portal which is developing well, with a growing list of us
 
 --- 
 
-### Scottish Health Boards
+## Scottish Health Boards
 There are currently fourteen Health Boards in Scotland. Looking beyond anything which may appear in the portal above, I found no open data published by any of the fourteen. Some performance data (e.g. Waiting Times) is presented nationally in the portal above. 
 
 - NHS Ayrshire and Arran
@@ -42,7 +48,7 @@ The _Urban Big Data Centre_, already covered under [HE](FE.md), publish [one agg
 
 --- 
 
-### Scottish Joint Health and Social Care Partnerships
+## Scottish Joint Health and Social Care Partnerships
 There are 30 Health and Social Care Partnerships (HSCPs) in Scotland. 
 
 Other than _Angus HSCP_ no open data was found for any Partnership. 
@@ -89,7 +95,7 @@ This takes us, inter alia, to [this report](http://wdhscp.org.uk/media/2326/wdhs
 
 ---
 
-### Others of note
+## Others of note
 
 This is a great piece of work by ALISS supported by [Rory Giani](http://twitter.com/digitalwestie):
 
