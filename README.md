@@ -48,7 +48,13 @@ One highlight was a reminder that the whole of the core [https://gov.scot](gov.s
 --- 
 
 ## Health 
-This review (a work in progress) will be located on [this page](Health.md)
+The review is located on [this page](Health.md)
+
+### Headlines 2020
+
+- The NHS Scotland Open Data platform continues to be developed as a very useful resource. The number of datasets have more than doubled since last year. 
+- None of the fourteen Health Boards publish their own open data, and 
+- only one of the thirty Health and Social Care Partnerships (HSCPs) publish anything resembing open data: _Angus HSCP_. 
 
 --- 
 

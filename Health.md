@@ -2,9 +2,9 @@
 
 ## News
 August 2020
-- The NHS Scotland Open Data platform continues to be developed as a very useful resource. 
+- The NHS Scotland Open Data platform continues to be developed as a very useful resource with a more than doubling of the number of datasets since Feb 2019. 
 - None of the fourteen Health Boards publish their own open data, and 
-- only one of the thirty Health and Social Care Partnerships (HSCPs) publish anything resembing open data: Angus HSCP. 
+- only one of the thirty Health and Social Care Partnerships (HSCPs) publish anything resembing open data: _Angus HSCP_. 
 
 
 ### NHS Scotland  
