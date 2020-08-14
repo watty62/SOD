@@ -1,5 +1,10 @@
 # 2019 Scottish Open Data List
 
+## Important Note - August 2020
+The contents of the file below is frozen as of March 2019. 
+
+If you are looking for an updated survey of Scottish open data please check the [main Readme](README.Md) of this repo. 
+
 ## News
 11 Mar 2019
 Added open procurement and open contracts links below. Hard to find, but these pages do offer good data coverage and are clearly licensed under OGL 3.0
