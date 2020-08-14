@@ -3,7 +3,7 @@
 ## Important Note - August 2020
 The contents of the file below is frozen as of March 2019. 
 
-If you are looking for an updated survey of Scottish open data please check the [main Readme](README.Md) of this repo. 
+If you are looking for an updated survey of Scottish open data please check the [main Readme](https://github.com/watty62/SOD/blob/master/README.md) of this repo. 
 
 ## News
 11 Mar 2019
