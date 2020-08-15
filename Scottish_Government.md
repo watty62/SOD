@@ -47,7 +47,7 @@ I've heard numerous comments from people who find the interface challenging but 
 
  - [The Scottish Spatial Data Infrastructure](http://spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/home). This is a metadata repository for Inspire data, but does not publish open data.
 - Scottish Indices of Multiple Deprivation: [map](http://simd.scot/2016/#/simd2016/BTTTFTT/9/-4.0000/55.9000/) and Data is on the Statistics Portal mentioned above, specifically [here](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Fscottish-index-of-multiple-deprivation)
- - [Spatial Hub](http://www.spatialhub.scot/get-data/) - still has 4 open datasets; __no change on 2019__. And it still (18 months on) has the most annoying pop-up in the whole of the public sector! Why is it SO unique that it needs this of ALL the sites I've looked at? Why won't it disappear when seen once? 
+ - [Spatial Hub](http://www.spatialhub.scot/get-data/) - still has 4 open datasets; __no change on 2019__. 
 
 ## Scottish Government Directorates
 According to [this page](https://www.gov.scot/about/how-government-is-run/directorates/) there are forty-three directorates of the Scottish Government, up from thirty-three at the start of 2019. These are listed below. So far it appears that few produce open data. [Wikipedia](https://en.wikipedia.org/wiki/Directorates_of_the_Scottish_Government), which counts 42 directorates, groups these into Directorates-General but this grouping is not obvious from the SG site. 
