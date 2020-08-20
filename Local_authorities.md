@@ -43,6 +43,7 @@ The following councils have open data portals - most, if not all, CKAN.
 
 Between checking in Feb 2020 and rechecking in Aug 2020, Dundee's number of datasets had shrunk by 8. 
 
+It is worth looking behind the numbers. For example Edinburgh has a health-looking 236 datasets available, which looks great. But the most recently updated one, 
 ### Landing Pages 
 
 The following councils have open landing pages as part of their websites. 
@@ -90,6 +91,10 @@ The following authorities still have no open data provision that I can find.
 The lack of open data is a major obstacle to innovation and gets in the way of social and economic benefits that OD should deliver. Without well formatted and licenced open data it is necessary to scrape content from websites. This can only be done when the website owners allow it through clear terms of use and licensing. While the Scottish Government permit content re-use, 30 of 32 local authorities do not. I've have updated a survey of the [use of OGL licensing](OGL_content.md) by Scottish Local Authorities. It also shows a lack of adherence to ROPSI legislation too. 
 
 ---
+
+## Data Standards
+
+Where common standards exist - such as the 360 Giving standard for the publication of support for charities - organisations should be universally adopting these. Yet this is only used by two of 32 authorities,  all of whom have grant-making services. Surely, during a pandemic especially, it would be advantageous to funders and recipients to know [who is funding which body](https://covidtracker.threesixtygiving.org) to deliver what project? 
 
 ## Errors and Ommissions
 
