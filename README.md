@@ -11,7 +11,7 @@ This was a mammoth task for one individual to undertake. Ignoring the rechecking
 
 Given the effort involved, I've updated the licence attached to this review to a CC-BY-SA one. So, you can quote and reuse any of the material in this, but you must attribute it to me, and you must share any derivative works on the same basis. That seems reasonable. 
 
-A blog post summarising this will be published soon. 
+I published a [full blog post](http://codethecity.org/2020/08/20/ten-years-after/) on this on 20 Aug 2020. 
 
 ------
 
